@@ -14,8 +14,18 @@ operators.
 - Python ≥3.11, managed by **uv**. Never call `pip` directly. Use:
   - `uv sync --all-extras --group dev` to install
   - `uv run <cmd>` to run anything (tests, CLI, scripts)
+- `uv.lock` **is committed**. Use `uv sync --frozen` for reproducible installs and
+  `uv lock --upgrade` (`make lock`) to bump on purpose.
+- `make help` lists everything. Run `make lint && make test` before committing.
 - Lint/format: **ruff** (`uv run ruff check`, `uv run ruff format`). Types: mypy.
 - Tests: `uv run pytest`. CLI: `uv run redferro --help`.
+
+## Testing rules
+- **The whole suite must run offline.** Never add a test that hits `ideadif.adif.es` or
+  downloads a Declaración PDF; build synthetic fixtures instead (see `tests/conftest.py`).
+- The one permitted network touch is DuckDB installing its `spatial` extension. Tests
+  needing it take the `duck` fixture, which skips when it is unavailable.
+- When fixing a bug, first write the test that fails against the unfixed code.
 
 ## Architecture (src layout, package `redferro`)
 - `sources/ideadif_wfs.py` — downloads INSPIRE feature types from the IDEAdif WFS.
@@ -42,6 +52,14 @@ operators.
 - Habilitaciones are **not open data** at driver level (licencia = AESF;
   certificado = empresa ferroviaria). Populate `habilitacion_*` tables from an
   internal source if available, else reconstruct from the catálogo de líneas.
+
+## Known gap (do not paper over)
+`load_snapshot_gpkg` does not yet populate `tramo.nodo_ini`/`nodo_fin`, `linea_id` or
+`pk_*` — those names need a real IDEAdif fetch to inspect. Consequences: the
+habilitación graph is **edgeless by construction**, `v_red_mercancias` is empty, and the
+synthetic `tramo_id`/`dep_id` are not stable across snapshots. Tracked as
+`TODO(ideadif-mapping)` in `db/duckdb_io.py` with the mapping table in
+`docs/data-sources.md` §1. Fill it from real data, don't guess.
 
 ## When unsure
 Prefer adding a documented `TODO` and capturing raw data over silently guessing a

@@ -10,8 +10,8 @@ operadores alternativos de mercancías).
 
 ```bash
 # 1. instalar (uv gestiona el entorno)
-uv sync --all-extras --group dev
-uv run pre-commit install
+make install                         # = uv sync --all-extras --group dev
+make hooks                           # = uv run pre-commit install
 
 # 2. descargar la foto actual de la red + construir la base
 uv run redferro network fetch        # -> data/raw/ideadif_<fecha>.gpkg
@@ -22,7 +22,18 @@ uv run redferro map                  # -> data/processed/network_map.html
 uv run redferro hab graph --as-of 2024-01-01
 ```
 
+`make help` lista el resto (`lint`, `fmt`, `test`, `build`, `lock`).
+
 > Los pasos que tocan la red necesitan acceso a `ideadif.adif.es`.
+> El resto —incluido todo el test suite— funciona sin conexión.
+
+### Entorno reproducible
+`uv.lock` **se versiona** (esto es un repo de análisis, no una librería):
+
+```bash
+uv sync --frozen        # instala exactamente lo bloqueado
+make lock               # uv lock --upgrade, para subir versiones a propósito
+```
 
 ## Estructura
 
@@ -51,6 +62,18 @@ docs/data-sources.md   detalle de fuentes, endpoints y limitaciones
 - **Habilitaciones:** no son datos abiertos; el esquema admite carga interna o
   reconstrucción desde el catálogo. Ver `docs/data-sources.md`.
 - **Store:** DuckDB + extensión spatial (ligero, analítico, SQL espacial).
+
+## Estado actual (limitaciones conocidas)
+El andamiaje está completo y verificado, pero **la ingesta real de atributos IDEAdif
+está pendiente** porque requiere inspeccionar una descarga real. Hasta entonces:
+
+- `tramo.nodo_ini` / `nodo_fin` no se rellenan ⇒ `redferro hab graph` devuelve un grafo
+  **sin aristas** por construcción.
+- `tramo_id` / `dep_id` se sintetizan del orden de filas del GeoPackage ⇒ **no son
+  estables entre descargas**, lo que rompería el panel temporal.
+- La tabla `linea` no se puebla ⇒ la vista `v_red_mercancias` sale vacía.
+
+Ver el `TODO(ideadif-mapping)` en `db/duckdb_io.py` y `docs/data-sources.md` §1.
 
 ## Integración con Claude Code
 Ver `CLAUDE.md`. Extensión recomendada `anthropic.claude-code` en

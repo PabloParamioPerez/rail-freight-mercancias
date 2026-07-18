@@ -20,8 +20,20 @@ Feature types (INSPIRE, Anexo I – Transport Networks):
   histórico real se toma de la Declaración sobre la Red.
 - Ejemplo GetFeature:
   `…/services/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=TN.RailTransportNetwork.RailwayLink&srsName=EPSG:25830&outputFormat=application/json`
-- **Pendiente en la primera descarga real:** inspeccionar los nombres de atributos
-  reales (número de línea, PK, estado) y mapearlos en `db/duckdb_io.py`.
+### Pendiente en la primera descarga real
+Inspeccionar los nombres de atributos reales y mapearlos en `load_snapshot_gpkg`
+(`db/duckdb_io.py`, marcado `TODO(ideadif-mapping)`). Concretamente:
+
+| destino | origen esperado en IDEAdif | por qué importa |
+|---|---|---|
+| `tramo_id`, `dep_id` | id estable INSPIRE (`inspireId` / `gml_id`) | hoy se sintetizan del orden de filas ⇒ **no estables entre snapshots**, el panel temporal no casa |
+| `linea_id` | nº de línea del tramo | sin esto la tabla `linea` no se puebla y `v_red_mercancias` sale vacía |
+| `nodo_ini`, `nodo_fin` | startNode / endNode del RailwayLink | **la adyacencia del grafo depende de esto**; sin ellos `build_dependency_graph` no produce aristas |
+| `pk_ini`, `pk_fin` | PK inicial/final | para cruzar con el catálogo de líneas |
+| `dependencia.nombre` | nombre de la estación/nodo | legibilidad de los mapas |
+
+Mientras tanto el loader es deliberadamente mínimo: captura geometría y fecha, y deja
+el resto en NULL en vez de adivinar el layout (ver `CLAUDE.md`).
 
 ## 2. Declaración sobre la Red (Adif) — backbone temporal
 - Portal: https://www.adif.es/sobre-adif/declaracion-red
