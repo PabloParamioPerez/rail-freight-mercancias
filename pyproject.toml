@@ -5,25 +5,24 @@ description = "Datos brutos, mapas y grafo de habilitaciones de la red ferroviar
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "Pablo" }]
+authors = [{ name = "Pablo Paramio" }]
 
 dependencies = [
     # OGC / geodata
     "geopandas>=1.0",
     "shapely>=2.0",
     "pyogrio>=0.9",          # fast vector IO (GeoPackage, GML, GeoJSON)
-    "owslib>=0.31",          # WFS/WMS/CSW capabilities parsing
     "requests>=2.32",
     "pyproj>=3.6",
     # store + analysis
     "duckdb>=1.1",           # analytical DB; spatial extension loaded at runtime
     "pandas>=2.2",
+    "pyarrow>=17",           # parquet engine for the interim declaracion dumps
     "networkx>=3.3",         # dependency graph over habilitacion units
     # declaracion de red PDFs
     "pdfplumber>=0.11",      # table extraction from the Catalogo de Lineas
     # viz
     "folium>=0.17",
-    "matplotlib>=3.9",
     # config
     "pydantic>=2.8",
     "pydantic-settings>=2.4",
@@ -32,7 +31,10 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-viz-extra = ["lonboard>=0.10", "keplergl>=0.3"]  # heavier interactive maps, optional
+# Heavier interactive maps, optional. keplergl was dropped: it ships sdist-only, so uv has
+# to run a Node/JS widget build (plus jupyter_packaging) just to read its metadata, and it
+# drags in jupyter/jupyterlab. lonboard covers the same ground with a real wheel.
+viz-extra = ["lonboard>=0.16"]
 
 [project.scripts]
 redferro = "redferro.cli:app"

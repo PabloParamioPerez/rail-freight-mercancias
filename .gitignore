@@ -7,9 +7,11 @@ __pycache__/
 .pytest_cache/
 *.egg-info/
 .ipynb_checkpoints/
+dist/
+build/
 
-# uv
-uv.lock  # keep OR commit — see README note; uncomment to ignore
+# uv: uv.lock IS committed (this is an application/analysis repo, not a library).
+# Do not add it here. Use `uv sync --frozen` for reproducible installs.
 
 # Data: keep the tree, ignore heavy/raw contents (use DVC/manual sync)
 data/raw/*
