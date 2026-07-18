@@ -65,6 +65,9 @@ def test_load_snapshot_keeps_both_node_layers_apart(
 
     tipos = dict(duck.execute("SELECT tipo, count(*) FROM dependencia GROUP BY tipo").fetchall())
     assert tipos == {"nodo": 2, "estacion": 2}
+    # stable INSPIRE ids, not row-order counters
+    ids = {r[0] for r in duck.execute("SELECT dep_id FROM dependencia").fetchall()}
+    assert "TN_RailwayNode_80103" in ids
     assert duck.execute("SELECT count(*) FROM tramo").fetchone()[0] == 2
 
 

@@ -21,7 +21,7 @@ def test_settings_paths():
 def test_feature_types():
     from redferro.sources.ideadif_wfs import FEATURE_TYPES
 
-    assert FEATURE_TYPES["railway_link"] == "TN.RailTransportNetwork.RailwayLink"
+    assert FEATURE_TYPES["railway_link"] == "tn-ra:RailwayLink"
 
 
 def test_empty_graph_builds():

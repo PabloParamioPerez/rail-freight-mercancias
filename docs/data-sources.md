@@ -7,33 +7,60 @@
 - **WMS (visualización):** `https://ideadif.adif.es/services/wms`
 - **CSW (metadatos):** `https://ideadif.adif.es/catalog/srv/spa/csw`
 
-Feature types (INSPIRE, Anexo I – Transport Networks):
-| clave | typeName | geometría |
-|---|---|---|
-| railway_link | `TN.RailTransportNetwork.RailwayLink` | LineString (tramos) |
-| railway_node | `TN.RailTransportNetwork.RailwayNode` | Point |
-| railway_station_node | `TN.RailTransportNetwork.RailwayStationNode` | Point (estaciones) |
+Feature types (INSPIRE, Anexo I – Transport Networks). El servicio publica 14 bajo
+el prefijo `tn-ra:` (namespace `urn:x-inspire:specification:gmlas:RailwayTransportNetwork:3.0`).
+Los cinco que usamos, con recuentos reales (descarga 2026-07-18):
 
-- CRS nativo: **EPSG:25830** (ETRS89 / UTM 30N). También 3857 y 4326.
-- **Limitación clave:** es una *foto del estado actual* (versión julio 2024), no un
+| clave | typeName | geometría | features |
+|---|---|---|---|
+| railway_link | `tn-ra:RailwayLink` | LineString (tramos) | 1 689 |
+| railway_node | `tn-ra:RailwayNode` | Point | 3 386 |
+| railway_station_node | `tn-ra:RailwayStationNode` | Point (estaciones) | 2 682 |
+| — | `tn-ra:RailwayLine` | sin geometría | 355 |
+| — | `tn-ra:RailwayUse` | sin geometría | 1 689 |
+
+> ⚠️ Los nombres **no** son `TN.RailTransportNetwork.*` (esa suposición inicial
+> devolvía error); son `tn-ra:*` tal y como los anuncia GetCapabilities.
+
+Hechos comprobados contra el servicio en vivo:
+
+- **No sirve GeoJSON.** Los únicos `outputFormat` anunciados son
+  `application/gml+xml; version=3.2` y `text/xml; subtype=gml/3.2.1`. Pedir
+  `application/json` devuelve `InvalidParameterValue`.
+- **DefaultCRS es EPSG:4258**, no 25830. 25830 sí está entre los `OtherCRS`
+  (junto a 4326, 3857, 3034, 3035) y es el que pedimos, así que la convención de
+  almacenamiento del proyecto se mantiene.
+- **Topología:** `net:startNode` / `net:endNode` son referencias `xlink:href` a
+  URLs GetFeatureById; el id del nodo va en el parámetro `ID=` (¡ojo, hay un
+  `STOREDQUERY_ID=` antes en la misma URL!). GDAL sólo las expone con
+  `GML_ATTRIBUTES_TO_OGR_FIELDS=YES`.
+- **Lectura con GDAL:** el `.gfs` que autogenera declara campos `Untyped` y
+  `*List` que pyogrio no puede representar (`setting an array element with a
+  sequence`). `sources/ideadif_wfs._read_gml` los elimina del esquema y relee.
+- **Identificadores estables:** `inspireId/localId` (`RailwayLink_017100070`,
+  `TN_RailwayNode_80108`). El id del link codifica la línea (`01710`), pero la
+  pertenencia autoritativa viene de las referencias `net:link` de `RailwayLine`.
+- **`tn-ra:use`** (vocabulario de Adif, tal cual): `mixed` 904, `cargo` 402,
+  `pasagens` 138 (sic), 245 tramos sin valor. Se traduce a
+  mercancias/mixto/viajeros al cargar.
+- **Limitación clave:** es una *foto del estado actual* (versionId 2026/01), no un
   archivo histórico. Por eso los snapshots se sellan con la fecha de descarga y el
   histórico real se toma de la Declaración sobre la Red.
 - Ejemplo GetFeature:
-  `…/services/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=TN.RailTransportNetwork.RailwayLink&srsName=EPSG:25830&outputFormat=application/json`
-### Pendiente en la primera descarga real
-Inspeccionar los nombres de atributos reales y mapearlos en `load_snapshot_gpkg`
-(`db/duckdb_io.py`, marcado `TODO(ideadif-mapping)`). Concretamente:
+  `…/services/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=tn-ra:RailwayLink&srsName=EPSG:25830&outputFormat=text/xml;%20subtype=gml/3.2.1`
+### Mapeo de atributos (resuelto en la descarga del 2026-07-18)
 
-| destino | origen esperado en IDEAdif | por qué importa |
+| destino | origen real en IDEAdif | estado |
 |---|---|---|
-| `tramo_id`, `dep_id` | id estable INSPIRE (`inspireId` / `gml_id`) | hoy se sintetizan del orden de filas ⇒ **no estables entre snapshots**, el panel temporal no casa |
-| `linea_id` | nº de línea del tramo | sin esto la tabla `linea` no se puebla y `v_red_mercancias` sale vacía |
-| `nodo_ini`, `nodo_fin` | startNode / endNode del RailwayLink | **la adyacencia del grafo depende de esto**; sin ellos `build_dependency_graph` no produce aristas |
-| `pk_ini`, `pk_fin` | PK inicial/final | para cruzar con el catálogo de líneas |
-| `dependencia.nombre` | nombre de la estación/nodo | legibilidad de los mapas |
+| `tramo_id` | `inspireId/localId` (`RailwayLink_017100070`) | ✅ estable entre snapshots |
+| `dep_id` | `gml_id` (`TN_RailwayNode_80108`) | ✅ es justo lo que resuelven las referencias start/endNode |
+| `nodo_ini`, `nodo_fin` | `net:startNode` / `net:endNode` (`ID=` del href) | ✅ **1 689/1 689 resueltos** |
+| `linea_id`, `nombre` | referencias `net:link` de `tn-ra:RailwayLine` + `gml:name` | ✅ 1 689/1 689 |
+| `uso` | `tn-ra:use` de `tn-ra:RailwayUse` | ✅ 1 444/1 689 (245 sin clasificar en origen) |
+| `dependencia.nombre` | `gml:name` del nodo | ✅ |
+| `pk_ini`, `pk_fin` | — | ❌ **el WFS no los expone**; hay que sacarlos del Catálogo de Líneas (§2) |
 
-Mientras tanto el loader es deliberadamente mínimo: captura geometría y fecha, y deja
-el resto en NULL en vez de adivinar el layout (ver `CLAUDE.md`).
+Lo único que sigue pendiente del WFS son los PK, que no están en el servicio.
 
 ## 2. Declaración sobre la Red (Adif) — backbone temporal
 - Portal: https://www.adif.es/sobre-adif/declaracion-red

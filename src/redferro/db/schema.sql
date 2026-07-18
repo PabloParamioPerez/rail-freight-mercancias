@@ -32,6 +32,7 @@ CREATE TABLE IF NOT EXISTS tramo (
     pk_fin         DOUBLE,
     nodo_ini       VARCHAR,          -- FK -> dependencia.dep_id
     nodo_fin       VARCHAR,
+    uso            VARCHAR,          -- mercancias / viajeros / mixto (from tn-ra:RailwayUse)
     snapshot_date  DATE NOT NULL,    -- WFS fetch date (geometry validity proxy)
     geom           GEOMETRY,
     PRIMARY KEY (tramo_id, snapshot_date)
@@ -95,8 +96,14 @@ CREATE TABLE IF NOT EXISTS habilitacion_linea_maquina (
 -- ---------------------------------------------------------------------------
 -- Convenience view: freight-relevant lines only, most-recent snapshot geometry.
 -- ---------------------------------------------------------------------------
+-- Freight-relevant tramos on the most recent snapshot. Filters on the tramo's own
+-- uso (from tn-ra:RailwayUse) rather than the line's, since Adif classifies per link.
 CREATE OR REPLACE VIEW v_red_mercancias AS
-SELECT l.linea_id, l.anio, l.nombre, l.ancho, l.estado, t.tramo_id, t.geom
-FROM linea l
-JOIN tramo t ON t.linea_id = l.linea_id
-WHERE l.uso IN ('mercancias', 'mixto');
+SELECT t.tramo_id, t.linea_id, l.nombre AS linea_nombre, t.uso,
+       t.nodo_ini, t.nodo_fin, t.snapshot_date, t.geom
+FROM tramo t
+LEFT JOIN linea l
+       ON l.linea_id = t.linea_id
+      AND l.anio = (SELECT max(anio) FROM linea)
+WHERE t.uso IN ('mercancias', 'mixto')
+  AND t.snapshot_date = (SELECT max(snapshot_date) FROM tramo);

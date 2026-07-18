@@ -51,11 +51,16 @@ def hab_graph(
 
 
 @app.command("map")
-def make_map() -> None:
-    """Render the freight network as an interactive HTML map."""
-    from redferro.viz.maps import network_map
+def make_map(
+    freight_only: bool = typer.Option(False, "--freight-only", help="Only cargo/mixto tramos."),
+    as_of: str | None = typer.Option(None, help="ISO date; defaults to the newest snapshot."),
+    theme: str = typer.Option("light", help="light | dark (palette is validated per theme)."),
+) -> None:
+    """Render the network as an interactive HTML map, coloured by uso."""
+    from redferro.viz.maps import freight_map, network_map
 
-    out = network_map()
+    fn = freight_map if freight_only else network_map
+    out = fn(as_of=as_of, theme=theme)
     rprint(f"[green]Map saved:[/] {out}")
 
 

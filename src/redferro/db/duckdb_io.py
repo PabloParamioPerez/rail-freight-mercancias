@@ -26,25 +26,18 @@ def init_schema(con: duckdb.DuckDBPyConnection) -> None:
 
 
 def load_snapshot_gpkg(con: duckdb.DuckDBPyConnection, gpkg: Path) -> None:
-    """Load one stamped IDEAdif GeoPackage into tramo/dependencia tables.
+    """Load one stamped IDEAdif GeoPackage into linea/tramo/dependencia tables.
 
     Reads via geopandas, hands WKB to DuckDB. Re-loading the same snapshot is
     idempotent: rows for the incoming snapshot_date are deleted first.
 
-    TODO(ideadif-mapping): this loader is deliberately minimal until we have seen
-    the real IDEAdif attribute names (they need an actual fetch to inspect — see
-    docs/data-sources.md §1). Three consequences today, all intentional:
+    Identifiers come from INSPIRE `localId` (e.g. RailwayLink_017100070,
+    TN_RailwayNode_80108), so they are stable across fetches and the temporal
+    panel lines up snapshot to snapshot. Topology (nodo_ini/nodo_fin) is resolved
+    upstream in sources.ideadif_wfs from the startNode/endNode xlink references.
 
-      1. `tramo_id` / `dep_id` are synthesised from GeoPackage row order, so they
-         are NOT stable across fetches. A second snapshot renumbers everything,
-         which defeats the temporal-panel premise of the schema. Replace with the
-         real stable feature id (INSPIRE `inspireId` / `gml_id`) once known.
-      2. `linea_id`, `pk_ini`, `pk_fin`, `nodo_ini`, `nodo_fin` and
-         `dependencia.nombre` are all left NULL. Because nodo_ini/nodo_fin drive
-         adjacency, `habilitaciones.graph.build_dependency_graph` is edgeless by
-         construction until they are populated.
-      3. The `linea` table is never written here, so the `v_red_mercancias` view
-         (which joins linea) returns no rows.
+    Adif's `use` vocabulary is mapped onto the schema's Spanish vocabulary:
+    cargo -> mercancias, pasagens (sic) -> viajeros, mixed -> mixto.
     """
     links = gpd.read_file(gpkg, layer="railway_link")
     con.register("links_df", _to_wkb(links))
@@ -56,10 +49,45 @@ def load_snapshot_gpkg(con: duckdb.DuckDBPyConnection, gpkg: Path) -> None:
     )
     con.execute(
         """
-        INSERT INTO tramo (tramo_id, linea_id, snapshot_date, geom)
-        SELECT 'link-' || CAST(_row_no AS VARCHAR), NULL, CAST(snapshot_date AS DATE),
+        INSERT INTO tramo (tramo_id, linea_id, nodo_ini, nodo_fin, uso, snapshot_date, geom)
+        SELECT localId,
+               linea_id,
+               nodo_ini,
+               nodo_fin,
+               CASE uso WHEN 'cargo' THEN 'mercancias'
+                        WHEN 'pasagens' THEN 'viajeros'
+                        WHEN 'mixed' THEN 'mixto'
+                        ELSE uso END,
+               CAST(snapshot_date AS DATE),
                ST_GeomFromWKB(geom_wkb)
         FROM links_df
+        """
+    )
+
+    # linea: one row per (linea, year), derived from the snapshot. A line counts as
+    # freight-relevant if any of its tramos carries cargo; otherwise mixed, else
+    # passenger-only. Aggregated here because Adif classifies use per link, not per line.
+    con.execute(
+        """
+        DELETE FROM linea
+        WHERE anio IN (SELECT DISTINCT year(CAST(snapshot_date AS DATE)) FROM links_df)
+          AND fuente = 'ideadif_wfs'
+        """
+    )
+    con.execute(
+        """
+        INSERT INTO linea (linea_id, anio, nombre, uso, fuente)
+        SELECT linea_id,
+               year(CAST(min(snapshot_date) AS DATE)),
+               max(linea_nombre),
+               CASE WHEN bool_or(uso = 'cargo')    THEN 'mercancias'
+                    WHEN bool_or(uso = 'mixed')    THEN 'mixto'
+                    WHEN bool_or(uso = 'pasagens') THEN 'viajeros'
+                    ELSE NULL END,
+               'ideadif_wfs'
+        FROM links_df
+        WHERE linea_id IS NOT NULL
+        GROUP BY linea_id
         """
     )
     con.unregister("links_df")
@@ -67,8 +95,6 @@ def load_snapshot_gpkg(con: duckdb.DuckDBPyConnection, gpkg: Path) -> None:
     for layer, tipo in (("railway_node", "nodo"), ("railway_station_node", "estacion")):
         gdf = gpd.read_file(gpkg, layer=layer)
         con.register("nodes_df", _to_wkb(gdf))
-        # dep_id must be qualified by layer: both node layers number from 0, so an
-        # unqualified id collides on the (dep_id, snapshot_date) primary key.
         con.execute(
             """
             DELETE FROM dependencia
@@ -77,14 +103,16 @@ def load_snapshot_gpkg(con: duckdb.DuckDBPyConnection, gpkg: Path) -> None:
             """,
             [tipo],
         )
+        # dep_id uses gml_id (TN_RailwayNode_80108), which is exactly what the link
+        # startNode/endNode references resolve to, so tramo joins dependencia directly.
         con.execute(
             """
-            INSERT INTO dependencia (dep_id, tipo, snapshot_date, geom)
-            SELECT ? || '-' || CAST(_row_no AS VARCHAR), ?, CAST(snapshot_date AS DATE),
+            INSERT INTO dependencia (dep_id, nombre, tipo, snapshot_date, geom)
+            SELECT gml_id, name, ?, CAST(snapshot_date AS DATE),
                    ST_GeomFromWKB(geom_wkb)
             FROM nodes_df
             """,
-            [layer, tipo],
+            [tipo],
         )
         con.unregister("nodes_df")
 
