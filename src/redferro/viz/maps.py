@@ -15,7 +15,9 @@ def network_map(gpkg: Path | None = None, out: Path | None = None) -> Path:
     if gpkg is None:
         snaps = sorted(settings.raw.glob("ideadif_*.gpkg"))
         if not snaps:
-            raise FileNotFoundError("No IDEAdif snapshot found. Run `redferro network fetch` first.")
+            raise FileNotFoundError(
+                "No IDEAdif snapshot found. Run `redferro network fetch` first."
+            )
         gpkg = snaps[-1]
 
     links = gpd.read_file(gpkg, layer="railway_link").to_crs(settings.crs_web)

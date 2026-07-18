@@ -15,6 +15,8 @@ therefore stamped with the fetch date so the pipeline can keep a rolling panel.
 from __future__ import annotations
 
 import datetime as dt
+import io
+import tempfile
 from pathlib import Path
 
 import geopandas as gpd
@@ -56,21 +58,24 @@ def fetch_feature_type(
     type_name = FEATURE_TYPES[key]
     srs = srs or settings.crs_storage
 
-    # 1) try GeoJSON
+    # 1) try GeoJSON. Read the raw bytes rather than `r.text`: requests guesses an
+    # encoding for the response body, and a wrong guess mangles the accented station
+    # names this dataset is full of. GDAL reads the JSON's own encoding correctly.
     url, params = _getfeature_url(type_name, srs, "application/json")
     r = requests.get(url, params=params, timeout=timeout)
     if r.ok and r.headers.get("content-type", "").startswith("application/json"):
-        gdf = gpd.read_file(r.text)
+        gdf = gpd.read_file(io.BytesIO(r.content))
         return gdf.set_crs(srs, allow_override=True)
 
-    # 2) fall back to GML
+    # 2) fall back to GML. Uses a private temp dir so a failed parse cannot leave a
+    # stray file behind, and so concurrent fetches never share a path.
     url, params = _getfeature_url(type_name, srs, "text/xml; subtype=gml/3.2.1")
     r = requests.get(url, params=params, timeout=timeout)
     r.raise_for_status()
-    tmp = settings.raw / "_wfs_tmp.gml"
-    tmp.write_bytes(r.content)
-    gdf = gpd.read_file(tmp)
-    tmp.unlink(missing_ok=True)
+    with tempfile.TemporaryDirectory() as tmpdir:
+        tmp = Path(tmpdir) / "wfs.gml"
+        tmp.write_bytes(r.content)
+        gdf = gpd.read_file(tmp)
     return gdf.set_crs(srs, allow_override=True)
 
 

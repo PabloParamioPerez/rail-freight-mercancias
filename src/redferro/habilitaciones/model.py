@@ -10,7 +10,7 @@ from dataclasses import dataclass, field
 class HabilitacionLinea:
     hab_id: str
     descripcion: str
-    tramos: frozenset[str]              # tramo_ids it authorizes
+    tramos: frozenset[str]  # tramo_ids it authorizes
     valid_from: dt.date
     valid_to: dt.date | None = None
     fuente: str = "reconstruida"

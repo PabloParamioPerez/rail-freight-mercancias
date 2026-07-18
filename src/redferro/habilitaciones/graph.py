@@ -30,14 +30,25 @@ def _as_of_clause(as_of: dt.date) -> str:
 
 
 def load_tramo_adjacency(as_of: dt.date) -> dict[str, set[str]]:
-    """tramo_id -> set of dependencia ids it touches (from nodo_ini/nodo_fin)."""
+    """tramo_id -> set of dependencia ids it touches (from nodo_ini/nodo_fin).
+
+    Geometry is a snapshot, not a validity interval, so "as of" means the newest
+    snapshot taken on or before `as_of`.
+
+    TODO(ideadif-mapping): nodo_ini/nodo_fin are never populated by
+    `db.duckdb_io.load_snapshot_gpkg` yet, so every tramo maps to an empty set and
+    `build_dependency_graph` returns an edgeless graph. See the TODO there.
+    """
     con = connect()
     rows = con.execute(
         """
         SELECT tramo_id, nodo_ini, nodo_fin
         FROM tramo
-        WHERE snapshot_date = (SELECT max(snapshot_date) FROM tramo)
-        """
+        WHERE snapshot_date = (
+            SELECT max(snapshot_date) FROM tramo WHERE snapshot_date <= ?
+        )
+        """,
+        [as_of],
     ).fetchall()
     con.close()
     touches: dict[str, set[str]] = {}
