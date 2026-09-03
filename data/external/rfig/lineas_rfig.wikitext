@@ -1,0 +1,1020 @@
+La '''[[Red Ferroviaria de Interés General]]''' es designada por el [[Ministerio de Fomento (España)|Ministerio de Fomento]] en el «Catálogo de líneas y tramos de la Red Ferroviaria de Interés General».<ref name="FOM/710/2015">{{cita publicación|url=https://www.boe.es/boe/dias/2015/04/23/pdfs/BOE-A-2015-4382.pdf|título=Orden FOM/710/2015, de 30 de enero, por la que se aprueba el Catálogo de líneas y tramos de la Red Ferroviaria de Interés General.|fecha=30 de enero de 2015|fecha-publicación=23 de abril de 2015|fechaacceso=16 de diciembre de 2016|autor=[[Ministerio de Fomento (España)|Ministerio de Fomento]].}}</ref><ref>{{cita web|autor=Ministerio de Fomento|título=Red ferroviaria española. Ordenación de líneas|urlarchivo=https://web.archive.org/web/20160303181250/https://sede.fomento.gob.es/NR/rdonlyres/4A8F0821-A4B6-4EB0-9F1C-BF4100B2BF77/68661/Ayuda_lineas_Estaciones.pdf|fechaarchivo=3 de marzo de 2016|url=https://sede.fomento.gob.es/NR/rdonlyres/4A8F0821-A4B6-4EB0-9F1C-BF4100B2BF77/68661/Ayuda_lineas_Estaciones.pdf|fechaacceso=14 de septiembre de 2014}}</ref><ref>{{cita web|autor=Adif|título=Declaración de la red año 2014|url=http://www.adif.es/es_ES/conoceradif/doc/CA_DRed_Anexos.pdf|fechaacceso=14 de septiembre de 2014}}</ref> Se distingue entre líneas de [[ancho internacional]] (también conocidas como de "ancho estándar" o UIC), líneas de [[ancho ibérico]] y líneas de [[ancho métrico]]. 
+
+Todas las líneas se numeran usando un código de tres dígitos y un nombre que fija los dos extremos del trazado, siendo el primer dígito en las líneas de ancho estándar un cero. El Ministerio de Fomento, en su catálogo de líneas, añade dos dígitos delante de esta codificación que permiten identificar el eje al que corresponden.<ref name="FOM/710/2015" />
+
+La administración de las líneas de la RFIG corresponde a [[Adif]], excepto los tramos de [[Alta velocidad ferroviaria en España|alta velocidad]], que corresponden a [[Adif-Alta Velocidad]], mientras que el tramo español de la [[Línea de alta velocidad Figueras-Perpiñán|LAV Figueras-Perpiñán]] es titularidad de [[Línea Figueras Perpignan|LFP]]. Las redes ferroviarias en los puertos de interés general también forman parte de la RFIG y son, junto con sus accesos, titularidad de las correspondientes [[Autoridad Portuaria|Autoridades Portuarias]] conjuntamente con Adif.
+
+==Líneas de la red ferroviaria==
+A continuación están listadas las líneas de la [[Red Ferroviaria de Interés General]] cuya titularidad corresponde a [[Adif]], Adif Alta Velocidad o [[TP Ferro]]. Las líneas en itálica y gris actualmente no forman parte de la RFIG, pero formaban parte en el pasado o está previsto que formen parte en el futuro.
+
+{| class="wikitable sortable col1der col2izq col3der col4izq"
+| align="center" style="background:#f0f0f0;"|'''Número'''
+| align="center" style="background:#f0f0f0;"|'''Línea'''
+| align="center" style="background:#f0f0f0;"|'''Longitud'''
+| align="center" style="background:#f0f0f0;"|'''Ancho'''
+| align="center" style="background:#f0f0f0;"|'''Observaciones'''
+|-
+| 010||[[Línea de alta velocidad Madrid-Sevilla|Madrid-Puerta de Atocha-Almudena Grandes a Sevilla-Santa Justa]]||470,5 km
+|Estándar||Administrada por ADIF AV
+|-style="font-style: italic; color: grey"
+| 012||Madrid-Puerta de Atocha-Almudena Grandes a Cambiador Atocha||1,3 km
+| Estándar||Administrada por ADIF AV. Desmontada
+|-
+| 014||Bifurcación Gobantes a Bifurcación Bobadilla||9,0 km
+| Estándar||Administrada por ADIF AV
+|-
+| 016||Majarabique a Cambiador Majarabique||2,0 km
+| Estándar||Administrada por ADIF AV
+|-
+| 018||Bifurcación Cerro Negro/Santa Catalina - CTT Cerro Negro-Alta Velocidad||0,3 km
+| Estándar||Administrada por ADIF AV
+|-
+| 020||[[Línea de alta velocidad La Sagra-Toledo|La Sagra a Toledo]]||21,4 km
+| Estándar||Administrada por ADIF AV
+|-
+| 022||Cambiador Alcolea a Bifurcación Cambiador Alcolea||0,7 km
+| Estándar||Administrada por ADIF AV
+|-
+| 024||Yeles-aguja km 34,397 a Bifurcación Los Blancales||5,7 km
+| Estándar||Administrada por ADIF AV
+|-
+| 026||[[Línea de alta velocidad Madrid-Extremadura|Plasencia a Bifurcación San Nicolás]]||175,3 km
+| Ibérico||Administrada por ADIF AV
+|-
+| 030||[[Línea de alta velocidad Córdoba-Málaga|Bifurcación Málaga-Alta Velocidad a Málaga-María Zambrano]]||154,5 km
+| Estándar||Administrada por ADIF AV
+|-
+| 032||Antequera-Santa Ana a Cambiador Antequera||0,4 km
+| Estándar||Administrada por ADIF AV
+|-
+| 036||''[[Línea de alta velocidad Antequera-Granada|Antequera-Santa Ana a Granada]]''||125,7 km
+| Estándar||Administrada por ADIF AV
+|-
+| 040||[[Línea de alta velocidad Madrid-Levante|Madrid-Chamartín-Clara Campoamor a Valencia-Joaquín Sorolla]]||397,6 km
+| Estándar||Administrada por ADIF AV
+|-
+| 042||[[Línea de alta velocidad Madrid-Levante|Bifurcación Albacete a Alicante-Terminal]]||237,8 km
+| Estándar||Administrada por ADIF AV
+|-
+| 044||[[Línea de alta velocidad Madrid-Levante|Bifurcación Jesús a Bifurcación Joaquín Sorolla UIC]]||0,5 km
+| Estándar||Administrada por ADIF AV
+|-
+| 046||[[Línea de alta velocidad Madrid-Levante|Bifurcación Murcia a El Reguerón-Aguja km 522,1]]||52 km
+| Estándar||Administrada por ADIF AV
+|-
+| 048||Bifurcación Vinalopó a Monforte del Cid AV||2,1 km
+| Estándar||Administrada por ADIF AV
+|-
+| 050||[[Línea de alta velocidad Madrid-Zaragoza-Barcelona-Frontera francesa|Límite ADIF-LFPSA a Madrid-Puerta de Atocha-Almudena Grandes]]||752,4 km
+| Estándar||Administrada por ADIF AV
+|-
+| 052||Cambiador de Plasencia de Jalón a Bifurcación Cambiador Plasencia de Jalón||3,8 km
+| Estándar||Administrada por ADIF AV
+|-
+| 054||[[Línea de alta velocidad Madrid-Zaragoza-Barcelona-Frontera francesa|Bifurcación Moncasi a Bifurcación Canal Imperial]]||25,9 km
+| Estándar||Administrada por ADIF AV
+|-
+| 056||[[Línea de alta velocidad Madrid-Zaragoza-Barcelona-Frontera francesa|Bifurcación Artesa de Lérida a Bifurcación Les Torres de Sanui]]||16,5 km
+| Estándar||Administrada por ADIF AV
+|-style="font-style: italic; color: grey"
+| 058||Cambiador Lérida a Bifurcación Cambiador Lérida||0,5 km
+| Estándar||Desmontada
+|-
+| 060||Bifurcación Cambiador Zaragoza-Delicias a Cambiador Zaragoza-Delicias||0,4 km
+| Estándar||Administrada por ADIF AV
+|-style="font-style: italic; color: grey"
+| 064||[[Línea Roda de Barà-Reus|Bifurcación Cambiador Roda a Roda de Bará-Cambiador de Ancho]]||1,8 km
+| Estándar||Desmontada
+|-
+| 066||Bifurcación Can Tunis-Alta Velocidad a Can Tunis-Alta Velocidad||0,2 km
+| Estándar||Administrada por ADIF AV
+|-
+| 068||Vallecas-Alta Velocidad-aguja km 12,300 a Los Gavilanes-aguja km 13,400||5,6 km
+| Estándar||Administrada por ADIF AV
+|-
+| 070||[[Línea_de_alta_velocidad_Madrid-Zaragoza-Barcelona-Frontera_francesa#Zaragoza-Huesca|Bifurcación Huesca a Huesca]]||78,9 km
+| Estándar, mixto||Una vía con ancho 1435 mm y otra con ancho 1668mm hasta Tardienta, ancho mixto 1435/1668 mm entre Tardienta y Huesca
+|-
+| 072||CTT de Fuencarral Alta Velocidad a Cambiador Madrid-Chamartín||0,1 km
+| Estándar||Administrada por ADIF AV
+|-style="font-style: italic; color: grey"
+| 074||[[Línea Villalba-Segovia-Medina del Campo|Cambiador de Medina del Campo a Olmedo AV-aguja km 133,9]]||19,9 km
+| Mixto||15,47 km de ancho mixto. Administrada por Adif AV. Ya no forma parte de la RFIG.
+|-style="font-style: italic; color: grey"
+| 076||Cambiador Valdestillas a Bifurcación Cambiador de Valdestillas||1,0 km
+| Estándar||Administrada por ADIF AV. Fuera de servicio desde 2022.
+|-style="font-style: italic; color: grey"
+| 078||Cambiador Valladolid-Campo Grande a Valladolid-Campo Grande||0,9 km
+| Estándar||Administrada por ADIF AV. Fuera de servicio desde 2015.
+|-
+| 080||[[LAV Madrid-Valladolid|Burgos-Rosa Manzano a Madrid-Chamartín-Clara Campoamor]]||304,0 km
+| Estándar||Administrada por ADIF AV
+|- 
+| 082||[[Línea de alta velocidad Olmedo-Zamora-Galicia|Bifurcación Grandeira aguja km 85,0 a Bifurcación Coto de la Torre]]||84,0 km
+| Ibérico||
+|-
+| 084||[[Línea de alta velocidad Valladolid-Palencia-León|León a Bifurcación Venta de Baños]]||127,9 km
+| Estándar||Administrada por ADIF AV
+|-
+| 100||[[Línea Madrid-Hendaya|Hendaya a Madrid-Chamartín-Clara Campoamor]]||640,9 km
+| Ibérico||25 km administrados por ADIF AV desde Hendaya hasta Hernani
+|-
+| 102||[[Ferrocarril directo Madrid-Burgos|Bifurcación Aranda a Madrid-Chamartín-Clara Campoamor]]||280,6 km
+| Ibérico||Suspendida la circulación de servicios comerciales entre Manzanares-Soto del Real y Aranda de Duero-Montecillo.
+|-
+| 104||[[Línea Cantoblanco-Alcobendas/San Sebastián de los Reyes|Alcobendas-San Sebastián de los Reyes a Universidad de Cantoblanco]]||6,9 km
+| Ibérico||
+|-
+| 106||[[Línea Madrid-Hendaya|Hendaya a Irún]]||2,2 km
+| Ibérico||
+|-
+| 108||[[Línea Valladolid-Ariza|Complejo Ferroviario de Mercancías de Valladolid-aguja a La Carrera]]||2,0 km
+| Ibérico||
+|-
+| 110||[[Línea Villalba-Segovia-Medina del Campo|Segovia a Villalba de Guadarrama]]||62,7 km
+| Ibérico||
+|-
+| 112||Valladolid-Campo Grande a Valladolid-Argales||4,3 km
+| Ibérico||
+|-
+| 114||Complejo Ferroviario de Mercancías de Valladolid a Bifurcación Canal del Duero||8,0 km
+| Mixto||Ancho mixto 1435/1668 mm
+|-
+| 116||[[Línea C-9 (Cercanías Madrid) - Ferrocarril Eléctrico del Guadarrama|Los Cotos a Cercedilla]]||18,1 km
+| Métrico||Ancho 1000 mm
+|-
+| 120||[[Línea Medina del Campo-Vilar Formoso|Villar Formoso a Medina del Campo]]||201,0 km
+| Ibérico||
+|-
+| 122||[[Línea Ávila-Salamanca|Salamanca a Ávila]]||111,1 km
+| Ibérico||
+|-
+| 124||[[Línea Plasencia-Astorga|Salamanca a Valdunciel]]||12,4 km
+| Ibérico||Tramo de la línea Palazuelo - Astorga que se mantuvo abierto para servicio de la planta de llenado de bombonas de gas existente en la estación de Valdunciel, la cual fue cerrada en 1998. Sin circulaciones desde esa fecha. El tramo ha sido parcialmente desmantelado en 2025.
+|-style="font-style: italic; color: grey"
+| 126||Aranda de Duero-Montecillo a Aranda de Duero-Chelva||1,8 km
+| Ibérico||Conexión entre el ferrocarril [[Línea Valladolid-Ariza|Valladolid-Ariza]] y el [[Línea Madrid-Burgos|directo de Burgos]]. Desmontada.
+|-
+|128
+|Burgos-Aguja kilómetro 374,2 a Cambiador de Burgos
+|0,1 km
+|Ibérico
+|
+|-
+| 130||[[Línea Venta de Baños-Gijón|Gijón-Sanz Crespo a Venta de Baños]]||306,1 km
+| Ibérico||25,7 km administrados por ADIF AV desde La Robla hasta León.
+|-
+| 132||[[Línea Venta de Baños-Gijón|Bifurcación Tudela-Veguín a Ablaña]]||5,3 km
+| Ibérico||Variante de la línea 130 vía Olloniego.
+|-
+| 134||[[Línea Venta de Baños-Gijón|León Clasificación a Bifurcación León Clasificación]]||1,3 km
+| Ibérico||
+|-
+| 136||Cambiador de Burgos a Burgos-Rosa Manzano||0,6 km
+| Estándar||Administrada por ADIF AV
+|-
+| 138||Bifurcación Galicia a Bifurcación Asturias||0,9 km
+| Ibérico||
+|-
+| 140||[[Línea Soto de Rey-El Entrego|Bifurcación Tudela Veguín a El Entrego]]||21,5 km
+| Ibérico||
+|-
+| 142||Soto de Rey a Bifurcación Olloniego||2,3 km
+| Ibérico||
+|-
+| 144||[[Línea Villabona de Asturias-San Juan de Nieva|San Juan de Nieva a Villabona de Asturias]]||20,8 km
+| Ibérico||
+|-
+| 146||Bifurcación Viella a Bifurcación Peña Rubia||0,5 km
+| Ibérico||
+|-
+| 148||Trasona a Nubledo||5,7 km
+| Ibérico||Acceso [[Puerto de Avilés]], [[ArcelorMittal|Arcelor Mittal]]
+|-
+| 150||Aboño a Serín||9,0 km
+| Ibérico||
+|-
+| 152||Gijón-Puerto (El Musel) a Veriña||4,6 km
+| Ibérico||Acceso [[Puerto de El Musel]]
+|-
+| 154||[[Línea Lugo de Llanera-Tudela Veguín|Lugo de Llanera a Tudela-Veguín]]||14,1 km
+| Ibérico||
+|-
+| 156||Bifurcación Villamuriel de Cerrato a Cambiador Villamuriel||1,3 km
+| Ibérico||
+|-
+| 158||Cambiador Villamuriel a Bifurcación Cerrato||1,8 km
+| Estándar||Administrada por ADIF AV
+|-
+| 160||[[Línea Palencia-Santander|Santander a Palencia]]||217,2 km
+| Ibérico||
+|-
+| 162||Solvay-Factoría a Sierrapando||5,7 km
+| Ibérico||
+|-
+| 164||Palencia-Arroyo Villalobón a Magaz||7,5 km
+| Ibérico||Conexión entre [[Línea Venta de Baños-Gijón|Venta de Baños-Gijón]] y [[Línea Madrid-Hendaya|Madrid-Hendaya]]
+|-
+| 166||Bifurcación Rubena a Villafría||3,7 km
+| Ibérico||
+|-
+| 168||Villafría a Bifurcación Rubena-aguja km 377,3||3,5 km
+| Ibérico||
+|-
+| 170||Bifurcación Soto a Bifurcación Cerrato||0,7 km
+| Estándar||Administrada por ADIF AV
+|-
+| 172||Cambiador Madrid-Chamartín a Madrid-Chamartín-Clara Campoamor||0,7 km
+| Ibérico||
+|-
+| 174||[[Línea Villalba-Segovia-Medina del Campo|Medina del Campo a Cambiador Medina del Campo]]||2,1 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 176||Valdestillas a Cambiador Valdestillas||0,8 km
+| Ibérico||Fuera de servicio desde 2022
+|-style="font-style: italic; color: grey"
+| 178||Valladolid aguja km 250,2 a Cambiador Valladolid-Campo Grande||0,6 km
+| Ibérico||Desmontada desde 2015
+|-
+| 180||Bifurcación Estadio Municipal a Cambiador Clasificación||0,4 km
+| Estándar||Administrada por ADIF AV
+|-
+| 182||Cambiador Clasificación a Bifurcación Clasificación||0,4 km
+| Ibérico||
+|-
+| 184||Bifurcación Río Bernesga a Cambiador Vilecha||0,7 km
+| Ibérico||
+|-
+| 186||Cambiador Vilecha a Bifurcación Cambiador Vilecha||0,6 km
+| Estándar||Administrada por ADIF AV
+|-
+| 188||Cambiador de Medina AV a Bifurcación Arroyo de La Golosa||3,0 km
+| Ibérico||
+|-
+| 190||Medina AV a Cambiador de Medina AV||1,1 km
+| Estándar||Administrada por ADIF AV
+|-
+|192
+|Río Pisuerga a Complejo Ferroviario de Mercancías de Valladolid-aguja
+|13,7 km
+|Ibérico
+|
+|-
+| 200||[[Línea Madrid-Barcelona|Madrid-Chamartín-Clara Campoamor a Barcelona-Estació de França]]||699,7 km
+| Ibérico||
+|-
+| 202||[[Línea 202 de Adif|Torralba a Soria]]||103,6 km
+| Ibérico|| Redefinida en el 2015, anteriormente definida como «[[Línea Torralba-Castejón|Torralba-Castejón de Ebro]]».
+|-
+| 204||[[Línea Zaragoza-Canfranc|Bifurcación Canfranc a Canfranc]]||138,5 km
+| Ibérico||
+|-
+| 206||[[Línea Lérida-Puebla de Segur|Lérida-Pirineos a Puebla de Segur]]|| 1,9 km 
+| Ibérico||El tramo restante de 87,9 km ha sido traspasado a la [[Generalidad de Cataluña]]. Forma parte de la RFIG hasta el p.k. 1,927.
+|-
+| 208||San Juan de Mozarrifar a San Gregorio||3,5 km
+| Ibérico||
+|-
+| 210||[[Línea Miraflores-Tarragona|Miraflores a Sant Vicente de Calders]]||275,9 km
+| Ibérico||
+|-
+| 212||Hoya de Huesca-aguja km 2,3 a Bifurcación Hoya de Huesca||1,7 km
+| Ibérico||
+|-
+| 214||CIM de Zaragoza a La Cartuja||25,5 km
+| Ibérico||
+|-
+| 216||Bifurcación Plaza-aguja km 1,4 a Bifurcación Plaza-aguja km 8,7||2,0 km
+| Ibérico||
+|-
+| 218||Bifurcación Plaza a Zaragoza-Plaza||4,5 km
+| Ibérico||
+|-
+| 220||[[Línea Lérida-Hospitalet|Lérida Pirineos a Bifurcación Vilanova]]||181,7 km
+| Ibérico||
+|-
+| 222||[[Línea Moncada-La Tour de Carol|Torre de Querol-Enveitg a Bifurcación Aguas]]||149,7 km
+| Ibérico||
+|-
+| 224||Cerdanyola Universidad a Cerdanyola del Vallés||3,6 km
+| Ibérico||Conexión entre [[Línea Barcelona-Manresa-Cervera-Lérida-Zaragoza|Barcelona-Lérida]] y el [[Línea Castellbisbal / El Papiol-Mollet|ramal del Vallés]]
+|-
+| 230||[[La Plana-Picamoixons a Reus|Plana-Picamoixons a Reus]]||20,8 km
+| Ibérico||
+|-
+| 234||[[Línea Roda de Barà-Reus|Reus a Constantí]]||31,2 km
+| Ibérico||
+|-
+| 238||[[Línea El Morrot-Can Tunis-Castellbisbal|Castellbisbal-Agujas Llobregat a Barcelona-Morrot]]||22,4 km
+| Mixto||Ancho mixto 1435/1668 mm
+|-
+| 240||[[Línea Barcelona-Martorell-Villafranca-Tarragona|San Vicente de Calders a Hospitalet de Llobregat]]||71,0 km
+| Ibérico||
+|-
+| 242||[[Martorell-Seat a Aguja km 71,185]]||2,5 km
+| Ibérico||
+|-
+| 244||Aguja km 70,477 a Aguja km 0,500||0,5 km
+| Ibérico||
+|-
+| 246||[[Línea Castellbisbal / El Papiol-Mollet|Mollet-San Fausto a Castellbisbal-Agujas Rubí]]||27,3 km
+| Mixto||Ancho mixto 1435/1668 mm
+|-style="font-style: italic; color: grey"
+| 248||[[Línea Castellbisbal / El Papiol-Mollet|Bifurcación Rubí a Aguja km 4,014]]||1,9 km
+| Ibérico||Desmontada
+|-
+| 250||Bellvitge-aguja km 674,8 a Hospitalet||1,7 km
+| Ibérico||
+|-
+| 254||Aeropuerto a Prat de Llobregat||6,7 km
+| Ibérico||
+|-
+| 260||[[Figueras-Vilafan a Vilamalla|Figueras-Vilafant a Vilamalla]]||6,4 km
+| Mixto||Ancho mixto 1435/1668 mm
+|-style="font-style: italic; color: grey"
+|''262''||''[[Bifurcación Sagrera a Bifurcación Clot|Bifurcación Glorias a Bifurcación Clot]]''||''0,5 km''
+| Ibérico||''Tramo que ya no forma parte de la RFIG, por integración de ambas bifurcaciones en una sola bifurcación con el nombre de Glorias-Clot, en las líneas 200 y 276''
+|-
+| 270||[[Línea Barcelona-Cerbère|Cerbère a Bifurcación Aragó]]<nowiki/>[[Línea Barcelona-Cerbère|n]]||162,1 km
+| Ibérico, mixto||41,2 km de ancho mixto 1435/1668mm entre Vilamalla y Gerona-Mercaderies
+|-
+| 272||[[Bifurcación Gerona Mercancías a Gerona Mercancías]]||1,8 km
+| Ibérico||Desmontada
+|-
+| 274||[[Línea Barcelona-Cerbère|Cerbère a Port-Bou]]||2,2 km
+| Ibérico||
+|-
+| 276||[[Línea Barcelona-Mataró-Massanet-Massanas|Massanet-Massanas a Hospitalet de Llobregat]]||85,1 km
+| Ibérico||
+|-
+| 278||[[La Llagosta a Bifurcación nudo de Mollet]]||2,3 km
+| Mixto||Ancho mixto 1435/1668 mm
+|-
+| 280||[[Bifurcación Mollet a Bifurcación nudo de Mollet]]||2,5 km
+| Estándar||Administrada por ADIF AV
+|-
+| 282||[[Cambiador Plasencia de Jalón a Cambiador Plasencia-aguja km 308,6]]||1,4 km
+| Ibérico||
+|-
+| 284||CIM-aguja km 337,1 a CIM-aguja km 0,7||0,6 km
+| Ibérico||
+|-
+| 286||La Cartuja-aguja km 23,3 a La Cartuja-aguja km 351,1||1,1 km
+| Ibérico||
+|-
+| 288||Miraflores-aguja km 345,6 a Miraflores-aguja km 0,9||0,9 km
+| Ibérico||
+|-
+| 290||CIM-aguja km 337,1 a Cambiador Zaragoza-Delicias||0,3 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 292||Montmeló-aguja km 127,4 a Aguja km 641,5||
+| Ibérico||Desmontada
+|-style="font-style: italic; color: grey"
+| 294||[[Línea Reus-Roda de Bará|Roda de Bará-Cambiador de Ancho a Roda de Bará]]||0,2 km
+| Ibérico||Fuera de servicio
+|-style="font-style: italic; color: grey"
+| 296||Aguja km 645,0 a Montmeló-aguja km 129,0||
+| Ibérico||Desmontada
+|-
+| 298||Gerona-Mercancías a Bifurcación Gerona-Mercancías||0,6 km
+| Estándar||Administrada por ADIF AV
+|-
+| 300||[[Línea Madrid-Valencia|Madrid-Chamartín-Clara Campoamor a Valencia-Estación del Norte]]||480,6 km
+| Ibérico||Vía Madrid Sol y Alcázar de San Juan 
+|-
+| 302||[[Línea Aguja km 146,1-Alcázar de San Juan|Aguja km 146,1 a Alcázar de San Juan]]||2,0 km
+| Ibérico||Vía Clasificación
+|-
+| 304||[[Alfafar-Benetússer a València-Font de Sant Luis-aguja km 1,3]]||4,8 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 306||San Vicente de Raspeig a San Vicente de Raspeig-aguja km 448,7||2,3 km
+| Ibérico||Desmontada
+|-
+| 308||Albacete-Los Llanos a Cambiador Albacete||0,5 km
+| Estándar||Administrada por ADIF AV
+|-
+| 310||[[Línea Aranjuez-Valencia|Aranjuez a Valencia-Fuente de San Luis]]||353,9 km
+| Ibérico||Vía Cuenca. Suspendida la circulación de servicios comerciales entre Tarancón y Utiel.
+|-
+| 312||[[Línea Castillejo Añover-Algodor|Castillejo-Añover a Algodor]]||11,4 km
+| Ibérico||Antes Castillejo-Añover a Toledo
+|-
+| 314||[[Línea Chirivella-Valencia San Isidro|Chirivella-El Alter a Valencia-San Isidro]]||1,9 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 316||[[Ramal Pinto-San Martín de la Vega|Pinto a San Martín de la Vega]]||15,4 km
+| Ibérico||Fuera de servicio y desmontada parcialmente
+|-
+| 318||Cambiador Albacete a Albacete-aguja km 279,4||0,3 km
+| Ibérico||
+|-
+| 320||[[Línea Chinchilla-Cartagena|Chinchilla de Montearagón-aguja km 298,4 a Murcia del Carmen]]||146,2 km
+| Ibérico||
+|-
+| 322||[[Línea Murcia-Águilas|Águilas a Murcia-Cargas]]||111,6 km
+| Ibérico||
+|-
+| 324||Aguja km 0,8 a Cartagena||0,6 km
+| Ibérico||Administrada por ADIF AV
+|-
+| 326||[[Línea Cartagena-Escombreras|Aguja km 523,2 a Dársena de Escombreras]]||11,4 km
+| Ibérico||
+|-
+| 328||Valencia-Alta Velocidad-aguja km 396,7 a Cambiador Valencia||0,1 km
+| Estándar||Administrada por ADIF AV
+|-
+| 330||[[Línea La Encina-Alicante|La Encina a Alicante-Terminal]]||78,3 km
+| Ibérico||
+|-
+| 332||La Encina-Aguja km 3 a Caudete||5,9 km
+| Ibérico||Triángulo de La Encina
+|-style="font-style: italic; color: grey"
+| 334||[[Línea San Gabriel-Alicante Benalúa|San Gabriel a Alicante-Benalúa]]||1,7 km
+| Ibérico|| Fuera de servicio desde 2020.
+|-
+| 336||[[Línea Murcia-Alicante|El Reguerón-aguja km 525,3 a Alicante-Terminal]]||73,7 km
+| Ibérico||
+|-
+| 338||Cambiador Valencia a Valencia-Joaquín Sorolla||0,5 km
+| Ibérico||
+|-
+| 340||[[Línea Madrid-Valencia|Mogente a Bifurcación Mogente]]||0,5 km
+| Ibérico||
+|-
+| 342||[[Línea Játiva-Alcoy|Alcoy a Játiva]]||63,7 km
+| Ibérico||
+|-
+| 344||[[Línea Gandía-Silla|Gandía a Silla]]||50,8 km
+| Ibérico||
+|-
+| 346||[[Línea Gandía-Gandía Puerto|Gandía-Puerto a Gandía-Mercancías]]||2,9 km
+| Ibérico||
+|-
+| 348||[[Ford a Silla]]||4,4 km
+| Ibérico||
+|-
+| 350||[[Bifurcación Benalúa a Bifurcación Alicante]]||2,2 km
+| Ibérico||
+|-
+| 352||El Reguerón-aguja km 522,1 a Cartagena||58 km
+| Ibérico||Administrado por ADIF AV
+|-
+| 354||El Reguerón-aguja km 522,1 a Murcia del Carmen||3,2 km
+| Mixto||Administrado por ADIF AV. Ancho mixto 1668/1435 mm
+|-
+| 360||[[Línea Cartagena-Los Nietos|Cartagena Plaza Bastarreche a Los Nietos]]||19,6 km
+| Métrico||Ancho 1000 mm. Perteneció a FEVE
+|-
+| 400||[[Línea Alcázar de San Juan-Cádiz|Alcázar de San Juan a Cádiz]]||576,9 km
+| Ibérico||
+|-
+| 402||[[Línea Espeluy-Jaén|Espeluy-aguja km 340,1 a Jaén]]||32,8 km
+| Ibérico||
+|-
+| 404||[[Espeluy-aguja km 338,8 a Espeluy-aguja km 150,5]]||0,9 km
+| Ibérico||Triángulo de Espeluy
+|-
+| 406||[[Línea Las Aletas-Universidad|Las Aletas a Universidad de Cádiz (apeadero)]]||2,4 km
+| Ibérico||
+|-
+| 408||Alcolea-aguja km 431,9 a Cambiador Alcolea||0,4 km
+| Ibérico||
+|-
+| 410||[[Línea Linares Baeza-Almería|Linares-Baeza a Almería]]||240,8 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 412||[[línea Huéneja-Dólar a Minas del Marquesado|Minas del Marquesado a Huéneja-Dólar]]||14,4 km
+| Ibérico||Ya no forma parte de la RFIG
+|-
+| 414||Bifurcación Almería a Bifurcación Granada||0,7 km
+| Ibérico||Triángulo de Moreda
+|-
+| 416||[[Línea Moreda-Granada|Moreda a Granada]]||56,7 km
+| Ibérico, Mixto||2,1 km de ancho mixto 1435/1668mm entre Granada-aguja km 54,289 y Granada
+|-
+| 418||Santa Ana-aguja km 50,4 a Santa Ana-aguja km 48,3||2,3 km
+| Ibérico||
+|-
+| 420||[[Línea Bobadilla-Algeciras|Bifurcación Las Maravillas a Algeciras]]||179,6 km
+| Ibérico||
+|-
+| 422||[[Línea Utrera-Fuente de Piedra|Bifurcación Utrera a Fuente de Piedra]]||113,4 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 424||[[Bifurcación Málaga a La Roda de Andalucía]]||8,4 km
+| Ibérico||Desmontada
+|-style="font-style: italic; color: grey"
+| 426||[[Línea Granada-Fuente de Piedra|Granada a Fuente de Piedra]]||130,3
+| Ibérico|| Ya no forma parte de la RFIG. Troceada en las líneas 460 y 464.
+|-
+| 428||Cambiador Antequera a Santa Ana-Aguja km 50,4||0,6 km
+| Ibérico||
+|-
+| 430||[[Línea Córdoba-Málaga|Bifurcación Córdoba-Mercancías a Los Prados]]||188,8 km
+| Ibérico||
+|-
+| 432||[[Línea Córdoba-El Higuerón|Córdoba-Central a El Higuerón]]||6,5 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 434||[[Cambiador Córdoba a Valchillón]]||5,3 km
+| Ibérico||Fuera de servicio desde 2015.
+|-
+| 436||[[Línea Málaga-Fuengirola|Fuengirola a Málaga-Centro Alameda (apeadero)]]||30,8 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 438||Huelva Mercancías a Puerto de Huelva||6 km
+| Ibérico||Integrada en la red ferroviaria del Puerto de Huelva
+|-
+| 440||[[Línea Sevilla-Huelva|Bifurcación Los Naranjos a Huelva]]||109,1 km
+| Ibérico||
+|-
+| 442||[[Cambiador Majarabique a Bifurcación Los Naranjos]]||1,8 km
+| Ibérico||
+|-
+| 444||[[Línea Bifurcación Tamarguillo-La Salud|Bifurcación Tamarguillo a La Salud]]||11,5 km
+| Ibérico||
+|-
+| 446||[[Línea bifurcación La Cartuja-La Cartuja|Bifurcación La Cartuja a La Cartuja]]||2,2 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 448||Bifurcación San Jerónimo a Bifurcación Los Naranjos||0,8 km
+| Ibérico||Desmontada
+|-
+| 450||Bifurcación La Negrilla a Bifurcación San Bernardo||0,6 km
+| Ibérico||
+|-
+| 452||[[Puerto de Sevilla]] a La Salud||5,4 km
+| Ibérico||
+|-
+| 454||Cambiador Majarabique a Bifurcación San Jerónimo||1,4 km
+| Ibérico||
+|-
+| 456||La Salud-aguja km 6,2 a La Salud-aguja km 10,2||0,8 km
+| Ibérico||
+|-
+| 458||Majarabique-Estación a Bifurcación San Jerónimo||1,8 km
+| Ibérico||
+|-
+| 460||[[Línea Fuente de Piedra-Granada|Bifurcación Las Maravillas a Fuente de Piedra]]||11,8 km
+| Ibérico||
+|-
+| 464||[[Línea Fuente de Piedra-Granada|Bifurcación Tocón a Bifurcación La Chana]]||32,5 km
+| Ibérico||
+|-
+|466
+|[[Línea Granada-Fuente de Piedra|Bifurcación Riofrío a Antequera]]
+|44,0 km
+|Ibérico
+|
+|-
+|468
+|[[Línea Granada-Fuente de Piedra|Bifurcación Las Maravillas a Antequera AV]]
+|12,7 km
+|Ibérico
+|
+|-
+|490
+|Granada-aguja km 53,273 a Cambiador de Granada
+|0,4 km
+|Ibérico
+|
+|-
+|492
+|Cambiador de Granada a Granada-aguja km 54,289
+|0,6 km
+|Estándar
+|
+|-
+| 500||[[Línea Madrid-Valencia de Alcántara|Bifurcación Planetario a Bifurcación Casa de la Torre]]||322,7 km
+| Ibérico||Vía Villaverde Bajo. 73,2 km administrados por ADIF AV desde Monfragüe hasta Bifurcación Casa de la Torre
+|-
+| 502||[[Línea Madrid-Valencia de Alcántara|Cáceres a km 428,5 (frontera)]]||105,8 km
+| Ibérico||
+|-
+| 504||[[Línea Villaluenga-Algodor|Villaluenga-Yuncler a Algodor]]||16,8 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 506||Asland a Aguja km 5,7||1,2 km
+| Ibérico||No figura en la RFIG
+|-
+| 508||[[Línea Ciudad Real-Badajoz|Badajoz a km 517,6 (frontera)]]||5,3 km
+| Ibérico||Conexión con la [[Línea del Este]].
+|-
+| 510||[[Línea Aljucén-Cáceres|Bifurcación Granja Las Encinas a Aljucén]]||1,5 km
+| Ibérico||Administrada por ADIF AV. Antes Aljucén a Cáceres
+|-
+| 512||[[Línea Zafra-Huelva|Zafra a Huelva-Cargas]]||180,9 km
+| Ibérico||
+|-
+| 514||[[Línea Zafra-Jerez de los Caballeros|Zafra a Jerez de los Caballeros]]||46,7 km
+| Ibérico||
+|-
+| 516||[[Línea Mérida-Los Rosales|Mérida a Los Rosales]]||14,2 km
+| Ibérico||
+|-
+| 518||Cáceres-aguja km 82,2 a Bifurcación Romanos||4,2 km
+| Ibérico||
+|-
+| 520||[[Línea Ciudad Real-Badajoz|Ciudad Real a Badajoz]]||336,7 km
+| Ibérico||59,3 km administrados por ADIF AV desde Mérida hasta Badajoz
+|-
+| 522||[[Línea Manzanares-Ciudad Real|Manzanares a Ciudad Real]]||64,5 km
+| Ibérico||
+|-
+| 524||Ciudad Real-Miguelturra a Bifurcación Poblete||1,9 km
+| Ibérico||Triángulo de Ciudad Real
+|-style="font-style: italic; color: grey"
+| 526||[[Línea Puertollano-Puertollano Refinería|Puertollano a Puertollano-Refinería]]||7,4 km
+| Ibérico|| Ya no forma parte de la RFIG.
+|-
+| 528||[[Línea Córdoba-Almorchón|Almorchón a Mirabueno]]||130,1 km
+| Ibérico||
+|-
+| 530||[[Línea Plasencia-Astorga|Monfragüe a Bifurcación El Chaparral]]||6,6 km
+| Ibérico||Administrada por ADIF AV
+|-
+| 532||Monfragüe-aguja km 255,4 a Monfragüe-aguja km 4,4||2,7 km
+| Ibérico||Administrada por ADIF AV
+|-
+| 534||[[Línea Plasencia-Astorga|Bifurcación El Chaparral a Arroyo de la Herrera]]||2,7 km
+| Ibérico||Administrada por ADIF AV
+|-
+| 536||[[Línea Plasencia-Astorga|Bifurcación San Esteban a Bifurcación El Chaparral]]||2,6 km
+| Ibérico||Administrada por ADIF AV
+|-
+| 600||[[Línea Valencia-San Vicente Calders|Valencia-Estación del Norte a Cambiador de La Boella]]||254,1 km
+| Ibérico, mixto||Administrada por ADIF AV. 73 km de ancho mixto 1435/1668mm desde Bifurcación Joaquín Sorolla UIC hasta Castelló de la Plana.
+|-
+| 602||València-Font de Sant Luis-aguja km 2,3 a Valencia-Puerto Norte||0,9 km
+| Ibérico||
+|-
+| 604||Les Palmes a [[Puerto de Castellón]]||6,8 km
+| Ibérico||
+|-
+| 606||[[València-Font de Sant Luis-aguja km 1,3 a Valencia-Puerto Sur]]||2,3 km
+| Ibérico||
+|-
+| 608||[[Clasificación-València-Font de Sant Luis a València-Font de Sant Luis-aguja km 1,6]]||0,8 km
+| Ibérico||
+|-
+| 610||[[Línea Zaragoza-Sagunto|Sagunt a Bifurcación Teruel]]||314,5 km
+| Ibérico||
+|-
+| 612||[[Sagunt-aguja km 28,3 a Sagunt-aguja km 268,8]]||0,6 km
+| Ibérico||
+|-
+| 614||[[València-aguja estación Alta Velocidad a Valencia-Joaquín Sorolla]]||0,7 km
+| Ibérico||
+|-
+| 620||[[Tortosa a L'Aldea-Amposta-Tortosa]]||13,1 km
+| Ibérico||
+|-
+| 622||[[Aguja-Clasificación km 272,0 a Tarragona-Classificació]]||1,1 km
+| Ibérico||
+|-
+| 624||[[Aguja-Clasificación km 100,4 a Tarragona]]||3,1 km
+| Ibérico||
+|-
+|630
+|Salou-Port Aventura a Tarragona
+|10 km
+|Ibérico
+|
+|-
+| 632||Bifurcación La Feredat a bifurcación Vilaseca||1,5 km
+| Ibérico||Administrada por ADIF AV. Conexión de la línea València-Camp de Tarragona con la línea Lérida-Tarragona
+|-
+| 640||Cambiador de La Boella a Camp de Tarragona||12,2 km
+| Estándar||Administrada por ADIF AV
+|-
+| 700||[[Línea 700 de Adif|Intermodal Abando Indalecio Prieto a Casetas]]||233,8 km
+| Ibérico||
+|-
+| 702||[[Cabañas de Ebro a Grisén]]||6,0 km
+| Ibérico||
+|-
+| 704||Bifurcación Rioja a Bifurcación Castilla||1,6 km
+| Ibérico||
+|-
+| 710||[[Línea Castejón de Ebro-Alsasua|Altsasu a Castejón de Ebro]]||139,2 km
+| Ibérico||
+|-
+| 712||Bifurcación km 534,0 a Bifurcación km 231,5 (Altsasu-Pueblo)||2,5 km
+| Ibérico||
+|-
+| 720||[[Línea Bilbao-Santurce|Santurtzi a Intermodal Abando Indalecio Prieto]]||13,6 km
+| Ibérico||En proceso de retirada de la RFIG tras la finalización de la [[Variante sur ferroviaria de mercancías de Bilbao|VSF]].<ref name=":0">{{Obra citada|título=Real Decreto 368/2024, de 9 de abril, de traspaso a la Comunidad Autónoma del País Vasco de las funciones de la Administración del Estado correspondientes a los servicios de transporte de viajeros por ferrocarril de cercanías|apellidos=Ministerio de Política Territorial y Memoria Democrática|url=https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-7807|fechaacceso=|fecha=2024-04-19|número=Real Decreto 368/2024|páginas=43979–43985}}</ref>
+|-
+| 722||[[Muskiz a Desertu-Barakaldo]]||13,0 km
+| Ibérico||En proceso de retirada de la RFIG tras la finalización de la [[Variante sur ferroviaria de mercancías de Bilbao|VSF]].<ref name=":0" />
+|-
+| 724||Bilbao-Mercancías a Santurtzi||3,3 km
+| Ibérico||En proceso de retirada de la RFIG tras la finalización de la [[Variante sur ferroviaria de mercancías de Bilbao|VSF]].<ref name=":0" />
+|-
+| 726||[[d:Q133679536|Bifurcación La Casilla a Aguja de enlace]]||2,8 km
+| Ibérico||
+|-
+| 740||[[Ferrocarril de Ferrol a Gijón|Pravia a Ferrol]]||269,0 km
+| Métrico||Perteneció a FEVE
+|-
+| 750||[[Ferrocarril de Ferrol a Gijón|Gijón-Sanz Crespo a Pravia]]||29,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 752||[[Ferrocarril de Langreo|Laviana a Gijón-Sanz Crespo]]||29,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 754||Sotiello a Puerto [[El Musel]]||2,0 km
+|Métrico
+|Conexión con la 752. Perteneció a FEVE
+|-
+| 756||Aguja Enlace Sotiello a Aguja Enlace Veriña||0,7 km
+|Métrico
+|Conexión entre las líneas 754 y [[Ferrocarril de Ferrol a Gijón|750]]. Perteneció a FEVE
+|-
+| 758||[[Estación de La Maruca|La Maruca Mercancías]] a [[Puerto de Avilés]]||2,0 km
+|Métrico
+|Conexión con la 750. Perteneció a FEVE
+|-
+| 760||[[Línea Oviedo-Trubia|Oviedo a Trubia]]||12,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 762||[[Sociedad General de Ferrocarriles Vasco Asturiana|Trubia a San Esteban de Pravia]]||29,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 764||[[Sociedad General de Ferrocarriles Vasco Asturiana|Trubia a Collanzo]]||55,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 770||[[Línea Santander-Oviedo|Santander a Oviedo]]||216,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 772||[[Línea Orejo-Liérganes|Liérganes a Orejo]]||10,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 774||[[Maliaño La Vidriera a Puerto de Raos]]||2,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 776||[[Línea Llovio-Ribadesella Puerto|Ribadesella Puerto a Llovio]]||3,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 780||[[Línea Santander-Bilbao|Bilbao Concordia a Santander]]||110,0 km
+|Métrico
+|Perteneció a FEVE
+|-style="font-style: italic; color: grey"
+| 782||[[Línea Basurto Hospital-Ariz|Ariz a Basurto Hospital]]||8,0 km
+|Métrico
+|Retirada de la RFIG, titularidad traspasada al [[País Vasco]].<ref name="PV">{{cita web|url=https://www.boe.es/boe/dias/2018/12/14/pdfs/BOE-A-2018-17061.pdf|título=Resolución de 10 de diciembre de 2018, de la Secretaría General de Infraestructuras, por la que se publica el Acuerdo del Consejo de Ministros de 7 de diciembre de 2018, por el que se traspasan a la Comunidad Autónoma del País Vasco las líneas ferroviarias Basurto Hospital-Ariz e Irauregi-Lutxana-Barakaldo|fecha=14 de diciembre de 2018|publicación=[[Boletín Oficial del Estado|BOE]]|número=301|páginas=122610-122622|autor=[[Ministerio de Fomento]]}}</ref>Perteneció a FEVE
+|-style="font-style: italic; color: grey"
+| 784||[[Línea Luchana-Irauregui|Lutxana-Barakaldo a Irauregui]]||6,0 km
+|Métrico
+|Retirada de la RFIG, titularidad traspasada al País Vasco.<ref name="PV"/>Perteneció a FEVE
+|-
+| 790||[[Ferrocarril de La Robla|Aranguren a Asunción Universidad]]||310,0 km
+|Métrico
+|Tramo Asunción Universidad-León retirado de la RFIG.<ref>{{Cita web|url=https://www.congreso.es/entradap/l14p/e16/e_0163887_n_000.pdf|título=PE Inversiones en linea FEVE Leon hasta Matallana|apellido=López-Bas Valero|nombre=Juan Ignacio|fecha=2021-11-02|publicación=Congreso de los Diputados}}</ref> Perteneció a FEVE
+|-
+| 792||[[Ferrocarril de La Robla|Matallana a La Robla]]||11,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 794||[[Ferrocarril de La Robla|Guardo a Central Térmica de Velilla]]||2,0 km
+|Métrico
+|Perteneció a FEVE
+|-
+| 800||[[Línea León-La Coruña|La Coruña a León-Aguja km 123,6]]||428,2 km
+| Ibérico||
+|-
+| 802||[[Línea Toral de los Vados-Villafranca del Bierzo|Toral de los Vados a Villafranca del Bierzo]]||9,1 km
+| Ibérico||Intransitable desde Cosmos hasta Villafranca del Bierzo
+|-
+| 804||[[Línea Betanzos Infiesta-Ferrol|Betanzos-Infiesta a Ferrol]]||42,8 km
+| Ibérico||
+|-
+| 806||[[Línea Plasencia-Astorga|La Bañeza a Astorga]]||21,8 km
+| Ibérico||Intransitable
+|-
+| 810||[[Línea Monforte de Lemos-Redondela|Bifurcación Chapela a Monforte de Lemos]]||177,8 km
+| Ibérico||4,2 km de ADIF AV desde Bifurcación Chapela hasta Redondela
+|-
+| 812||[[Eje Atlántico de Alta Velocidad|Vigo-Guixar a Bifurcación Chapela]]||6,4 km
+| Ibérico||ADIF AV
+|-
+| 814||[[Ramal Internacional de Valença|Guillarey a Valença do Minho]]||7,8 km
+| Ibérico||
+|-
+| 816||[[Ramal Internacional de Valença|Guillarey-aguja km 141,6 a Guillarey-aguja km 0,9]]||1,0 km
+| Ibérico||
+|-
+| 818||[[Eje_Atlántico_de_Alta_Velocidad|Vilagarcía Aurosa a Bifurcación Angueira]]||27,9 km
+| Ibérico||ADIF AV
+|-
+| 820||[[Línea Medina del Campo-Zamora|Zamora-aguja km 233 a Medina del Campo]]||90,2 km
+| Ibérico||
+|-
+| 822||[[Línea Zamora-La Coruña|Bifurcación Valorio a La Coruña]]||436,3 km
+| Ibérico, mixto||14,1 km de ADIF AV y ancho mixto 1435/1668 mm desde Taboadela hasta Ourense
+|-
+| 824||[[Línea Redondela-Santiago de Compostela|Redondela a Santiago de Compostela]]||92,0 km
+| Ibérico||ADIF AV
+|-
+| 826||[[Central térmica de Meirama]] a [[Estación de Cerceda-Meirama|Cerceda-Meirama]]||11,9 km
+| Ibérico||Conexión entre la [[Línea Zamora-La Coruña]] y la [[Central térmica de Meirama]]
+|-
+| 828||Bifurcación San Amaro a Portas||7,6 km
+| Ibérico||
+|-
+| 830||Bifurcación Uxes a Bifurcación San Cristóbal||0,7 km
+| Ibérico||
+|-
+| 832||Aguja km 545,4 a Bifurcación San Diego||0,5 km
+| Ibérico||
+|-
+| 834||La Coruña-San Diego a Bifurcación El Burgo||1,7 km
+| Ibérico||
+|-
+| 836||Bifurcación León a Bifurcación Río Bernesga||3,2 km
+| Ibérico||
+|-
+| 838||Bifurcación Torneros a Bifurcación Quintana||3,1 km
+| Ibérico||
+|-
+| 840||Cerceda-Meirama-aguja km. 0,729 a Meirama-Picardiel||0,5 km
+| Ibérico||
+|-
+| 842||Bifurcación Río Sar a Bifurcación A Grandeira aguja km 376,1||1,1 km
+| Ibérico||
+|-
+| 848||Redondela AV a Bifurcación Redondela AV||1,0 km
+| Ibérico||Administrada por ADIF AV
+|-
+| 850||[[Eje_Atlántico_de_Alta_Velocidad|Vigo-Urzáiz a Bifurcación Arcade]]||17,9 km
+| Ibérico||Administrada por ADIF AV
+|-style="font-style: italic; color: grey"
+|''884''
+|''Bifurcación El Bolón a Cambiador de Zamora''
+|''0,2 km''
+|Ibérico
+|Administrada por ''ADIF AV. Desmontada''
+|-style="font-style: italic; color: grey"
+|''886''
+|''Cambiador de Zamora a Zamora''
+|''0,6 km''
+|Estándar
+|''Ancho 1435 mm. Administrada por ADIF AV. Desmontada''
+|-style="font-style: italic; color: grey"
+|888
+|Pedralba aguja km 112,4 a Cambiador de Pedralba
+|1,1 km
+|Ibérico
+|Administrada por ADIF AV. Fuera de servicio desde 2021
+|-style="font-style: italic; color: grey"
+|890
+|Cambiador de Pedralba a Bifurcación Pedralba
+|4,1 km
+|Estándar
+|Ancho 1435 mm. Administrada por ADIF AV. Fuera de servicio desde 2021
+|-
+|892
+|Cambiador de Taboadela a Taboadela aguja km 446,1
+|0,5 km
+|Estándar
+|Ancho 1435 mm. Administrada por ADIF AV
+|-
+|894
+|Cambiador de Taboadela a Taboadela aguja km 447,1
+|0,5 km
+|Ibérico
+|Administrada por ADIF AV
+|-
+| 900||[[Túnel de la risa|Madrid-Chamartín-Clara Campoamor a Madrid-Atocha Cercanías]]||7,8 km
+| Ibérico||Vía Recoletos
+|-
+| 902||[[Línea Pitis-Hortaleza|Pitis a Hortaleza]]||8,3 km
+| Ibérico||
+|-
+| 904||Bifurcación Fuencarral a Fuencarral-aguja km 4,5||1,7 km
+| Ibérico||
+|-
+| 906||Fuencarral-Complejo a Madrid-Chamartín-Clara Campoamor||1,3 km
+| Ibérico||
+|-
+| 908||[[Línea Hortaleza-Aeropuerto T4|Hortaleza a Aeropuerto T-4]]||5,3 km
+| Mixto||Ancho mixto 1435/1668 mm
+|-
+| 910||[[Línea Atocha-Pinar de las Rozas|Madrid-Atocha Cercanías a Pinar de Las Rozas]]||28,0 km
+| Ibérico||
+|-
+| 912||[[Línea Las Matas-Pinar de las Rozas|Las Matas a Pinar de Las Rozas]]||3,6 km
+| Ibérico||
+|-
+| 914||Bifurcación Chamartín-aguja km 18,6 a Bifurcación Príncipe Pío||0,7 km
+| Ibérico||Vía par
+|-
+| 916||[[Línea Delicias-Santa Catalina|Delicias a Madrid-Santa Catalina]]||4,1 km
+| Ibérico||
+|-
+| 920||[[Línea Móstoles-Parla|Móstoles-El Soto a Parla]]||45,3 km
+| Ibérico||Vía Orcasitas
+|-style="font-style: italic; color: grey"
+| 922||Bifurcación Parla a Parla-Industrial||1,1 km
+| Ibérico||Desmontada
+|-
+|924
+|Bifurcación Chamartín a Bifurcación Príncipe Pío
+|1,3 km
+|Ibérico
+|Vía impar
+|-
+| 930||[[Línea Atocha-San Fernando de Henares|Madrid-Atocha Cercanías a San Fernando de Henares]]||18,3 km
+| Ibérico||
+|-
+| 932||[[Línea Atocha-Santa Catalina|Madrid-Atocha Cercanías a Madrid-Santa Catalina]]||5,4 km
+| Ibérico||
+|-
+| 934||[[Línea Abroñigal-Bifurcación Rebolledo|Madrid-Abroñigal a Bifurcación Rebolledo]]||3,2 km
+| Ibérico||
+|-
+| 936||[[Línea San Cristóbal Industrial-Villaverde Bajo|San Cristóbal Industrial a Villaverde Bajo]]||3,0 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| ''938''||[[Línea Atocha-Entrevías|''Cambiador Atocha a Aguja conexión con línea 932'']]||''3,8 km''
+| ''Ibérico''||Desmontada
+|-
+| 940||[[Línea O'Donnell-Vicálvaro Clasificación|O'Donnell a Vicálvaro-Clasificación]]||4,0 km
+| Ibérico||
+|-
+| 942||[[Línea Villaverde Bajo-Vallecas Industrial|Villaverde Bajo a Vallecas-Industrial]]||7,2 km
+| Ibérico||
+|-
+| 944||[[Línea Vilcálvaro-Vicálvaro Clasificación|Vicálvaro a Bifurcación Vicálvaro-Clasificación]]||5,0 km
+| Ibérico||
+|-
+| 946||[[Línea Santa Catalina-Villaverde Bajo|Madrid-Santa Catalina a Villaverde Bajo]]||1,9 km
+| Ibérico||
+|-
+| 948||[[Línea Vicálvaro Clasificación-Bif. Vicálvaro Clasificación|Vicálvaro-Clasificación a Bifurcación Vicálvaro-Clasificación]]||2,9 km
+| Ibérico||
+|-style="font-style: italic; color: grey"
+| 950||Madrid-Puerta de Atocha-Almudena Grandes a Aguja km 1,4||1,4 km
+| Ibérico||Desmontada en 2009. Hasta 2008 formaba parte de la línea 500
+|-
+| 982||[[Línea de alta velocidad Olmedo-Zamora-Galicia|Taboadela aguja km 234,0 a Bifurcación Medina]]||313,9 km
+| Estándar||Administrada por ADIF AV
+|-
+| 984||[[Línea de alta velocidad León-Asturias|Pola de Lena a Bifurcación Pajares]]||49,3 km
+| Mixto||Ancho mixto 1435/1668 mm. Administrada por ADIF AV
+|-
+| ||[[Línea de alta velocidad Figueras-Perpiñán|Límite ADIF/TP Ferro a Frontera Francesa]]||19,8 km
+| Estándar||Administrada por [[Línea Figueras Perpignan S.A.]]
+|}
+
+Fuente: Declaración sobre la Red 2015 ADIF<ref>{{cita web |url=http://www.adif.es/es_ES/conoceradif/doc/CA_DRed_AnexoH.pdf|título=Catálogo de líneas de la REFIG 2015 de ADIF}}</ref> y ADIF AV<ref>{{cita web |url=http://www.adifaltavelocidad.es/es_ES/conocenos/doc/CA_DRed_Completo.pdf|título= Declaración sobre la Red 2015 ADIF AV}}</ref> y Cuadros de Velocidades Máximas de ADIF
+
+== Redes ferroviarias en puertos de interés general ==
+Forman parte de la RFIG las redes ferroviarias en los siguientes [[Puertos del Estado|Puertos de Interés General]]. La titularidad de estas líneas ferroviarias y de sus conexiones corresponde a ADIF y a la respectiva [[Autoridad Portuaria]].<ref name="FOM/710/2015" />
+* [[Puerto de la bahía de Algeciras]]
+* [[Puerto de Alicante]]
+* [[Puerto de Almería]]
+* [[Puerto de Avilés]]
+* [[Puerto de Barcelona]]
+* [[Puerto de Bilbao]]
+* [[Puerto de la bahía de Cádiz]]
+* [[Puerto de Cartagena]]
+* [[Puerto de Castellón]]
+* [[Puerto de La Coruña]]
+* [[Puerto de Ferrol]] y su ría
+* [[Puerto de Gandía]]
+* [[Puerto de Gijón|Puerto de Gijón-El Musel]]
+* [[Puerto de Huelva]]
+* [[Puerto de Málaga]]
+* [[Puerto de Marín]] y ría de Pontevedra
+* [[Puerto de Pasajes]]
+* [[Puerto de Santander]]
+* [[Puerto de Sevilla]] y su ría
+* [[Puerto de Tarragona]]
+* [[Puerto de Valencia]]
+* [[Puerto de Vigo]] y su ría
+* [[Puerto de Villagarcía de Arosa]]
+
+== Enlaces externos ==
+* [https://www.boe.es/boe/dias/2015/04/23/pdfs/BOE-A-2015-4382.pdf Orden FOM/710/2015, de 30 de enero, por la que se aprueba el Catálogo de líneas y tramos de la Red Ferroviaria de Interés General.]
+* [http://www.adif.es/es_ES/conoceradif/doc/DR-19_V0_DocCompl.pdf Declaración de la red] (2019) de [[Adif]].
+* [http://www.adifaltavelocidad.es/es_ES/conocenos/doc/DR_ADIF_AV_V0_2019_Cap_6_V1.pdf Declaración de la red] (2019) de ADIF Alta Velocidad.
+* [http://www.lfpperthus.com/docs/declaracion-de-red/declaracion-de-red-2019.pdf Declaración de la red] de [[Línea Figueras Perpignan S.A.]] (2019).
+
+== Referencias ==
+{{listaref}}
+
+{{Control de autoridades}}
+[[Categoría:Líneas de ferrocarril en España| ]]
+[[Categoría:Redes ferroviarias]]

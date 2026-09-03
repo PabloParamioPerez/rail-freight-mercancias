@@ -13,22 +13,53 @@ build/
 # uv: uv.lock IS committed (this is an application/analysis repo, not a library).
 # Do not add it here. Use `uv sync --frozen` for reproducible installs.
 
-# Data: keep the tree, ignore heavy/raw contents (use DVC/manual sync)
+# --- Data --------------------------------------------------------------------
+# Default: ignore everything under data/, then re-include (below) the pinned
+# inputs and the small reviewer-facing derived products. See data/README.md for
+# what is tracked, what is regenerated, and how. Reproducibility rule of thumb:
+# an input that cannot be re-fetched byte-identical is committed; anything a
+# `make` target rebuilds deterministically is not.
 data/raw/*
 data/interim/*
 data/processed/*
 data/external/*
 !data/**/.gitkeep
 
-# Outputs
-*.gpkg
+# Heavy, fully regenerable — never committed (redferro.duckdb -> make db).
+# The one pinned .gpkg snapshot is re-included at the bottom.
 *.duckdb
-*.html
+*.gpkg
 maps/
-!docs/**/*.html
 
 # Env / secrets
 .env
 
 # OS / editor
 .DS_Store
+
+# --- Tracked, on purpose (negations must follow every guard above) -----------
+# NOTE: gitignore has no inline comments, so every negation is on its own line.
+# Pinned source inputs that make the pipeline reproducible offline.
+# The exact IDEAdif snapshot (a moving "current" source, so it is archived here):
+!data/raw/ideadif_2026-07-18.gpkg
+# ERATV authorised vehicle types for Spain (user-supplied):
+!data/raw/eratv_spain_authorisations.csv
+# RFIG line numbering wikitext (dir must be re-included before the file within it):
+!data/external/rfig/
+!data/external/rfig/lineas_rfig.wikitext
+
+# Small, reviewer-facing derived products (regenerable via `make lines`):
+!data/processed/lineas.csv
+!data/processed/lineas_estaciones.csv
+!data/processed/lineas_ciudades.csv
+!data/interim/station_municipio.parquet
+
+# Rendered maps (regenerable via `make maps`; committed so a clone is usable):
+!data/processed/network_map.html
+!data/processed/network_map_dark.html
+!data/processed/freight_map.html
+!data/processed/freight_map_dark.html
+!docs/**/*.html
+
+# The 72 MB boundaries file is fetched by checksum (make reference), never committed:
+#   data/external/municipios/georef-spain-municipio.geojson

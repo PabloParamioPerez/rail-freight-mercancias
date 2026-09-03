@@ -1,0 +1,315 @@
+codigo_linea,numero_rfig,nombre,n_estaciones,n_municipios,municipios,provincias
+01000,000,LÍNEAS Y TRAMOS AJENOS AL CUADRO DE VELOCIDADES MÁXIMAS,113,52,Palos de la Frontera > Huelva > Cádiz > Algeciras > San Roque > Sevilla > La Rinconada > Alcalá de Guadaíra > Badajoz > Málaga > Vigo > Pontevedra > A Coruña > Puertollano > Ferrol > Almería > Ponferrada > Águilas > Valladolid > Madrid > Santovenia de Pisuerga > Alcalá de Henares > Torrejón de Ardoz > Oviedo > Siero > Venta de Baños > Villamuriel de Cerrato > Gijón > Cartagena > Carreño > Alguazas > Molina de Segura > Burgos > Alacant > Camargo > Santander > València > Gilet > Sagunt > Santurtzi > Pedrola > Grisén > Andorra > Zaragoza > Samper de Calanda > Zuera > Gurrea de Gállego > Lleida > Balaguer > La Pobla de Segur > L'Hospitalet de Llobregat > Barcelona,Huelva · Cádiz · Sevilla · Badajoz · Málaga · Pontevedra · A Coruña · Ciudad Real · Almería · León · Murcia · Valladolid · Madrid · Asturias · Palencia · Burgos · Alacant · Cantabria · València · Bizkaia · Zaragoza · Teruel · Huesca · Lleida · Barcelona
+01100,100,MADRID-CHAMARTIN-HENDAYA,52,38,Ávila > Herradón de Pinares > Santa María de la Alameda > El Escorial > Las Rozas de Madrid > Collado Villalba > Arévalo > Madrid > Palacios de Goda > Medina del Campo > Valdestillas > Valladolid > Santovenia de Pisuerga > Corcos > Cubillas de Santa Marta > Venta de Baños > Magaz de Pisuerga > Villodrigo > Villalbilla de Burgos > Burgos > Rubena > Briviesca > Pancorbo > Bugedo > Miranda de Ebro > Vitoria-Gasteiz > Agurain > Asparrena > Olazti > Zegama > Altsasu > Legazpi > Zumarraga > Tolosa > Hernani > Donostia > Lezo > Irun,Ávila · Madrid · Valladolid · Palencia · Burgos · Araba · Navarra · Gipuzkoa
+01102,102,MADRID-CHAMARTIN-BIF. ARANDA,15,11,Madrid > Tres Cantos > Colmenar Viejo > Soto del Real > Bustarviejo > Robregordo > Comunidad de Sepúlveda y Riaza > Maderuelo > Aranda de Duero > Lerma > Villalbilla de Burgos,Madrid · Segovia · Burgos
+01104,104,ALCOB.- S.S.REYE-UNIV.CANTOBLANCO,2,2,Madrid > Alcobendas,Madrid
+01106,106,IRUN-HENDAYA,4,1,Irun,Gipuzkoa
+01108,108,LA CARRERA-VALLADOLID-C.G.,4,1,Valladolid,Valladolid
+01110,110,VILLALBA GUADARR-SEGOVIA,4,4,Collado Villalba > Guadarrama > Cercedilla > Segovia,Madrid · Segovia
+01112,112,VALLADOLID ARGALES-BIF. HENDAYA,3,1,Valladolid,Valladolid
+01116,116,CERCEDILLA-LOS COTOS,3,3,Cercedilla > Los Baldios > Real Sitio de San Ildefonso,Madrid · Segovia
+01118,118,"IRUN-P. K. 641,181 (FRONTERA)",2,1,Irun,Gipuzkoa
+01120,120,MEDINA DEL CAMPO-VILAR  FORMOSO,13,8,Fuentes de Oñoro > Ciudad Rodrigo > La Fuente de San Esteban > Salamanca > Carbajosa de la Sagrada > Cantalapiedra > Fresno el Viejo > Medina del Campo,Salamanca · Valladolid
+01122,122,AVILA-SALAMANCA,4,4,Salamanca > Peñaranda de Bracamonte > San Pedro del Arroyo > Ávila,Salamanca · Ávila
+01124,124,SALAMANCA-VALDUNCIEL,2,2,Salamanca > Valdunciel,Salamanca
+01126,126,ARANDA DUERO-MON-ARANDA DUERO-CHE,2,1,Aranda de Duero,Burgos
+01128,128,"BURGOS AG. KM. 374,2 - CAMB. BURGOS",2,1,Burgos,Burgos
+01156,156,CAMBIADOR VILLAMURIEL - BIF. VILLAMURIEL DE CERRATO,2,1,Villamuriel de Cerrato,Palencia
+01164,164,BIF. MAGAZ-MAGAZ,3,3,Palencia > Villamuriel de Cerrato > Magaz de Pisuerga,Palencia
+01166,166,BIF. RUBENA-VILLAFRIA,2,2,Rubena > Burgos,Burgos
+01168,168,"BIF RUBENA AG KM 377,3-VILLAFRIA",2,1,Burgos,Burgos
+01172,172,MADRID-CHAMARTÍN-CAMBIADOR MADRID-CHAMARTÍN,2,1,Madrid,Madrid
+01174,174,CAMBIADOR MEDINA DEL CAMPO-MEDINA DEL CAMPO,2,1,Medina del Campo,Valladolid
+01176,176,CAMBIADOR VALDESTILLAS-VALDESTILLAS,2,1,Valdestillas,Valladolid
+01178,178,"CAMBIADOR VALLADOLID C.-GRANDE-VALLADOLID-AG. KM 250,2",2,1,Valladolid,Valladolid
+01188,188,CAMB. MEDINA DEL CAMPO AV - BIF. ARROYO DE LA GOLOSA,2,1,Medina del Campo,Valladolid
+01192,192,"RIO PISUERGA-C.FERR.AG.KM.3,7",3,2,Valladolid > Santovenia de Pisuerga,Valladolid
+01700,700,INT. ABANDO IND. PRIETO-CASETAS,19,15,Zaragoza > Cabañas de Ebro > Cortes > Tudela > Castejón > Calahorra > Alcanadre > Logroño > Haro > Miranda de Ebro > Amurrio > Urduña > Laudio > Arrigorriaga > Bilbao,Zaragoza · Navarra · La Rioja · Burgos · Araba · Bizkaia
+01704,704,BIF. RIOJA-BIF. CASTILLA,2,1,Miranda de Ebro,Burgos
+01710,710,ALTSASU-CASTEJON DE EBRO,8,7,Castejón > Tafalla > Garínoain > Noáin (Valle de Elorz) > Pamplona > Etxarri Aranatz > Altsasu,Navarra
+01712,712,"BIF. KM.534,0-BIF. KM.231,5",2,2,Altsasu > Olazti,Navarra
+01720,720,INT. ABANDO IND. PRIETO-SANTURTZI,8,3,Bilbao > Barakaldo > Santurtzi,Bizkaia
+01722,722,DESERTU-BARAKALD-MUSKIZ,2,2,Barakaldo > Muskiz,Bizkaia
+01724,724,BILBAO MERCANCIAS-SANTURTZI,2,1,Santurtzi,Bizkaia
+01726,726,AGUJA ENLACE-BIF. LA CASILLA,3,1,Bilbao,Bizkaia
+01904,904,"FUENCARRAL-AGUJA KM 4,5 - BIF. FUENCARRAL",3,1,Madrid,Madrid
+01910,910,MADRID ATOCHA CERCANIAS-PINAR DE LAS ROZAS,10,3,Madrid > Pozuelo de Alarcón > Las Rozas de Madrid,Madrid
+01912,912,PINAR DE LAS ROZAS-LAS MATAS,3,1,Las Rozas de Madrid,Madrid
+01914,914,BIF. CHAMARTIN-BIF. P. PIO,3,1,Las Rozas de Madrid,Madrid
+01924,924,BIF. CHAMARTIN - BIF. P. PIO,2,1,Las Rozas de Madrid,Madrid
+01999,999,LINEA FUERA DE SERVICIO EJE 1,184,150,Ayamonte > Gibraleón > Puerto Real > El Puerto de Santa María > Sanlúcar de Barrameda > Jerez de la Frontera > Arcos de la Frontera > Villanueva del Fresno > Sevilla > Utrera > Jerez de los Caballeros > Alcalá de Guadaíra > Arahal > Morón de la Frontera > Olvera > Carmona > Marchena > Zafra > Almargen > Málaga > Antequera > Fuente de Piedra > La Carlota > Puente Genil > Cáceres > Casar de Cáceres > Córdoba > Villanueva de la Serena > Rena > Alcaudete > Logrosán > Plasencia > Marmolejo > La Fregeneda > Jaén > Andújar > Alía > Santiago de Compostela > Espeluy > Guadix > Puerto de Béjar > La Fuente de San Esteban > La Calahorra > Oroso > Ordes > Cerceda > Linares > Puertollano > Calera y Chozas > Baza > Ciudad Real > Serón > Carbajosa de la Sagrada > Valdunciel > El Cubo de Tierra del Vino > Los Yébenes > Toral de los Vados > Zamora > Villafranca del Bierzo > Ponferrada > Toledo > Huércal-Overa > Bargas > Alcázar de San Juan > Lorca > Bienservida > Aranjuez > Tomelloso > Pobladura del Valle > La Bañeza > Astorga > Medina del Campo > Villacañas > Yeles > Caravaca de la Cruz > Leganés > Madrid > Las Rozas de Madrid > Totana > Socuéllamos > Mazarrón > Segovia > Fuente Álamo de Murcia > Valladolid > Santa Cruz de la Zarza > Arganda del Rey > Torrejón de Ardoz > Cartagena > Tarancón > Molina de Segura > Murcia > Albacete > Chinchilla de Monte-Aragón > Peñafiel > Torrevieja > San Isidro > Venta del Moro > Langa de Duero > Agost > Barruelo de Santullán > Pomar de Valdivia > Burgos > Utiel > Sigüenza > Alcoi > Almazán > Coscurita > Merindad de Valdeporres > Monteagudo de las Vicarías > Riba-roja de Túria > Soria > Vega de Pas > Ariza > Llíria > Santa Eulalia > Teruel > El Astillero > València > Caminreal > Puçol > Torrelapaja > Calatayud > Villanueva de Jiloca > Cervera del Río Alhama > Bilbao > Tarazona > Cintruénigo > Tulebras > Tudela > Castejón > La Puebla de Híjar > Alcañiz > Zuera > Gurrea de Gállego > Cretas > Tardienta > Ayerbe > Tortosa > Huesca > Mequinenza > Massalcoreig > Monzón > Canfranc > Aisa > Barbastro > Lleida > Granollers > Les Franqueses del Vallès > Ripoll > Sant Joan de les Abadesses,Huelva · Cádiz · Badajoz · Sevilla · Málaga · Córdoba · Cáceres · Jaén · Salamanca · A Coruña · Granada · Ciudad Real · Toledo · Almería · Zamora · León · Murcia · Albacete · Madrid · Valladolid · Segovia · Cuenca · Alacant · València · Soria · Palencia · Burgos · Guadalajara · Cantabria · Zaragoza · Teruel · La Rioja · Bizkaia · Navarra · Huesca · Tarragona · Lleida · Barcelona · Girona
+02200,200,MADRID-CHAMARTIN-BARNA-EST. DE FRANÇA,62,39,Madrid > Coslada > Torrejón de Ardoz > Alcalá de Henares > Meco > Azuqueca de Henares > Guadalajara > Baides > Sigüenza > Medinaceli > Arcos de Jalón > Santa María de Huerta > Ariza > Calatayud > Morata de Jalón > Ricla > Plasencia de Jalón > Grisén > Zaragoza > Zuera > Almudévar > Tardienta > Sariñena > Monzón > Binéfar > Almacelles > Lleida > Puigverd de Lleida > Vinaixa > Valls > Roda de Berà > El Vendrell > Cunit > Vilanova i la Geltrú > Sitges > Castelldefels > El Prat de Llobregat > Barcelona > L'Hospitalet de Llobregat,Madrid · Guadalajara · Soria · Zaragoza · Huesca · Lleida · Tarragona · Barcelona
+02202,202,TORRALBA-CASTEJON DE EBRO,5,5,Medinaceli > Coscurita > Soria > Cervera del Río Alhama > Castejón,Soria · La Rioja · Navarra
+02204,204,BIF. CANFRANC-CANFRANC,6,6,Monflorite-Lascasas > Huesca > Ayerbe > Las Peñas de Riglos > Jaca > Canfranc,Huesca
+02206,206,LLEIDA-PIRINEUS-POBLA SEGUR,6,3,Lleida > Balaguer > La Pobla de Segur,Lleida
+02208,208,S.JUAN MOZARRIFA-S. GREGORIO,2,1,Zaragoza,Zaragoza
+02210,210,MIRAFLORES-TARRAGONA,17,12,Zaragoza > La Zaida > La Puebla de Híjar > Samper de Calanda > Caspe > La Pobla de Massaluca > Flix > Móra la Nova > Reus > Vila-seca > Tarragona > El Vendrell,Zaragoza · Teruel · Tarragona
+02212,212,"HOYA DE HUESCA-AG. KM. 2,3-BIF. HOYA HUESCA",2,1,Huesca,Huesca
+02214,214,CIM ZARAGOZA-LA CARTUJA,7,1,Zaragoza,Zaragoza
+02216,216,"BIF. PLAZA-AG. KM. 1,4-BIF. PLAZA-AG. KM. 8,7",4,1,Zaragoza,Zaragoza
+02218,218,BIF. PLAZA-ZARAGOZA-PLAZA,3,1,Zaragoza,Zaragoza
+02220,220,LLEIDA-PIRINEUS-L HOSPITALET DE LLOBREGAT,13,10,Lleida > Cervera > Sant Guim de Freixenet > Manresa > Sant Vicenç de Castellet > Terrassa > L'Hospitalet de Llobregat > Cerdanyola del Vallès > Barcelona > Montcada i Reixac,Lleida · Barcelona
+02222,222,MONTCADA-BIFURCA-LA TOUR DE CAROL,13,12,Barcelona > Montcada i Reixac > Granollers > Les Franqueses del Vallès > La Garriga > Vic > Montesquiu > Ripoll > Ribes de Freser > Planoles > Puigcerdà > Guils de Cerdanya,Barcelona · Girona
+02224,224,CERDANYOLA UNIV.-CERDANYOLA VALLE,2,1,Cerdanyola del Vallès,Barcelona
+02230,230,PLANA-PICAMOIXON-REUS,2,2,Reus > Valls,Tarragona
+02234,234,REUS-RODA DE BARA,3,3,Reus > Constantí > Roda de Berà,Tarragona
+02238,238,CASTELLBISBAL-AGUJAS LLOBREGAT -BARCELONA-MORROT,6,5,Castellbisbal > El Papiol > Pallejà > L'Hospitalet de Llobregat > Barcelona,Barcelona
+02240,240,S.VICENÇ CALDERS-L HOSPITALET DE LLOBREGAT,16,10,El Vendrell > L'Arboç > Vilafranca del Penedès > Sant Sadurní d'Anoia > Sant Esteve Sesrovires > Martorell > Castellbisbal > El Papiol > Molins de Rei > L'Hospitalet de Llobregat,Tarragona · Barcelona
+02242,242,MARTORELL-SEAT-AGUJA KM. 71.185,3,2,Martorell > Sant Esteve Sesrovires,Barcelona
+02244,244,AGUJA KM. 0.500-AGUJA KM. 70.477,2,1,Sant Esteve Sesrovires,Barcelona
+02246,246,CASTELLBISBAL AGUJAS RUBI-MOLLET-SANT FOST,10,5,Mollet del Vallès > Santa Perpètua de Mogoda > Cerdanyola del Vallès > Rubí > Castellbisbal,Barcelona
+02248,248,BIF. RUBI-BIF. PAPIOL,4,1,Castellbisbal,Barcelona
+02250,250,"L HOSPITALET DE LLOBREGAT-BELLVITGE-AG. KM. 674,8",2,1,L'Hospitalet de Llobregat,Barcelona
+02254,254,EL PRAT DE LLOBREGAT-AEROPORT,2,1,El Prat de Llobregat,Barcelona
+02260,260,VILAMALLA - FIGUERES VILAFANT,6,3,Vilafant > Vilamalla > Barcelona,Girona · Barcelona
+02262,262,BIF CLOT-BARNA-SAGRERA,5,1,Barcelona,Barcelona
+02264,264,MONTCADA-BIFURCA-BIF. AIGÜES,2,2,Barcelona > Montcada i Reixac,Barcelona
+02266,266,BIF.VILANOVA-BIF.GLORIAS,2,1,Barcelona,Barcelona
+02268,268,BIF. SAGRERA-BIF. ARAGO,5,1,Barcelona,Barcelona
+02270,270,BIF. SAGRERA-CERBERE,25,15,Barcelona > Montcada i Reixac > La Llagosta > Mollet del Vallès > Montmeló > Montornès del Vallès > Granollers > Sant Celoni > Gualba > Maçanet de la Selva > Fornells de la Selva > Girona > Vilamalla > Figueres > Portbou,Barcelona · Girona
+02272,272,BIF. GIRONA-GIRONA-MERCADERI,2,2,Fornells de la Selva > Girona,Girona
+02274,274,PORTBOU-CERBERE,4,1,Portbou,Girona
+02276,276,BARNA-SAGRERA-MAÇANET-MASSANES,13,7,L'Hospitalet de Llobregat > Barcelona > Mataró > Arenys de Mar > Calella > Blanes > Maçanet de la Selva,Barcelona · Girona
+02278,278,BIF S. ANDREU - BARNA-S.A.COMTAL,4,3,Santa Perpètua de Mogoda > La Llagosta > Barcelona,Barcelona
+02282,282,"CAMBIADOR PLASENCIA AG.KM. 308,6-CAMBIADOR PLASENCIA",2,1,Plasencia de Jalón,Zaragoza
+02284,284,"CIM AGUJA KM. 337,1-CIM AGUJA KM. 0,7",2,1,Zaragoza,Zaragoza
+02286,286,"LA CARTUJA-AG. KM. 23,3-LA CARTUJA-AG. KM. 351,1",2,1,Zaragoza,Zaragoza
+02288,288,"MIRAFLORES-AG. KM. 345,6-MIRAFLORES-AG. KM. 0,9",2,1,Zaragoza,Zaragoza
+02290,290,"CIM-AGJ KM. 337,1-CAMB. ZARAGOZA-DELICIAS",2,1,Zaragoza,Zaragoza
+02294,294,RODA CAMB. DE ANCHO-RODA DE BARA,2,1,Roda de Berà,Tarragona
+02610,610,BIF. TERUEL-SAGUNT,16,14,Sagunt > Gilet > Estivella > Soneja > Caudiel > Barracas > Teruel > Santa Eulalia > Caminreal > Calamocha > Badules > Cariñena > María de Huerva > Zaragoza,València · Castelló · Teruel · Zaragoza
+02612,612,"SAGUNT-AG. KM. 268,8-SAGUNT-AG. KM. 28,3",2,1,Sagunt,València
+02622,622,"AGUJA CLASIF. KM. 272,0 - TARRAGONA-MERCADERIES",2,1,Tarragona,Tarragona
+02624,624,AG.CLAS.KM 100.4-TARRAGONA,3,1,Tarragona,Tarragona
+02630,630,PORT AVENTURA - TARRAGONA,4,2,Salou > Tarragona,Tarragona
+02702,702,GRISEN-CABAÑAS DE EBRO,2,2,Cabañas de Ebro > Grisén,Zaragoza
+02902,902,PITIS-BIF.HORTALEZA,5,1,Madrid,Madrid
+02906,906,MADRID CHAMARTIN-FUENCARRAL-COMPLEJO,2,1,Madrid,Madrid
+02908,908,HORTALEZA - BARAJAS -T4,2,1,Madrid,Madrid
+02930,930,MADRID AT. CERCA-SAN FERNANDO DE HENARES,7,2,Madrid > Coslada,Madrid
+02932,932,MADRID AT. CERCA-MADRID-S. CATAL.,4,1,Madrid,Madrid
+02938,938,MADRID AT. CERCA-ASAMBLEA MADRID-ENTREVIAS,5,1,Madrid,Madrid
+02940,940,"O,DONNELL-VICALVARO-CLASIF",3,2,Madrid > Coslada,Madrid
+02942,942,VALLECAS-IND.-VILLAVERDE BAJO,3,1,Madrid,Madrid
+02944,944,VICALVARO-BIF CLASIF-VICAL,3,1,Madrid,Madrid
+02948,948,VICALVARO-CLASIFICACION-BIF. VIACLVAO-CLASIFICACION,4,2,Madrid > Coslada,Madrid
+03300,300,MADRID CHAMARTÍN-VALENCIA-NORD,36,20,Xàtiva > Vallada > Moixent > Silla > la Font de la Figuera > Villena > Benetússer > València > Almansa > Chinchilla de Monte-Aragón > Albacete > La Roda > Villarrobledo > Socuéllamos > Alcázar de San Juan > Quero > Villacañas > Aranjuez > Pinto > Madrid,València · Alacant · Albacete · Ciudad Real · Toledo · Madrid
+03302,302,AGU.CLA KM.146.1-ALCAZAR DE SAN JUAN,3,1,Alcázar de San Juan,Ciudad Real
+03304,304,ALFAFAR-BENETUSS-BIF.CLAS.V.FS.LU,4,2,Benetússer > València,València
+03306,306,"S. VICENTE DE RASPEIG-S. VICENTE RASP. AGJ KM. 448,7",3,2,Sant Vicent del Raspeig > Alacant,Alacant
+03310,310,ARANJUEZ-VALENCIA SANT ISIDRE,12,10,València > Buñol > Utiel > Camporrobles > Carboneras de Guadazaón > Cuenca > Huete > Tarancón > Santa Cruz de la Zarza > Aranjuez,València · Cuenca · Toledo · Madrid
+03312,312,CASTILLEJO-AÑOVER-ALGODOR,2,1,Aranjuez,Madrid
+03314,314,XIRIVELLA L'ALTER-VALENCIA-SANT ISIDRE,3,3,València > Xirivella > Quart de Poblet,València
+03316,316,PINTO-SAN MARTIN DE LA VEGA,2,2,Pinto > San Martín de la Vega,Madrid
+03318,318,"CAMBIADOR ALBACETE - ALBACETE-AGUJA KM. 279,4",2,1,Albacete,Albacete
+03320,320,"CHINCHILLA MONTEAR.AG.KM.298,4-CARTAGENA",16,8,Chinchilla de Monte-Aragón > Hellín > Cieza > Calasparra > Alguazas > Alcantarilla > Murcia > Cartagena,Albacete · Murcia
+03322,322,MURCIA CARGAS-AGUILAS,6,5,Murcia > Alcantarilla > Lorca > Águilas > Pulpí,Murcia · Almería
+03324,324,"CARTAGENA-AGUJA KM.0,8",2,1,Cartagena,Murcia
+03326,326,AGUJA E.KM.523.2-ESCOMBRERAS,5,1,Cartagena,Murcia
+03330,330,LA ENCINA-ALACANT-TERMINAL,8,4,Alacant > Sant Vicent del Raspeig > Villena > Caudete,Alacant · Albacete
+03332,332,CAUDETE-BIF. ALACANT,2,2,Villena > Caudete,Alacant · Albacete
+03334,334,SANT GABRIEL-ALACANT-BENALUA,2,1,Alacant,Alacant
+03336,336,EL REGUERON-ALACANT-TERMINAL,8,5,Alacant > San Isidro > Orihuela > Beniel > Murcia,Alacant · Murcia
+03338,338,CAMBIADOR VALENCIA - VALENCIA-JOAQUIM SOROLLA,2,1,València,València
+03340,340,"BIF. VALLADA-XATIVA-AG. KM. 47,0",5,4,Moixent > Vallada > l'Alcúdia de Crespins > Xàtiva,València
+03342,342,XATIVA-ALCOI,3,3,Xàtiva > Ontinyent > Alcoi,València · Alacant
+03344,344,SILLA-GANDIA,4,3,Silla > Cullera > Gandia,València
+03346,346,GANDIA-MERCADER.-GANDIA PORT,3,1,Gandia,València
+03348,348,SILLA-FORD,3,2,Silla > Almussafes,València
+03350,350,BIF. BENALUA - BIF. ALACANT,2,1,Alacant,Alacant
+03352,352,"EL REGUERON AG KM 522,1-CARTAGENA",3,2,Murcia > Cartagena,Murcia
+03600,600,VALENCIA-NORD-S.VICENÇ CALDERS,32,17,València > Puçol > Sagunt > Almenara > Vila-real > Castelló de la Plana > Orpesa > Vinaròs > Ulldecona > L'Aldea > Vandellòs i l'Hospitalet de l'Infant > Cambrils > Salou > Vila-seca > Reus > Tarragona > El Vendrell,València · Castelló · Tarragona
+03602,602,"FSL-AG KM 2,3-VALENC-PTO NORTE",4,1,València,València
+03604,604,LES PALMES-CASTELLO-PORT,2,1,Castelló de la Plana,Castelló
+03606,606,"VFSL-AG.KM.1,3-VALENCIA-PTO SUR",5,1,València,València
+03608,608,"CLASIF. V.F.S.L.-V-FSL-AG KM 1,6",2,1,València,València
+03614,614,VALENCIA-JOAQUIM SOROLLA - VALENCIA-AGUJA ESTACION A.V.,2,1,València,València
+03620,620,TORTOSA-L ALDEA-AMPOSTA,2,2,L'Aldea > Tortosa,Tarragona
+03632,632,BIF. LA FEDERAT-BIF. VILA-SECA,2,1,Vila-seca,Tarragona
+03900,900,MADRID AT. CERCA-MADRID-CHAMARTIN,2,1,Madrid,Madrid
+03916,916,MADRID-S. CATAL.-DELICIAS,4,1,Madrid,Madrid
+03934,934,BIF. REBOLLEDO-MADRID-ABROÑIGAL,3,1,Madrid,Madrid
+03936,936,VILLAVERDE BAJO-SAN CRISTOBAL INDUSTRIAL,3,1,Madrid,Madrid
+03946,946,VILLAVERDE BAJO-MADRID-S. CATAL.,2,1,Madrid,Madrid
+03950,950,MADRID AT. CERCA-AGUJA KM. 1.4,2,1,Madrid,Madrid
+04400,400,ALCAZAR SAN JUAN-CADIZ,37,24,Alcázar de San Juan > Manzanares > Valdepeñas > Santa Cruz de Mudela > Almuradiel > Linares > Mengíbar > Espeluy > Andújar > Marmolejo > Córdoba > Palma del Río > Lora del Río > Tocina > La Rinconada > Sevilla > Dos Hermanas > Utrera > Lebrija > Jerez de la Frontera > El Puerto de Santa María > Puerto Real > Cádiz > San Fernando,Ciudad Real · Jaén · Córdoba · Sevilla · Cádiz
+04402,402,"BIF.ESPELUY-AGUJA KM. 340,1-JAEN",4,2,Mengíbar > Jaén,Jaén
+04404,404,"BIF. ESPELUY-AGUJA KM. 338,8-BIF. ESPELUY-AGUJA KM. 150,5",2,1,Mengíbar,Jaén
+04406,406,LAS ALETAS-UNIVERSIDAD DE CADIZ,2,1,Puerto Real,Cádiz
+04408,408,"ALCOLEA AG KM 431,9-CAMBIADOR ALCOLEA",2,1,Córdoba,Córdoba
+04410,410,LINARES BAEZA-ALMERIA,11,10,Linares > Úbeda > Cabra del Santo Cristo > Morelábor > Guadix > La Calahorra > Huéneja > Fiñana > Santa Fe de Mondújar > Almería,Jaén · Granada · Almería
+04412,412,HUENEJA-DOLAR-MINAS DEL MARQUESADO,2,2,Huéneja > Alquife,Granada
+04414,414,BIF.ALMERIA-BIF.GRANADA,2,1,Morelábor,Granada
+04416,416,MOREDA-GRANADA,6,3,Granada > Albolote > Morelábor,Granada
+04418,418,"A-S ANA AGJ. KM. 48,3-A-S ANA AGJ. KM. 50,4",3,2,Fuente de Piedra > Antequera,Málaga
+04420,420,BIF. MARAVILLAS-ALGECIRAS,9,7,Antequera > Almargen > Ronda > Cortes de la Frontera > Castellar de la Frontera > San Roque > Algeciras,Málaga · Cádiz
+04422,422,BIF. UTRERA-FUENTE DE PIEDRA,8,7,Utrera > Alcalá de Guadaíra > Arahal > Osuna > Gilena > Pedrera > Fuente de Piedra,Sevilla · Málaga
+04424,424,BIF. MALAGA-LA RODA ANDALUCIA,2,2,La Roda de Andalucía > Pedrera,Sevilla
+04426,426,GRANADA-FUENTE DE PIEDRA,10,6,Fuente de Piedra > Antequera > Archidona > Loja > Íllora > Granada,Málaga · Granada
+04428,428,"CAMBIADOR ANTEQUERA-A-S ANA AGJA. KM. 50,4",2,1,Antequera,Málaga
+04430,430,BIF CORDOBA - EL HIGUERON-LOS PRADOS,15,8,Málaga > Álora > Antequera > Fuente de Piedra > La Roda de Andalucía > Puente Genil > Montilla > Córdoba,Málaga · Sevilla · Córdoba
+04432,432,CORDOBA-CENTRAL-EL HIGUERON,3,1,Córdoba,Córdoba
+04434,434,CAMBIADOR CORDOBA-VALCHILLON,2,1,Córdoba,Córdoba
+04436,436,MARIA ZAMBRANO-FUENGIROLA,5,2,Málaga > Fuengirola,Málaga
+04438,438,"HUELVA-MERCANCIAS AG. KM. 107,4-ACCESO PUERTO DE HUELVA",3,2,Huelva > Palos de la Frontera,Huelva
+04440,440,BIF.LOS NARANJOS-HUELVA-TERMINO,11,8,Huelva > La Palma del Condado > Escacena del Campo > Benacazón > Camas > Santiponce > Sevilla > La Rinconada,Huelva · Sevilla
+04442,442,CAMBIADOR MAJARABIQUE-BIF.LOS NARANJOS,2,2,Sevilla > La Rinconada,Sevilla
+04444,444,BIF.TAMARGUILLO-LA SALUD,5,1,Sevilla,Sevilla
+04446,446,BIF.CARTUJA-CARTUJA,2,2,Santiponce > Sevilla,Sevilla
+04448,448,BIF.LOS NARANJOS-BIF.SAN JERONIMO,2,1,Sevilla,Sevilla
+04450,450,BIF.S.BERNARDO-BIF.LA NEGRILLA,2,1,Sevilla,Sevilla
+04452,452,PUERTO   SEVILLA-LA SALUD,3,1,Sevilla,Sevilla
+04454,454,CAMBIADOR MAJARABIQUE-BIF. SAN JERONIMO,2,2,Sevilla > La Rinconada,Sevilla
+04456,456,"LA SALUD AGJ. KM. 6,2-LA SALUD AGJ. KM. 10,2",2,1,Sevilla,Sevilla
+04458,458,MAJARABIQUE-ESTACION - BIF.SAN JERONIMO,2,2,La Rinconada > Sevilla,Sevilla
+04460,460,BIF. RIOFRIO-FUENTE DE PIEDRA,7,4,Fuente de Piedra > Antequera > Archidona > Loja,Málaga · Granada
+04464,464,BIF. TOCON-BIF. LA CHANA,2,2,Granada > Íllora,Granada
+04466,466,BIF. RIOFRIO-ANTEQUERA,3,3,Loja > Archidona > Antequera,Granada · Málaga
+04468,468,BIF. LAS MARAVILLAS-ANTEQUERA AV,3,1,Antequera,Málaga
+04490,490,"GRANADA AG. KM 53,273-CAMBIADOR GRANADA",2,1,Granada,Granada
+04492,492,"CAMBIADOR GRANADA-GRANADA AG. KM 54,289",2,1,Granada,Granada
+04508,508,"BADAJOZ - KM.517,6 FRNTERA",2,1,Badajoz,Badajoz
+04512,512,ZAFRA-HUELVA-CARGAS,7,7,Huelva > Gibraleón > Calañas > Cortegana > Jabugo > Fregenal de la Sierra > Zafra,Huelva · Badajoz
+04514,514,ZAFRA-JEREZ CABALLEROS,3,3,Zafra > Alconera > Jerez de los Caballeros,Badajoz
+04516,516,MERIDA-LOS ROSALES,8,8,Mérida > Zafra > Llerena > Fuente del Arco > Cazalla de la Sierra > El Pedroso > Villanueva del Río y Minas > Tocina,Badajoz · Sevilla
+04520,520,CIUDAD REAL-BADAJOZ,21,13,Badajoz > Montijo > La Garrovilla > Mérida > Valdetorres > Villanueva de la Serena > Cabeza del Buey > Guadalmez > Almodóvar del Campo > Puertollano > Villamayor de Calatrava > Ciudad Real > Miguelturra,Badajoz · Ciudad Real
+04522,522,MANZANARES-CIUDAD REAL,4,4,Manzanares > Almagro > Miguelturra > Ciudad Real,Ciudad Real
+04524,524,C.REAL-MIGUELTUR-BIF.POBLETE,2,1,Miguelturra,Ciudad Real
+04526,526,PUERTOLLANO-PUERTOLLANO-REFINERIA,3,1,Puertollano,Ciudad Real
+04528,528,ALMORCHON-MIRABUENO,5,5,Cabeza del Buey > Peñarroya-Pueblonuevo > Villanueva del Rey > Espiel > Córdoba,Badajoz · Córdoba
+05500,500,BIF. PLANETARIO-VALENCIA ALCANTARA,22,17,Madrid > Leganés > Fuenlabrada > Humanes de Madrid > Griñón > Illescas > Villaluenga de la Sagra > Torrijos > Talavera de la Reina > Oropesa > Navalmoral de la Mata > Malpartida de Plasencia > Garrovillas de Alconétar > Cáceres > Herreruela > San Vicente de Alcántara > Valencia de Alcántara,Madrid · Toledo · Cáceres · Badajoz
+05502,502,"VALENCIA ALCANTARA-KM. 428,5 (FRONTERA)",4,3,Cáceres > San Vicente de Alcántara > Valencia de Alcántara,Cáceres · Badajoz
+05504,504,ALGODOR-VILLALUENGA-YUNC,4,3,Villaluenga de la Sagra > Villaseca de la Sagra > Aranjuez,Toledo · Madrid
+05506,506,AGUJA KM 5.7-ASLAND,2,2,Villaseca de la Sagra > Villaluenga de la Sagra,Toledo
+05510,510,CACERES-ALJUCEN,7,3,Mérida > Carmonita > Cáceres,Badajoz · Cáceres
+05518,518,BIF. CASA DE LA TORRE-BIF. ROMANOS,4,1,Cáceres,Cáceres
+05530,530,MONFRAGÜE-PLASENCIA,4,2,Plasencia > Malpartida de Plasencia,Cáceres
+05532,532,"MONFRAGUE-AG. KM. 4,4-MONFRAGUE-AG. KM. 255,4",2,1,Malpartida de Plasencia,Cáceres
+05534,534,BIF. EL CHAPARRAL-ARROYO DE LA HERRERA,2,1,Malpartida de Plasencia,Cáceres
+05536,536,BIF. SAN ESTEBAN-BIF. EL CHAPARRAL,2,2,Plasencia > Malpartida de Plasencia,Cáceres
+05538,538,PLASENCIA-BIF. SAN ESTEBAN,2,1,Plasencia,Cáceres
+05920,920,MOSTOLES-EL SOTO-PARLA,8,5,Madrid > Getafe > Móstoles > Pinto > Parla,Madrid
+05922,922,BIF. PARLA-PARLA INDUSTRIAL,2,1,Parla,Madrid
+06130,130,VENTA DE BAÑOS-GIJON-CERCANIAS,36,18,Venta de Baños > Palencia > Villada > Sahagún > Villanueva de las Manzanas > Onzonilla > León > San Andrés del Rabanedo > Cuadros > La Robla > Villamanín > Lena > Mieres > Oviedo > Ribera de Arriba > Siero > Llanera > Gijón,Palencia · León · Asturias
+06132,132,ABLAÑA-BIF. TUD.VEGUIN,3,2,Mieres > Oviedo,Asturias
+06134,134,TORNEROS-LEON,5,2,Onzonilla > León,León
+06138,138,BIF.GALICIA-BIF. ASTURIAS,2,2,San Andrés del Rabanedo > León,León
+0613G,13G,BIF.LEON CLAF.-LEON CLASIFICAC.,2,1,León,León
+06140,140,BIF. TUD.VEGUIN-EL ENTREGO,5,2,Oviedo > San Martín del Rey Aurelio,Asturias
+06142,142,SOTO DE REY-BIF.OLLONIEGO,2,2,Ribera de Arriba > Oviedo,Asturias
+06144,144,VILLABONA DE A.-S.JUAN DE NIEVA,5,4,Llanera > Corvera de Asturias > Avilés > Castrillón,Asturias
+06146,146,BIF.PEÑA RUBIA-BIF.VIELLA,2,1,Oviedo,Asturias
+06148,148,NUBLEDO-TRASONA,3,1,Corvera de Asturias,Asturias
+06150,150,SERIN-ABOÑO,4,2,Gijón > Carreño,Asturias
+06152,152,GIJON-PUERTO-VERIÑA,2,1,Gijón,Asturias
+06154,154,TUDELA VEGUIN-LUGO LLANERA,4,3,Oviedo > Siero > Llanera,Asturias
+06160,160,PALENCIA-SANTANDER,13,12,Santander > Camargo > El Astillero > Piélagos > Torrelavega > Los Corrales de Buelna > Bárcena de Pie de Concha > Reinosa > Valdeolea > Pomar de Valdivia > Osorno la Mayor > Palencia,Cantabria · Palencia
+06162,162,SIERRAPANDO-SOLVAY FACTORIA,2,2,Torrelavega > Polanco,Cantabria
+06182,182,CAMBIADOR CLASIFICACION - BIF. CLASIFICACION,2,1,León,León
+06184,184,CAMBIADOR VILECHA - BIF. RIO BERNESGA,2,1,Onzonilla,León
+06800,800,LEON-A CORUÑA,24,15,Santovenia de la Valdoncina > León > San Andrés del Rabanedo > Astorga > Torre del Bierzo > Ponferrada > Toral de los Vados > Carucedo > A Rúa > Monforte de Lemos > Sarria > Lugo > Guitiriz > Betanzos > A Coruña,León · Ourense · Lugo · A Coruña
+06802,802,TORAL DE LOS VAD-VILLAFRANCA BIERZO,3,2,Toral de los Vados > Villafranca del Bierzo,León
+06804,804,BETANZOS-INFESTA-FERROL,2,2,Ferrol > Betanzos,A Coruña
+06806,806,LA BAÑEZA-ASTORGA,2,2,Astorga > La Bañeza,León
+06810,810,MONFORTE  LEMOS-VIGO,9,7,Tui > Vigo > Redondela > Ribadavia > Ourense > A Peroxa > Monforte de Lemos,Pontevedra · Ourense · Lugo
+06812,812,CHAPELA-AG.KM.171-VIGO-GUIXAR,2,2,Redondela > Vigo,Pontevedra
+06814,814,GUILLAREI-VALENCA DO MINHO,5,2,Tui > Tomiño,Pontevedra
+06816,816,"GUILLAREI AGJ. KM. 141,6-GUILLAREI AGJ. KM. 0,9",2,1,Tui,Pontevedra
+06818,818,VILAGARCIA DE AROUSA - BIF. ANGUEIRA,3,2,Vilagarcía de Arousa > Padrón,Pontevedra · A Coruña
+06820,820,MEDINA DEL CAMPO-ZAMORA,4,3,Medina del Campo > Toro > Zamora,Valladolid · Zamora
+06822,822,ZAMORA-A CORUÑA,23,14,A Coruña > Cerceda > Santiago de Compostela > Vedra > Lalín > O Irixo > Ourense > Taboadela > Laza > Lubián > Pedralba de la Pradería > Puebla de Sanabria > Riofrío de Aliste > Zamora,A Coruña · Pontevedra · Ourense · Zamora
+06824,824,REDONDELA-SANTIAGO DE COMPOSTELA,12,8,Santiago de Compostela > Padrón > Dodro > Vilagarcía de Arousa > Barro > Pontevedra > Soutomaior > Redondela,A Coruña · Pontevedra
+06826,826,BIF. CERCEDA-CENTRAL TÉRMICA DE MEIRAMA,7,3,Cerceda > Ordes > Santiago de Compostela,A Coruña
+06828,828,FAXIL-PORTAS,3,3,Portas > Barro > Pontevedra,Pontevedra
+06830,830,BIF UXES-BIF SAN CRISTOBAL,2,1,A Coruña,A Coruña
+06832,832,"BIF. SAN DIEGO-AGUJA KM. 545,4",2,1,A Coruña,A Coruña
+06834,834,BIF. EL BURGO-A CORUÑA SAN DIEGO,3,1,A Coruña,A Coruña
+06836,836,BIF. LEON-BIF. RIO BERNESGA,3,2,Onzonilla > Santovenia de la Valdoncina,León
+06838,838,BIF. QUINTANA-BIF. TORNEROS,3,2,Santovenia de la Valdoncina > León,León
+06840,840,"CER-M. AG.KM.000,7-MEIRAMA-PICARDEL",2,1,Cerceda,A Coruña
+06842,842,"BIF. A GRANDEIRA AG. KM. 376,1 - BIF. RIO SAR",2,1,Santiago de Compostela,A Coruña
+06848,848,REDONDELA AV - BIF. REDONDELA,2,1,Redondela,Pontevedra
+06850,850,VIGO URZAIZ - BIF. ARCADE,3,3,Soutomaior > Redondela > Vigo,Pontevedra
+06884,884,CAMB. ZAMORA - BIF. EL BOLON,2,1,Zamora,Zamora
+06888,888,"CAMBIADOR PEDRALBA - PEDRALBA AG KM 112,4",2,1,Pedralba de la Pradería,Zamora
+06894,894,"CAMBIADOR DE TABOADELA - TABOADELA AG. KM. 447,1",2,1,Taboadela,Ourense
+08360,360,CARTAGENA PLAZA BASTARRECHE-LOS NIETOS,2,1,Cartagena,Murcia
+08740,740,FERROL-PRAVIA,12,12,Ferrol > Narón > San Sadurniño > Moeche > Ortigueira > Mañón > Xove > Ribadeo > Castropol > Navia > Cudillero > Pravia,A Coruña · Lugo · Asturias
+08750,750,PRAVIA-GIJON-SANZ CRESPO,8,5,Pravia > Avilés > Corvera de Asturias > Carreño > Gijón,Asturias
+08752,752,GIJON-SANZ CRESPO-LAVIANA,11,4,Gijón > Siero > Langreo > Laviana,Asturias
+08754,754,SOTIELLO-PUERTO EL MUSEL,3,1,Gijón,Asturias
+08756,756,SOTIELLO-ABOÑO APD,4,2,Carreño > Gijón,Asturias
+08758,758,LA MARUCA MERCANCIAS-PUERTO AVILES,2,1,Avilés,Asturias
+08760,760,TRUBIA-OVIEDO,3,1,Oviedo,Asturias
+08762,762,SOTO UDRION-SAN ESTEBAN DE PRAVIA,4,3,Oviedo > Pravia > Muros de Nalón,Asturias
+08764,764,TRUBIA-COLLANZO,8,4,Oviedo > Ribera de Arriba > Mieres > Aller,Asturias
+08770,770,OVIEDO-VALDECILLA LA MARGA,17,12,Santander > Torrelavega > Reocín > Cabezón de la Sal > Val de San Vicente > Llanes > Ribadesella > Parres > Piloña > Nava > Siero > Oviedo,Cantabria · Asturias
+08772,772,OREJO - LIERGANES,3,3,Marina de Cudeyo > Medio Cudeyo > Liérganes,Cantabria
+08774,774,MALIAÑO VIDRIERA - PUERTO RAOS,2,2,Camargo > Santander,Cantabria
+08776,776,LLOVIO - RIBADESELLA PUERTO,2,1,Ribadesella,Asturias
+08778,778,LLOVIO-RIBADESELLA PUERTO,2,1,Ribadesella,Asturias
+08780,780,SANTANDER-BILBAO LA CONCORDIA,12,9,Santander > Camargo > El Astillero > Marina de Cudeyo > Ampuero > Karrantza Harana > Zalla > Alonsotegi > Bilbao,Cantabria · Bizkaia
+08782,782,BASURTO HOSPITAL-ARIZ,2,2,Bilbao > Basauri,Bizkaia
+08784,784,IRAUREGUI-LUTXANA-BARAKALDO,2,2,Alonsotegi > Barakaldo,Bizkaia
+08786,786,OREJO-LIERGANES,3,3,Marina de Cudeyo > Medio Cudeyo > Liérganes,Cantabria
+08788,788,MALIAÑO-PUERTO DE RAOS,2,2,Santander > Camargo,Cantabria
+08790,790,ASUNCION UNIVERSIDAD-ARANGUREN,12,10,León > Garrafe de Torío > Matallana de Torío > Boñar > Cistierna > Guardo > Valdeolea > Arija > Balmaseda > Zalla,León · Palencia · Cantabria · Burgos · Bizkaia
+08792,792,MATALLANA-LA ROBLA,2,2,Matallana de Torío > La Robla,León
+08794,794,GUARDO-TERMICA VELILLA,2,2,Guardo > Velilla del Río Carrión,Palencia
+11072,072,CAMBIADOR MADRID-CHAMARTÍN-CTT FUENCARRAL AV,3,1,Madrid,Madrid
+11074,074,"OLMEDO-AV.-AG.KM 133,9-CAMBIADOR MEDINA DEL CAMPO",2,2,Olmedo > Medina del Campo,Valladolid
+11076,076,BIF. CAMBIADOR VALDESTILLAS-CAMBIADOR VALDESTILLAS,2,1,Valdestillas,Valladolid
+11078,078,VALLADOLID CAMPO-GRANDE-CAMBIADOR VALLADOLID C.-GRANDE,2,1,Valladolid,Valladolid
+11080,080,MADRID-CHAMARTÍN-VALLADOLID CAMPO-GRANDE,16,13,Madrid > Rascafría > Segovia > Fuente de Santa Cruz > Olmedo > Valdestillas > Valladolid > Santovenia de Pisuerga > Dueñas > Venta de Baños > Soto de Cerrato > Revilla Vallejera > Burgos,Madrid · Segovia · Valladolid · Palencia · Burgos
+11084,084,BIF. VENTA DE BAÑOS - LEON,12,8,Venta de Baños > Villamuriel de Cerrato > Palencia > Valle del Retortillo > Villada > Bercianos del Real Camino > Onzonilla > León,Palencia · León
+11114,114,"BIF. CANAL DUERO-VALLADOLID FTE AMARGA KM 192,7",3,2,Santovenia de Pisuerga > Valladolid,Valladolid
+11136,136,BURGOS-ROSA MANZANO  - CAMB. BURGOS,2,1,Burgos,Burgos
+11158,158,BIF. CERRATO - CAMBIADOR VILLAMURIEL,2,1,Villamuriel de Cerrato,Palencia
+11170,170,BIF. SOTO - BIF. CERRATO,2,2,Villamuriel de Cerrato > Soto de Cerrato,Palencia
+11180,180,BIF. ESTADIO MUNICIPAL - CAMBIADOR CLASIFICACION,2,1,León,León
+11186,186,BIF. CAMB. VILECHA - CAMBIADOR VILECHA,2,1,Onzonilla,León
+11984,984,BIF. PAJARES - POLA DE LENA,5,3,Lena > Villamanín > Cuadros,Asturias · León
+12050,050,MADRID-PUERTA DE ATOCHA-BARCELONA-SANTS,37,27,Madrid > Los Santos de la Humosa > Yebes > Arcos de Jalón > Alconchel de Ariza > Calatayud > Plasencia de Jalón > Zaragoza > La Almolda > Alcarràs > Lleida > Artesa de Lleida > Les Borges Blanques > Tarrés > Alcover > La Secuita > La Pobla de Montornès > L'Arboç > L'Hospitalet de Llobregat > Barcelona > Mollet del Vallès > Montornès del Vallès > Sant Feliu de Buixalleu > Fornells de la Selva > Girona > Vilafant > Llers,Madrid · Guadalajara · Soria · Zaragoza · Lleida · Tarragona · Barcelona · Girona
+12052,052,BIF. CAMBIADOR PLASENCIA-CAMBIADOR PLASENCIA,2,1,Plasencia de Jalón,Zaragoza
+12054,054,BIF MONCASI-BIF CANAL IMPERIAL,6,1,Zaragoza,Zaragoza
+12056,056,BIF LES TORRES-BIF ARTESA DE LLEIDA,4,2,Artesa de Lleida > Lleida,Lleida
+12058,058,BIF CAMBIADOR LLEIDA-CAMBIADOR LLEIDA,2,1,Lleida,Lleida
+12060,060,BIF. CAMB. ZARAGOZA-DELICIAS-CAMB. ZARAGOZA-DELICIAS,2,1,Zaragoza,Zaragoza
+12062,062,BIF. CAMBIADOR PUIGVER-PUIGVRD-CAMBIADOR DE ANCHO,2,2,Artesa de Lleida > Puigverd de Lleida,Lleida
+12064,064,BIF. CAMBIADOR RODA-RODA-CAMB. DE ANCHO,2,2,Roda de Berà > La Pobla de Montornès,Tarragona
+12066,066,CAN TUNIS-AV-BIF. C. TUNIS-AV,2,1,L'Hospitalet de Llobregat,Barcelona
+12068,068,"VALLECAS AV-AG. KM. 12,300-LOS GAVILANES-AG. KM. 13,400",2,2,Madrid > Getafe,Madrid
+12070,070,BIF HUESCA-HUESCA,7,5,Zaragoza > Gurrea de Gállego > Tardienta > Monflorite-Lascasas > Huesca,Zaragoza · Huesca
+12280,280,BIF. NUDO MOLLET - BIF. MOLLET ,2,2,Santa Perpètua de Mogoda > Mollet del Vallès,Barcelona
+12292,292,"AG. KM. 641,5 - MONTMELO-AG.KM.127,4",2,2,Montmeló > Mollet del Vallès,Barcelona
+12296,296,"MONTMELO-AG.KM.129,0 - AGUJA KM. 645,0 ",2,2,Montmeló > Montornès del Vallès,Barcelona
+12298,298,BIF. GIRONA-MERCADERIES - GIRONA-MERCADERIES,3,2,Girona > Fornells de la Selva,Girona
+12640,640,CAMBIADOR DE LA BOELLA-CAMP DE TARRAGONA,3,3,Reus > Perafort > La Secuita,Tarragona
+13024,024,"BIF. BLANCALES - YELES AGUJA KM.34,397",2,1,Torrejón de Velasco,Madrid
+13040,040,BIF. TORREJÓN DE VELASCO - VALENCIA-JOAQUIM SOROLLA,15,9,València > Requena > Minglanilla > Gabaldón > Cuenca > Santa Cruz de la Zarza > Valdemoro > Torrejón de Velasco > Madrid,València · Cuenca · Toledo · Madrid
+13042,042,BIF. ALBACETE - ALBACETE,12,10,Gabaldón > Tarazona de la Mancha > Albacete > Chinchilla de Monte-Aragón > Bonete > Almansa > Villena > Novelda > Monforte del Cid > Alacant,Cuenca · Albacete · Alacant
+13044,044,BIF. JOAQUIN SOROLLA-UIC - BIF. JESUS,2,1,València,València
+13046,046,BIF. MURCIA - BENIEL,7,7,Monforte del Cid > Novelda > Elx > Callosa de Segura > Orihuela > Beniel > Murcia,Alacant · Murcia
+13048,048,BIF. VINALOPO - MONFORTE DEL CID A.V.,2,1,Monforte del Cid,Alacant
+13308,308,ALBACETE - CAMBIADOR ALBACETE,2,1,Albacete,Albacete
+13328,328,"VALENCIA-A.V.-AGUJA KM. 396,7 - CAMBIADOR VALENCIA",2,1,València,València
+13354,354,"EL REGUERON AG KM 522,1-MURCIA DEL CARMEN",4,1,Murcia,Murcia
+14010,010,PTA. DE ATOCHA-SEVILLA-S. JUSTA,22,17,Sevilla > La Rinconada > Peñaflor > Almodóvar del Río > Córdoba > Montoro > Conquista > Puertollano > Villamayor de Calatrava > Ciudad Real > Malagón > Los Yébenes > Alameda de la Sagra > Yeles > Torrejón de Velasco > Getafe > Madrid,Sevilla · Córdoba · Ciudad Real · Toledo · Madrid
+14012,012,CAMBIADOR ATOCHA-PTA. DE ATOCHA,2,1,Madrid,Madrid
+14014,014,CORDOBA-CENTRAL-CAMBIADOR CORD.,4,2,Antequera > Córdoba,Málaga · Córdoba
+14016,016,MAJARABIQUE-CAMBIADOR MAJ.,2,1,La Rinconada,Sevilla
+14018,018,BIF. CERRO NEGRO/STA. CATALINA-CTT CERRO NEGRO AV,2,1,Madrid,Madrid
+14020,020,LA SAGRA-TOLEDO,2,2,Alameda de la Sagra > Toledo,Toledo
+14022,022,BIF CAMBIADOR ALCOLEA-CAMBIADOR ALCOLEA,2,1,Córdoba,Córdoba
+14030,030,BIF. MALAGA-A.V.-MARIA ZAMBRANO,10,8,Almodóvar del Río > Écija > La Carlota > Estepa > Puente Genil > Humilladero > Antequera > Málaga,Córdoba · Sevilla · Málaga
+14032,032,ANTEQUERA-SANTA ANA-CAMBIADOR ANTEQUERA,2,1,Antequera,Málaga
+14036,036,ANTEQUERA-SANTA ANA-GRANADA,10,5,Granada > Íllora > Loja > Antequera > Utrera,Granada · Málaga · Sevilla
+15026,026,BIF. SAN ESTEBAN-BIF. CASA DE LA TORRE,16,8,Plasencia > Malpartida de Plasencia > Cáceres > Carmonita > Mérida > La Garrovilla > Montijo > Badajoz,Cáceres · Badajoz
+15626,626,"CACERES AG. KM. 82,2-BIF. PEÑAS BLANCAS",4,3,Cáceres > Carmonita > Mérida,Cáceres · Badajoz
+15926,926,BIF. LA ISLA-BIF. SAN NICOLAS,4,3,La Garrovilla > Montijo > Badajoz,Badajoz
+16082,082,"BIF. COTO DA TORRE - BIF. A GRANDEIRA AG. KM. 85,0",4,4,Ourense > O Irixo > Vedra > Santiago de Compostela,Ourense · A Coruña
+16190,190,MEDINA DEL CAMPO AV - CAMB. MEDINA DEL CAMPO AV,2,1,Medina del Campo,Valladolid
+16886,886,ZAMORA - CAMB. ZAMORA,2,1,Zamora,Zamora
+16890,890,BIF. PEDRALBA - CAMBIADOR PEDRALBA,2,2,Puebla de Sanabria > Pedralba de la Pradería,Zamora
+16892,892,"TABOADELA AV AG. KM. 446,1 - CAMBIADOR TABOADELA",2,1,Taboadela,Ourense
+16982,982,"BIFURCACIÓN MEDINA - TABOADELA AG. KM. 234,0",17,10,Taboadela > A Mezquita > Puebla de Sanabria > Palacios de Sanabria > La Hiniesta > Zamora > Coreses > Toro > Medina del Campo > Olmedo,Ourense · Zamora · Valladolid

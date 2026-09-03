@@ -81,6 +81,39 @@ Opciones para poblar las tablas `habilitacion_*`:
    material ≈ series de material rodante que circulan por cada línea; el grafo de
    dependencia geográfica se deriva de la topología (nodos compartidos).
 
+**Pista para el material rodante — ERATV.** El *European Register of Authorised Types
+of Vehicles* (ERASF/ERA) publica los **tipos de vehículo autorizados** por Estado. La
+exportación filtrada a España está en `data/raw/eratv_spain_authorisations.csv` (export
+manual desde el registro; columnas: Type ID, EIN, Type Name, Authorisation Status, Last
+Update). Es un CSV crudo con comillas no estándar → parsear al limpiar. No da la
+habilitación *del maquinista* (eso sigue sin ser dato abierto), pero acota el universo de
+material que puede circular, que es el lado "material rodante" de la habilitación.
+- Portal ERATV: https://eratv.era.europa.eu/
+
 ## 4. Complementarias (para el análisis de competencia)
 - Informes anuales CNMC del sector ferroviario (2017–2025): cuotas por operador,
   saturación por línea, costes de material rodante. Útiles para cruzar con la red.
+
+## 5. Numeración RFIG (número de línea ↔ nombre ↔ ancho)
+El código de IDEAdif es `eje(2)+número(3)` (§1), así que el **número RFIG** de una línea
+son los 3 últimos caracteres de su `codigo_linea` (`01100` → `100`). La tabla número →
+nombre / ancho / longitud se toma de la transcripción en Wikipedia de la **Orden
+FOM/710/2015** (*Catálogo de líneas y tramos de la RFIG*):
+- Página: https://es.wikipedia.org/wiki/Anexo:Líneas_de_la_Red_Ferroviaria_de_Interés_General
+- BOE (fuente primaria): https://www.boe.es/boe/dias/2015/04/23/pdfs/BOE-A-2015-4382.pdf
+- Copia **fijada** en el repo: `data/external/rfig/lineas_rfig.wikitext`, parseada por
+  `sources/rfig.py`. El join casa 300 de 314 líneas; las 14 restantes son códigos
+  administrativos (`000`, `999`), variantes con letra (`0613G`) o ramales/apartaderos que
+  el anexo no enumera.
+- ⚠️ Es una **fuente secundaria** anclada a 2015. `codigo_linea` / `numero_rfig` es la
+  clave para reconciliarla con la Declaración sobre la Red (§2) cuando se parsee el PDF.
+
+## 6. Límites municipales (para geocodificar estaciones → municipio)
+Cada nodo/estación tiene coordenadas pero no municipio. Se resuelve por *point-in-polygon*
+contra los límites municipales oficiales (INE/IGN):
+- Dataset: `georef-spain-municipio` (Opendatasoft, derivado de IGN; códigos INE, 2022).
+  Export GeoJSON: https://public.opendatasoft.com/explore/dataset/georef-spain-municipio/
+- **No se versiona** (81 MB). `sources/municipios.py` lo descarga y verifica por SHA-256
+  fijado; `geocode_points` asigna el municipio contenedor, con *fallback* al más cercano
+  (marcado `geocode_match=nearest`). 1 218/1 230 nodos caen dentro; 2 son extranjeros
+  (Valença do Minho PT, Latour-de-Carol FR), correctamente marcados.

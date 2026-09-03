@@ -1,0 +1,315 @@
+codigo_linea,numero_rfig,nombre,wiki_linea,wiki_ancho,wiki_longitud,wiki_historica,uso_dominante,n_tramos,n_solo_carga,n_mixto,n_viajeros,n_sin_clasificar,n_aptos_mercancias,apto_mercancias,longitud_km,km_mercancias
+01000,000,LÍNEAS Y TRAMOS AJENOS AL CUADRO DE VELOCIDADES MÁXIMAS,,,,,,67,0,0,0,67,0,False,315.736,0.0
+01100,100,MADRID-CHAMARTIN-HENDAYA,Hendaya a Madrid-Chamartín-Clara Campoamor,Ibérico,"640,9 km",False,mercancias,59,2,57,0,0,59,True,727.848,727.848
+01102,102,MADRID-CHAMARTIN-BIF. ARANDA,Bifurcación Aranda a Madrid-Chamartín-Clara Campoamor,Ibérico,"280,6 km",False,mercancias,15,13,2,0,0,15,True,282.637,282.637
+01104,104,ALCOB.- S.S.REYE-UNIV.CANTOBLANCO,Alcobendas-San Sebastián de los Reyes a Universidad de Cantoblanco,Ibérico,"6,9 km",False,mixto,1,0,1,0,0,1,True,6.801,6.801
+01106,106,IRUN-HENDAYA,Hendaya a Irún,Ibérico,"2,2 km",False,mercancias,4,4,0,0,0,4,True,2.888,2.888
+01108,108,LA CARRERA-VALLADOLID-C.G.,Complejo Ferroviario de Mercancías de Valladolid-aguja a La Carrera,Ibérico,"2,0 km",False,,3,0,0,0,3,0,False,7.391,0.0
+01110,110,VILLALBA GUADARR-SEGOVIA,Segovia a Villalba de Guadarrama,Ibérico,"62,7 km",False,mixto,3,0,3,0,0,3,True,62.744,62.744
+01112,112,VALLADOLID ARGALES-BIF. HENDAYA,Valladolid-Campo Grande a Valladolid-Argales,Ibérico,"4,3 km",False,,2,0,0,0,2,0,False,6.796,0.0
+01116,116,CERCEDILLA-LOS COTOS,Los Cotos a Cercedilla,Métrico,"18,1 km",False,viajeros,2,0,0,2,0,0,False,18.211,0.0
+01118,118,"IRUN-P. K. 641,181 (FRONTERA)",,,,,mercancias,1,1,0,0,0,1,True,1.731,1.731
+01120,120,MEDINA DEL CAMPO-VILAR  FORMOSO,Villar Formoso a Medina del Campo,Ibérico,"201,0 km",False,mercancias,14,9,5,0,0,14,True,226.85,226.85
+01122,122,AVILA-SALAMANCA,Salamanca a Ávila,Ibérico,"111,1 km",False,mixto,3,0,3,0,0,3,True,110.908,110.908
+01124,124,SALAMANCA-VALDUNCIEL,Salamanca a Valdunciel,Ibérico,"12,4 km",False,,1,0,0,0,1,0,False,12.401,0.0
+01126,126,ARANDA DUERO-MON-ARANDA DUERO-CHE,Aranda de Duero-Montecillo a Aranda de Duero-Chelva,Ibérico,"1,8 km",True,,1,0,0,0,1,0,False,1.937,0.0
+01128,128,"BURGOS AG. KM. 374,2 - CAMB. BURGOS","Burgos-Aguja kilómetro 374,2 a Cambiador de Burgos",Ibérico,"0,1 km",False,viajeros,1,0,0,1,0,0,False,0.167,0.0
+01156,156,CAMBIADOR VILLAMURIEL - BIF. VILLAMURIEL DE CERRATO,Bifurcación Villamuriel de Cerrato a Cambiador Villamuriel,Ibérico,"1,3 km",False,viajeros,1,0,0,1,0,0,False,0.295,0.0
+01164,164,BIF. MAGAZ-MAGAZ,Palencia-Arroyo Villalobón a Magaz,Ibérico,"7,5 km",False,mixto,3,0,3,0,0,3,True,16.116,16.116
+01166,166,BIF. RUBENA-VILLAFRIA,Bifurcación Rubena a Villafría,Ibérico,"3,7 km",False,mercancias,1,1,0,0,0,1,True,3.748,3.748
+01168,168,"BIF RUBENA AG KM 377,3-VILLAFRIA","Villafría a Bifurcación Rubena-aguja km 377,3",Ibérico,"3,5 km",False,mercancias,1,1,0,0,0,1,True,3.598,3.598
+01172,172,MADRID-CHAMARTÍN-CAMBIADOR MADRID-CHAMARTÍN,Cambiador Madrid-Chamartín a Madrid-Chamartín-Clara Campoamor,Ibérico,"0,7 km",False,mercancias,1,1,0,0,0,1,True,0.619,0.619
+01174,174,CAMBIADOR MEDINA DEL CAMPO-MEDINA DEL CAMPO,Medina del Campo a Cambiador Medina del Campo,Ibérico,"2,1 km",False,mercancias,1,1,0,0,0,1,True,2.107,2.107
+01176,176,CAMBIADOR VALDESTILLAS-VALDESTILLAS,Valdestillas a Cambiador Valdestillas,Ibérico,"0,8 km",True,mercancias,1,1,0,0,0,1,True,0.894,0.894
+01178,178,"CAMBIADOR VALLADOLID C.-GRANDE-VALLADOLID-AG. KM 250,2","Valladolid aguja km 250,2 a Cambiador Valladolid-Campo Grande",Ibérico,"0,6 km",True,viajeros,1,0,0,1,0,0,False,0.718,0.0
+01188,188,CAMB. MEDINA DEL CAMPO AV - BIF. ARROYO DE LA GOLOSA,Cambiador de Medina AV a Bifurcación Arroyo de La Golosa,Ibérico,"3,0 km",False,viajeros,1,0,0,1,0,0,False,3.381,0.0
+01192,192,"RIO PISUERGA-C.FERR.AG.KM.3,7",Río Pisuerga a Complejo Ferroviario de Mercancías de Valladolid-aguja,Ibérico,"13,7 km",False,mercancias,2,1,0,0,1,1,True,13.747,9.484
+01700,700,INT. ABANDO IND. PRIETO-CASETAS,Intermodal Abando Indalecio Prieto a Casetas,Ibérico,"233,8 km",False,mixto,18,0,18,0,0,18,True,327.057,327.057
+01704,704,BIF. RIOJA-BIF. CASTILLA,Bifurcación Rioja a Bifurcación Castilla,Ibérico,"1,6 km",False,mixto,1,0,1,0,0,1,True,0.594,0.594
+01710,710,ALTSASU-CASTEJON DE EBRO,Altsasu a Castejón de Ebro,Ibérico,"139,2 km",False,mixto,7,0,7,0,0,7,True,139.263,139.263
+01712,712,"BIF. KM.534,0-BIF. KM.231,5","Bifurcación km 534,0 a Bifurcación km 231,5 (Altsasu-Pueblo)",Ibérico,"2,5 km",False,mixto,1,0,1,0,0,1,True,1.996,1.996
+01720,720,INT. ABANDO IND. PRIETO-SANTURTZI,Santurtzi a Intermodal Abando Indalecio Prieto,Ibérico,"13,6 km",False,mercancias,7,4,3,0,0,7,True,13.447,13.447
+01722,722,DESERTU-BARAKALD-MUSKIZ,Muskiz a Desertu-Barakaldo,Ibérico,"13,0 km",False,mercancias,1,1,0,0,0,1,True,12.895,12.895
+01724,724,BILBAO MERCANCIAS-SANTURTZI,Bilbao-Mercancías a Santurtzi,Ibérico,"3,3 km",False,mercancias,1,1,0,0,0,1,True,3.105,3.105
+01726,726,AGUJA ENLACE-BIF. LA CASILLA,Bifurcación La Casilla a Aguja de enlace,Ibérico,"2,8 km",False,mixto,2,0,2,0,0,2,True,2.352,2.352
+01904,904,"FUENCARRAL-AGUJA KM 4,5 - BIF. FUENCARRAL","Bifurcación Fuencarral a Fuencarral-aguja km 4,5",Ibérico,"1,7 km",False,mercancias,2,1,1,0,0,2,True,1.427,1.427
+01910,910,MADRID ATOCHA CERCANIAS-PINAR DE LAS ROZAS,Madrid-Atocha Cercanías a Pinar de Las Rozas,Ibérico,"28,0 km",False,mixto,10,0,10,0,0,10,True,32.26,32.26
+01912,912,PINAR DE LAS ROZAS-LAS MATAS,Las Matas a Pinar de Las Rozas,Ibérico,"3,6 km",False,mixto,2,0,2,0,0,2,True,3.597,3.597
+01914,914,BIF. CHAMARTIN-BIF. P. PIO,"Bifurcación Chamartín-aguja km 18,6 a Bifurcación Príncipe Pío",Ibérico,"0,7 km",False,mixto,2,0,2,0,0,2,True,1.486,1.486
+01924,924,BIF. CHAMARTIN - BIF. P. PIO,Bifurcación Chamartín a Bifurcación Príncipe Pío,Ibérico,"1,3 km",False,mixto,1,0,1,0,0,1,True,1.343,1.343
+01999,999,LINEA FUERA DE SERVICIO EJE 1,,,,,,119,0,0,0,119,0,False,4279.1,0.0
+02200,200,MADRID-CHAMARTIN-BARNA-EST. DE FRANÇA,Madrid-Chamartín-Clara Campoamor a Barcelona-Estació de França,Ibérico,"699,7 km",False,mixto,65,0,64,1,0,64,True,723.947,722.402
+02202,202,TORRALBA-CASTEJON DE EBRO,Torralba a Soria,Ibérico,"103,6 km",False,mixto,4,0,2,0,2,2,True,196.345,92.947
+02204,204,BIF. CANFRANC-CANFRANC,Bifurcación Canfranc a Canfranc,Ibérico,"138,5 km",False,mercancias,5,2,3,0,0,5,True,138.568,138.568
+02206,206,LLEIDA-PIRINEUS-POBLA SEGUR,Lérida-Pirineos a Puebla de Segur,Ibérico,"1,9 km",False,mixto,7,0,3,3,1,3,True,93.094,28.155
+02208,208,S.JUAN MOZARRIFA-S. GREGORIO,San Juan de Mozarrifar a San Gregorio,Ibérico,"3,5 km",False,mercancias,1,1,0,0,0,1,True,3.436,3.436
+02210,210,MIRAFLORES-TARRAGONA,Miraflores a Sant Vicente de Calders,Ibérico,"275,9 km",False,mixto,17,0,17,0,0,17,True,290.319,290.319
+02212,212,"HOYA DE HUESCA-AG. KM. 2,3-BIF. HOYA HUESCA","Hoya de Huesca-aguja km 2,3 a Bifurcación Hoya de Huesca",Ibérico,"1,7 km",False,mixto,1,0,1,0,0,1,True,1.764,1.764
+02214,214,CIM ZARAGOZA-LA CARTUJA,CIM de Zaragoza a La Cartuja,Ibérico,"25,5 km",False,mixto,6,0,6,0,0,6,True,25.319,25.319
+02216,216,"BIF. PLAZA-AG. KM. 1,4-BIF. PLAZA-AG. KM. 8,7","Bifurcación Plaza-aguja km 1,4 a Bifurcación Plaza-aguja km 8,7",Ibérico,"2,0 km",False,mixto,2,0,1,0,1,1,True,5.635,2.313
+02218,218,BIF. PLAZA-ZARAGOZA-PLAZA,Bifurcación Plaza a Zaragoza-Plaza,Ibérico,"4,5 km",False,mixto,2,0,2,0,0,2,True,4.386,4.386
+02220,220,LLEIDA-PIRINEUS-L HOSPITALET DE LLOBREGAT,Lérida Pirineos a Bifurcación Vilanova,Ibérico,"181,7 km",False,mercancias,13,7,6,0,0,13,True,247.422,247.422
+02222,222,MONTCADA-BIFURCA-LA TOUR DE CAROL,Torre de Querol-Enveitg a Bifurcación Aguas,Ibérico,"149,7 km",False,mixto,13,0,10,3,0,10,True,154.875,147.309
+02224,224,CERDANYOLA UNIV.-CERDANYOLA VALLE,Cerdanyola Universidad a Cerdanyola del Vallés,Ibérico,"3,6 km",False,mixto,1,0,1,0,0,1,True,3.598,3.598
+02230,230,PLANA-PICAMOIXON-REUS,Plana-Picamoixons a Reus,Ibérico,"20,8 km",False,mixto,1,0,1,0,0,1,True,21.039,21.039
+02234,234,REUS-RODA DE BARA,Reus a Constantí,Ibérico,"31,2 km",False,mercancias,2,1,0,0,1,1,True,31.345,6.12
+02238,238,CASTELLBISBAL-AGUJAS LLOBREGAT -BARCELONA-MORROT,Castellbisbal-Agujas Llobregat a Barcelona-Morrot,Mixto,"22,4 km",False,mercancias,5,1,4,0,0,5,True,27.213,27.213
+02240,240,S.VICENÇ CALDERS-L HOSPITALET DE LLOBREGAT,San Vicente de Calders a Hospitalet de Llobregat,Ibérico,"71,0 km",False,mixto,16,0,15,1,0,15,True,76.413,75.656
+02242,242,MARTORELL-SEAT-AGUJA KM. 71.185,"Martorell-Seat a Aguja km 71,185",Ibérico,"2,5 km",False,mercancias,2,2,0,0,0,2,True,2.522,2.522
+02244,244,AGUJA KM. 0.500-AGUJA KM. 70.477,"Aguja km 70,477 a Aguja km 0,500",Ibérico,"0,5 km",False,mercancias,1,1,0,0,0,1,True,0.51,0.51
+02246,246,CASTELLBISBAL AGUJAS RUBI-MOLLET-SANT FOST,Mollet-San Fausto a Castellbisbal-Agujas Rubí,Mixto,"27,3 km",False,mercancias,11,2,9,0,0,11,True,57.299,57.299
+02248,248,BIF. RUBI-BIF. PAPIOL,"Bifurcación Rubí a Aguja km 4,014",Ibérico,"1,9 km",True,mixto,2,0,1,1,0,1,True,2.404,0.998
+02250,250,"L HOSPITALET DE LLOBREGAT-BELLVITGE-AG. KM. 674,8","Bellvitge-aguja km 674,8 a Hospitalet",Ibérico,"1,7 km",False,mixto,1,0,1,0,0,1,True,1.563,1.563
+02254,254,EL PRAT DE LLOBREGAT-AEROPORT,Aeropuerto a Prat de Llobregat,Ibérico,"6,7 km",False,viajeros,1,0,0,1,0,0,False,6.58,0.0
+02260,260,VILAMALLA - FIGUERES VILAFANT,Figueras-Vilafant a Vilamalla,Mixto,"6,4 km",False,mercancias,4,1,1,2,0,2,True,14.043,10.199
+02262,262,BIF CLOT-BARNA-SAGRERA,Bifurcación Glorias a Bifurcación Clot,Ibérico,"0,5 km",True,mixto,4,0,3,1,0,3,True,3.861,1.938
+02264,264,MONTCADA-BIFURCA-BIF. AIGÜES,,,,,mixto,1,0,1,0,0,1,True,2.19,2.19
+02266,266,BIF.VILANOVA-BIF.GLORIAS,,,,,mixto,1,0,1,0,0,1,True,0.748,0.748
+02268,268,BIF. SAGRERA-BIF. ARAGO,,,,,mixto,5,0,4,1,0,4,True,6.653,4.165
+02270,270,BIF. SAGRERA-CERBERE,Cerbère a Bifurcación Aragó<nowiki/>n,"Ibérico, mixto","162,1 km",False,mercancias,29,1,28,0,0,29,True,189.688,189.688
+02272,272,BIF. GIRONA-GIRONA-MERCADERI,Bifurcación Gerona Mercancías a Gerona Mercancías,Ibérico,"1,8 km",False,mercancias,1,1,0,0,0,1,True,1.845,1.845
+02274,274,PORTBOU-CERBERE,Cerbère a Port-Bou,Ibérico,"2,2 km",False,mercancias,4,4,0,0,0,4,True,3.927,3.927
+02276,276,BARNA-SAGRERA-MAÇANET-MASSANES,Massanet-Massanas a Hospitalet de Llobregat,Ibérico,"85,1 km",False,mercancias,20,2,14,4,0,16,True,163.933,130.769
+02278,278,BIF S. ANDREU - BARNA-S.A.COMTAL,La Llagosta a Bifurcación nudo de Mollet,Mixto,"2,3 km",False,mixto,2,0,1,0,1,1,True,3.439,2.33
+02282,282,"CAMBIADOR PLASENCIA AG.KM. 308,6-CAMBIADOR PLASENCIA","Cambiador Plasencia de Jalón a Cambiador Plasencia-aguja km 308,6",Ibérico,"1,4 km",False,viajeros,1,0,0,1,0,0,False,1.389,0.0
+02284,284,"CIM AGUJA KM. 337,1-CIM AGUJA KM. 0,7","CIM-aguja km 337,1 a CIM-aguja km 0,7",Ibérico,"0,6 km",False,mixto,1,0,1,0,0,1,True,0.68,0.68
+02286,286,"LA CARTUJA-AG. KM. 23,3-LA CARTUJA-AG. KM. 351,1","La Cartuja-aguja km 23,3 a La Cartuja-aguja km 351,1",Ibérico,"1,1 km",False,mixto,1,0,1,0,0,1,True,1.16,1.16
+02288,288,"MIRAFLORES-AG. KM. 345,6-MIRAFLORES-AG. KM. 0,9","Miraflores-aguja km 345,6 a Miraflores-aguja km 0,9",Ibérico,"0,9 km",False,mixto,1,0,1,0,0,1,True,0.876,0.876
+02290,290,"CIM-AGJ KM. 337,1-CAMB. ZARAGOZA-DELICIAS","CIM-aguja km 337,1 a Cambiador Zaragoza-Delicias",Ibérico,"0,3 km",False,viajeros,1,0,0,1,0,0,False,0.225,0.0
+02294,294,RODA CAMB. DE ANCHO-RODA DE BARA,Roda de Bará-Cambiador de Ancho a Roda de Bará,Ibérico,"0,2 km",True,viajeros,1,0,0,1,0,0,False,0.214,0.0
+02610,610,BIF. TERUEL-SAGUNT,Sagunt a Bifurcación Teruel,Ibérico,"314,5 km",False,mixto,15,0,15,0,0,15,True,313.712,313.712
+02612,612,"SAGUNT-AG. KM. 268,8-SAGUNT-AG. KM. 28,3","Sagunt-aguja km 28,3 a Sagunt-aguja km 268,8",Ibérico,"0,6 km",False,mixto,1,0,1,0,0,1,True,0.629,0.629
+02622,622,"AGUJA CLASIF. KM. 272,0 - TARRAGONA-MERCADERIES","Aguja-Clasificación km 272,0 a Tarragona-Classificació",Ibérico,"1,1 km",False,mercancias,2,2,0,0,0,2,True,2.502,2.502
+02624,624,AG.CLAS.KM 100.4-TARRAGONA,"Aguja-Clasificación km 100,4 a Tarragona",Ibérico,"3,1 km",False,mixto,2,0,2,0,0,2,True,3.105,3.105
+02630,630,PORT AVENTURA - TARRAGONA,Salou-Port Aventura a Tarragona,Ibérico,10 km,False,mixto,3,0,3,0,0,3,True,10.062,10.062
+02702,702,GRISEN-CABAÑAS DE EBRO,Cabañas de Ebro a Grisén,Ibérico,"6,0 km",False,mixto,1,0,1,0,0,1,True,5.982,5.982
+02902,902,PITIS-BIF.HORTALEZA,Pitis a Hortaleza,Ibérico,"8,3 km",False,mixto,5,0,5,0,0,5,True,17.723,17.723
+02906,906,MADRID CHAMARTIN-FUENCARRAL-COMPLEJO,Fuencarral-Complejo a Madrid-Chamartín-Clara Campoamor,Ibérico,"1,3 km",False,viajeros,1,0,0,1,0,0,False,1.308,0.0
+02908,908,HORTALEZA - BARAJAS -T4,Hortaleza a Aeropuerto T-4,Mixto,"5,3 km",False,mercancias,1,1,0,0,0,1,True,5.827,5.827
+02930,930,MADRID AT. CERCA-SAN FERNANDO DE HENARES,Madrid-Atocha Cercanías a San Fernando de Henares,Ibérico,"18,3 km",False,mixto,7,0,7,0,0,7,True,21.415,21.415
+02932,932,MADRID AT. CERCA-MADRID-S. CATAL.,Madrid-Atocha Cercanías a Madrid-Santa Catalina,Ibérico,"5,4 km",False,mixto,4,0,4,0,0,4,True,6.618,6.618
+02938,938,MADRID AT. CERCA-ASAMBLEA MADRID-ENTREVIAS,Cambiador Atocha a Aguja conexión con línea 932,Ibérico,"3,8 km",True,mixto,4,0,2,2,0,2,True,3.644,1.642
+02940,940,"O,DONNELL-VICALVARO-CLASIF",O'Donnell a Vicálvaro-Clasificación,Ibérico,"4,0 km",False,mixto,3,0,3,0,0,3,True,7.891,7.891
+02942,942,VALLECAS-IND.-VILLAVERDE BAJO,Villaverde Bajo a Vallecas-Industrial,Ibérico,"7,2 km",False,mixto,2,0,2,0,0,2,True,7.366,7.366
+02944,944,VICALVARO-BIF CLASIF-VICAL,Vicálvaro a Bifurcación Vicálvaro-Clasificación,Ibérico,"5,0 km",False,mixto,2,0,2,0,0,2,True,5.183,5.183
+02948,948,VICALVARO-CLASIFICACION-BIF. VIACLVAO-CLASIFICACION,Vicálvaro-Clasificación a Bifurcación Vicálvaro-Clasificación,Ibérico,"2,9 km",False,mercancias,3,1,2,0,0,3,True,4.029,4.029
+03300,300,MADRID CHAMARTÍN-VALENCIA-NORD,Madrid-Chamartín-Clara Campoamor a Valencia-Estación del Norte,Ibérico,"480,6 km",False,mixto,43,0,43,0,0,43,True,648.643,648.643
+03302,302,AGU.CLA KM.146.1-ALCAZAR DE SAN JUAN,"Aguja km 146,1 a Alcázar de San Juan",Ibérico,"2,0 km",False,mercancias,2,2,0,0,0,2,True,1.933,1.933
+03304,304,ALFAFAR-BENETUSS-BIF.CLAS.V.FS.LU,"Alfafar-Benetússer a València-Font de Sant Luis-aguja km 1,3",Ibérico,"4,8 km",False,mixto,3,0,3,0,0,3,True,5.117,5.117
+03306,306,"S. VICENTE DE RASPEIG-S. VICENTE RASP. AGJ KM. 448,7","San Vicente de Raspeig a San Vicente de Raspeig-aguja km 448,7",Ibérico,"2,3 km",True,viajeros,2,0,0,2,0,0,False,2.28,0.0
+03310,310,ARANJUEZ-VALENCIA SANT ISIDRE,Aranjuez a Valencia-Fuente de San Luis,Ibérico,"353,9 km",False,mixto,11,0,10,0,1,10,True,358.709,353.694
+03312,312,CASTILLEJO-AÑOVER-ALGODOR,Castillejo-Añover a Algodor,Ibérico,"11,4 km",False,mixto,1,0,1,0,0,1,True,11.623,11.623
+03314,314,XIRIVELLA L'ALTER-VALENCIA-SANT ISIDRE,Chirivella-El Alter a Valencia-San Isidro,Ibérico,"1,9 km",False,viajeros,2,0,0,1,1,0,False,4.842,0.0
+03316,316,PINTO-SAN MARTIN DE LA VEGA,Pinto a San Martín de la Vega,Ibérico,"15,4 km",True,viajeros,1,0,0,1,0,0,False,15.318,0.0
+03318,318,"CAMBIADOR ALBACETE - ALBACETE-AGUJA KM. 279,4","Cambiador Albacete a Albacete-aguja km 279,4",Ibérico,"0,3 km",False,viajeros,1,0,0,1,0,0,False,0.285,0.0
+03320,320,"CHINCHILLA MONTEAR.AG.KM.298,4-CARTAGENA","Chinchilla de Montearagón-aguja km 298,4 a Murcia del Carmen",Ibérico,"146,2 km",False,mixto,19,0,19,0,0,19,True,399.15,399.15
+03322,322,MURCIA CARGAS-AGUILAS,Águilas a Murcia-Cargas,Ibérico,"111,6 km",False,mixto,5,0,5,0,0,5,True,112.104,112.104
+03324,324,"CARTAGENA-AGUJA KM.0,8","Aguja km 0,8 a Cartagena",Ibérico,"0,6 km",False,mercancias,1,1,0,0,0,1,True,1.379,1.379
+03326,326,AGUJA E.KM.523.2-ESCOMBRERAS,"Aguja km 523,2 a Dársena de Escombreras",Ibérico,"11,4 km",False,mercancias,4,2,0,0,2,2,True,14.629,10.534
+03330,330,LA ENCINA-ALACANT-TERMINAL,La Encina a Alicante-Terminal,Ibérico,"78,3 km",False,mixto,9,0,9,0,0,9,True,137.22,137.22
+03332,332,CAUDETE-BIF. ALACANT,La Encina-Aguja km 3 a Caudete,Ibérico,"5,9 km",False,mixto,1,0,1,0,0,1,True,5.916,5.916
+03334,334,SANT GABRIEL-ALACANT-BENALUA,San Gabriel a Alicante-Benalúa,Ibérico,"1,7 km",True,mercancias,1,1,0,0,0,1,True,1.735,1.735
+03336,336,EL REGUERON-ALACANT-TERMINAL,"El Reguerón-aguja km 525,3 a Alicante-Terminal",Ibérico,"73,7 km",False,mixto,8,0,8,0,0,8,True,79.101,79.101
+03338,338,CAMBIADOR VALENCIA - VALENCIA-JOAQUIM SOROLLA,Cambiador Valencia a Valencia-Joaquín Sorolla,Ibérico,"0,5 km",False,viajeros,1,0,0,1,0,0,False,0.586,0.0
+03340,340,"BIF. VALLADA-XATIVA-AG. KM. 47,0",Mogente a Bifurcación Mogente,Ibérico,"0,5 km",False,mercancias,4,2,1,1,0,3,True,36.609,17.543
+03342,342,XATIVA-ALCOI,Alcoy a Játiva,Ibérico,"63,7 km",False,viajeros,2,0,0,2,0,0,False,63.905,0.0
+03344,344,SILLA-GANDIA,Gandía a Silla,Ibérico,"50,8 km",False,mixto,3,0,2,1,0,2,True,51.097,49.598
+03346,346,GANDIA-MERCADER.-GANDIA PORT,Gandía-Puerto a Gandía-Mercancías,Ibérico,"2,9 km",False,viajeros,2,0,0,1,1,0,False,3.099,0.0
+03348,348,SILLA-FORD,Ford a Silla,Ibérico,"4,4 km",False,mercancias,3,3,0,0,0,3,True,9.78,9.78
+03350,350,BIF. BENALUA - BIF. ALACANT,Bifurcación Benalúa a Bifurcación Alicante,Ibérico,"2,2 km",False,mixto,1,0,1,0,0,1,True,2.223,2.223
+03352,352,"EL REGUERON AG KM 522,1-CARTAGENA","El Reguerón-aguja km 522,1 a Cartagena",Ibérico,58 km,False,mixto,2,0,2,0,0,2,True,58.138,58.138
+03600,600,VALENCIA-NORD-S.VICENÇ CALDERS,Valencia-Estación del Norte a Cambiador de La Boella,"Ibérico, mixto","254,1 km",False,mixto,34,0,32,2,0,32,True,360.158,355.99
+03602,602,"FSL-AG KM 2,3-VALENC-PTO NORTE","València-Font de Sant Luis-aguja km 2,3 a Valencia-Puerto Norte",Ibérico,"0,9 km",False,mercancias,4,4,0,0,0,4,True,1.16,1.16
+03604,604,LES PALMES-CASTELLO-PORT,Les Palmes a Puerto de Castellón,Ibérico,"6,8 km",False,mercancias,1,1,0,0,0,1,True,7.039,7.039
+03606,606,"VFSL-AG.KM.1,3-VALENCIA-PTO SUR","València-Font de Sant Luis-aguja km 1,3 a Valencia-Puerto Sur",Ibérico,"2,3 km",False,mercancias,5,5,0,0,0,5,True,3.965,3.965
+03608,608,"CLASIF. V.F.S.L.-V-FSL-AG KM 1,6","Clasificación-València-Font de Sant Luis a València-Font de Sant Luis-aguja km 1,6",Ibérico,"0,8 km",False,mercancias,1,1,0,0,0,1,True,1.046,1.046
+03614,614,VALENCIA-JOAQUIM SOROLLA - VALENCIA-AGUJA ESTACION A.V.,València-aguja estación Alta Velocidad a Valencia-Joaquín Sorolla,Ibérico,"0,7 km",False,mixto,1,0,1,0,0,1,True,0.567,0.567
+03620,620,TORTOSA-L ALDEA-AMPOSTA,Tortosa a L'Aldea-Amposta-Tortosa,Ibérico,"13,1 km",False,mixto,1,0,1,0,0,1,True,11.872,11.872
+03632,632,BIF. LA FEDERAT-BIF. VILA-SECA,Bifurcación La Feredat a bifurcación Vilaseca,Ibérico,"1,5 km",False,mixto,1,0,1,0,0,1,True,1.396,1.396
+03900,900,MADRID AT. CERCA-MADRID-CHAMARTIN,Madrid-Chamartín-Clara Campoamor a Madrid-Atocha Cercanías,Ibérico,"7,8 km",False,mixto,1,0,1,0,0,1,True,8.012,8.012
+03916,916,MADRID-S. CATAL.-DELICIAS,Delicias a Madrid-Santa Catalina,Ibérico,"4,1 km",False,mixto,3,0,3,0,0,3,True,4.713,4.713
+03934,934,BIF. REBOLLEDO-MADRID-ABROÑIGAL,Madrid-Abroñigal a Bifurcación Rebolledo,Ibérico,"3,2 km",False,mixto,2,0,2,0,0,2,True,3.239,3.239
+03936,936,VILLAVERDE BAJO-SAN CRISTOBAL INDUSTRIAL,San Cristóbal Industrial a Villaverde Bajo,Ibérico,"3,0 km",False,mixto,2,0,2,0,0,2,True,3.153,3.153
+03946,946,VILLAVERDE BAJO-MADRID-S. CATAL.,Madrid-Santa Catalina a Villaverde Bajo,Ibérico,"1,9 km",False,mixto,1,0,1,0,0,1,True,1.998,1.998
+03950,950,MADRID AT. CERCA-AGUJA KM. 1.4,"Madrid-Puerta de Atocha-Almudena Grandes a Aguja km 1,4",Ibérico,"1,4 km",True,,1,0,0,0,1,0,False,1.213,0.0
+04400,400,ALCAZAR SAN JUAN-CADIZ,Alcázar de San Juan a Cádiz,Ibérico,"576,9 km",False,mixto,37,0,37,0,0,37,True,598.461,598.461
+04402,402,"BIF.ESPELUY-AGUJA KM. 340,1-JAEN","Espeluy-aguja km 340,1 a Jaén",Ibérico,"32,8 km",False,mixto,3,0,3,0,0,3,True,32.247,32.247
+04404,404,"BIF. ESPELUY-AGUJA KM. 338,8-BIF. ESPELUY-AGUJA KM. 150,5","Espeluy-aguja km 338,8 a Espeluy-aguja km 150,5",Ibérico,"0,9 km",False,mixto,1,0,1,0,0,1,True,0.998,0.998
+04406,406,LAS ALETAS-UNIVERSIDAD DE CADIZ,Las Aletas a Universidad de Cádiz (apeadero),Ibérico,"2,4 km",False,mercancias,1,1,0,0,0,1,True,2.385,2.385
+04408,408,"ALCOLEA AG KM 431,9-CAMBIADOR ALCOLEA","Alcolea-aguja km 431,9 a Cambiador Alcolea",Ibérico,"0,4 km",False,mercancias,1,1,0,0,0,1,True,0.43,0.43
+04410,410,LINARES BAEZA-ALMERIA,Linares-Baeza a Almería,Ibérico,"240,8 km",False,mercancias,10,4,6,0,0,10,True,240.479,240.479
+04412,412,HUENEJA-DOLAR-MINAS DEL MARQUESADO,Minas del Marquesado a Huéneja-Dólar,Ibérico,"14,4 km",True,,1,0,0,0,1,0,False,14.328,0.0
+04414,414,BIF.ALMERIA-BIF.GRANADA,Bifurcación Almería a Bifurcación Granada,Ibérico,"0,7 km",False,mixto,1,0,1,0,0,1,True,0.871,0.871
+04416,416,MOREDA-GRANADA,Moreda a Granada,"Ibérico, Mixto","56,7 km",False,mercancias,6,3,3,0,0,6,True,63.259,63.259
+04418,418,"A-S ANA AGJ. KM. 48,3-A-S ANA AGJ. KM. 50,4","Santa Ana-aguja km 50,4 a Santa Ana-aguja km 48,3",Ibérico,"2,3 km",False,mixto,2,0,2,0,0,2,True,2.397,2.397
+04420,420,BIF. MARAVILLAS-ALGECIRAS,Bifurcación Las Maravillas a Algeciras,Ibérico,"179,6 km",False,mercancias,7,1,5,0,1,6,True,183.304,179.49
+04422,422,BIF. UTRERA-FUENTE DE PIEDRA,Bifurcación Utrera a Fuente de Piedra,Ibérico,"113,4 km",False,mixto,6,0,5,0,1,5,True,122.721,111.653
+04424,424,BIF. MALAGA-LA RODA ANDALUCIA,Bifurcación Málaga a La Roda de Andalucía,Ibérico,"8,4 km",True,mercancias,1,1,0,0,0,1,True,8.47,8.47
+04426,426,GRANADA-FUENTE DE PIEDRA,Granada a Fuente de Piedra,Ibérico,"130,3",True,mercancias,10,9,1,0,0,10,True,203.34,203.34
+04428,428,"CAMBIADOR ANTEQUERA-A-S ANA AGJA. KM. 50,4","Cambiador Antequera a Santa Ana-Aguja km 50,4",Ibérico,"0,6 km",False,viajeros,1,0,0,1,0,0,False,0.484,0.0
+04430,430,BIF CORDOBA - EL HIGUERON-LOS PRADOS,Bifurcación Córdoba-Mercancías a Los Prados,Ibérico,"188,8 km",False,mixto,15,0,13,1,1,13,True,221.589,217.556
+04432,432,CORDOBA-CENTRAL-EL HIGUERON,Córdoba-Central a El Higuerón,Ibérico,"6,5 km",False,mixto,2,0,2,0,0,2,True,5.927,5.927
+04434,434,CAMBIADOR CORDOBA-VALCHILLON,Cambiador Córdoba a Valchillón,Ibérico,"5,3 km",True,viajeros,1,0,0,1,0,0,False,5.483,0.0
+04436,436,MARIA ZAMBRANO-FUENGIROLA,Fuengirola a Málaga-Centro Alameda (apeadero),Ibérico,"30,8 km",False,mercancias,5,1,1,2,1,2,True,35.886,30.404
+04438,438,"HUELVA-MERCANCIAS AG. KM. 107,4-ACCESO PUERTO DE HUELVA",Huelva Mercancías a Puerto de Huelva,Ibérico,6 km,True,,2,0,0,0,2,0,False,6.055,0.0
+04440,440,BIF.LOS NARANJOS-HUELVA-TERMINO,Bifurcación Los Naranjos a Huelva,Ibérico,"109,1 km",False,mixto,13,0,11,2,0,11,True,167.879,163.976
+04442,442,CAMBIADOR MAJARABIQUE-BIF.LOS NARANJOS,Cambiador Majarabique a Bifurcación Los Naranjos,Ibérico,"1,8 km",False,viajeros,1,0,0,1,0,0,False,1.342,0.0
+04444,444,BIF.TAMARGUILLO-LA SALUD,Bifurcación Tamarguillo a La Salud,Ibérico,"11,5 km",False,mixto,4,0,4,0,0,4,True,11.513,11.513
+04446,446,BIF.CARTUJA-CARTUJA,Bifurcación La Cartuja a La Cartuja,Ibérico,"2,2 km",False,mercancias,1,1,0,0,0,1,True,2.238,2.238
+04448,448,BIF.LOS NARANJOS-BIF.SAN JERONIMO,Bifurcación San Jerónimo a Bifurcación Los Naranjos,Ibérico,"0,8 km",True,mixto,1,0,1,0,0,1,True,1.062,1.062
+04450,450,BIF.S.BERNARDO-BIF.LA NEGRILLA,Bifurcación La Negrilla a Bifurcación San Bernardo,Ibérico,"0,6 km",False,mixto,1,0,1,0,0,1,True,0.796,0.796
+04452,452,PUERTO   SEVILLA-LA SALUD,Puerto de Sevilla a La Salud,Ibérico,"5,4 km",False,,3,0,0,0,3,0,False,10.83,0.0
+04454,454,CAMBIADOR MAJARABIQUE-BIF. SAN JERONIMO,Cambiador Majarabique a Bifurcación San Jerónimo,Ibérico,"1,4 km",False,viajeros,1,0,0,1,0,0,False,1.34,0.0
+04456,456,"LA SALUD AGJ. KM. 6,2-LA SALUD AGJ. KM. 10,2","La Salud-aguja km 6,2 a La Salud-aguja km 10,2",Ibérico,"0,8 km",False,mixto,1,0,1,0,0,1,True,0.841,0.841
+04458,458,MAJARABIQUE-ESTACION - BIF.SAN JERONIMO,Majarabique-Estación a Bifurcación San Jerónimo,Ibérico,"1,8 km",False,mixto,1,0,1,0,0,1,True,1.542,1.542
+04460,460,BIF. RIOFRIO-FUENTE DE PIEDRA,Bifurcación Las Maravillas a Fuente de Piedra,Ibérico,"11,8 km",False,mercancias,6,2,1,3,0,3,True,68.384,22.241
+04464,464,BIF. TOCON-BIF. LA CHANA,Bifurcación Tocón a Bifurcación La Chana,Ibérico,"32,5 km",False,viajeros,1,0,0,1,0,0,False,31.62,0.0
+04466,466,BIF. RIOFRIO-ANTEQUERA,Bifurcación Riofrío a Antequera,Ibérico,"44,0 km",False,,2,0,0,0,2,0,False,44.003,0.0
+04468,468,BIF. LAS MARAVILLAS-ANTEQUERA AV,Bifurcación Las Maravillas a Antequera AV,Ibérico,"12,7 km",False,viajeros,2,0,0,2,0,0,False,12.612,0.0
+04490,490,"GRANADA AG. KM 53,273-CAMBIADOR GRANADA","Granada-aguja km 53,273 a Cambiador de Granada",Ibérico,"0,4 km",False,,1,0,0,0,1,0,False,0.453,0.0
+04492,492,"CAMBIADOR GRANADA-GRANADA AG. KM 54,289","Cambiador de Granada a Granada-aguja km 54,289",Estándar,"0,6 km",False,,1,0,0,0,1,0,False,0.537,0.0
+04508,508,"BADAJOZ - KM.517,6 FRNTERA","Badajoz a km 517,6 (frontera)",Ibérico,"5,3 km",False,mercancias,1,1,0,0,0,1,True,5.337,5.337
+04512,512,ZAFRA-HUELVA-CARGAS,Zafra a Huelva-Cargas,Ibérico,"180,9 km",False,mercancias,6,6,0,0,0,6,True,181.739,181.739
+04514,514,ZAFRA-JEREZ CABALLEROS,Zafra a Jerez de los Caballeros,Ibérico,"46,7 km",False,mercancias,2,2,0,0,0,2,True,46.656,46.656
+04516,516,MERIDA-LOS ROSALES,Mérida a Los Rosales,Ibérico,"14,2 km",False,mercancias,7,2,5,0,0,7,True,204.803,204.803
+04520,520,CIUDAD REAL-BADAJOZ,Ciudad Real a Badajoz,Ibérico,"336,7 km",False,mercancias,25,12,13,0,0,25,True,458.831,458.831
+04522,522,MANZANARES-CIUDAD REAL,Manzanares a Ciudad Real,Ibérico,"64,5 km",False,mixto,3,0,3,0,0,3,True,64.628,64.628
+04524,524,C.REAL-MIGUELTUR-BIF.POBLETE,Ciudad Real-Miguelturra a Bifurcación Poblete,Ibérico,"1,9 km",False,mixto,1,0,1,0,0,1,True,1.38,1.38
+04526,526,PUERTOLLANO-PUERTOLLANO-REFINERIA,Puertollano a Puertollano-Refinería,Ibérico,"7,4 km",True,mercancias,2,2,0,0,0,2,True,9.109,9.109
+04528,528,ALMORCHON-MIRABUENO,Almorchón a Mirabueno,Ibérico,"130,1 km",False,mercancias,4,3,0,0,1,3,True,130.742,94.148
+05500,500,BIF. PLANETARIO-VALENCIA ALCANTARA,Bifurcación Planetario a Bifurcación Casa de la Torre,Ibérico,"322,7 km",False,mercancias,23,4,15,2,2,19,True,597.153,443.139
+05502,502,"VALENCIA ALCANTARA-KM. 428,5 (FRONTERA)","Cáceres a km 428,5 (frontera)",Ibérico,"105,8 km",False,viajeros,3,0,0,3,0,0,False,96.671,0.0
+05504,504,ALGODOR-VILLALUENGA-YUNC,Villaluenga-Yuncler a Algodor,Ibérico,"16,8 km",False,mercancias,4,2,2,0,0,4,True,32.733,32.733
+05506,506,AGUJA KM 5.7-ASLAND,"Asland a Aguja km 5,7",Ibérico,"1,2 km",True,,1,0,0,0,1,0,False,0.993,0.0
+05510,510,CACERES-ALJUCEN,Bifurcación Granja Las Encinas a Aljucén,Ibérico,"1,5 km",False,mercancias,8,1,6,1,0,7,True,182.626,181.2
+05518,518,BIF. CASA DE LA TORRE-BIF. ROMANOS,"Cáceres-aguja km 82,2 a Bifurcación Romanos",Ibérico,"4,2 km",False,mercancias,3,1,2,0,0,3,True,14.591,14.591
+05530,530,MONFRAGÜE-PLASENCIA,Monfragüe a Bifurcación El Chaparral,Ibérico,"6,6 km",False,mercancias,3,1,2,0,0,3,True,18.482,18.482
+05532,532,"MONFRAGUE-AG. KM. 4,4-MONFRAGUE-AG. KM. 255,4","Monfragüe-aguja km 255,4 a Monfragüe-aguja km 4,4",Ibérico,"2,7 km",False,mercancias,1,1,0,0,0,1,True,2.718,2.718
+05534,534,BIF. EL CHAPARRAL-ARROYO DE LA HERRERA,Bifurcación El Chaparral a Arroyo de la Herrera,Ibérico,"2,7 km",False,mixto,1,0,1,0,0,1,True,4.853,4.853
+05536,536,BIF. SAN ESTEBAN-BIF. EL CHAPARRAL,Bifurcación San Esteban a Bifurcación El Chaparral,Ibérico,"2,6 km",False,mercancias,1,1,0,0,0,1,True,2.666,2.666
+05538,538,PLASENCIA-BIF. SAN ESTEBAN,,,,,mixto,1,0,1,0,0,1,True,7.468,7.468
+05920,920,MOSTOLES-EL SOTO-PARLA,Móstoles-El Soto a Parla,Ibérico,"45,3 km",False,mercancias,8,1,5,2,0,6,True,54.957,44.662
+05922,922,BIF. PARLA-PARLA INDUSTRIAL,Bifurcación Parla a Parla-Industrial,Ibérico,"1,1 km",True,viajeros,1,0,0,1,0,0,False,0.837,0.0
+06130,130,VENTA DE BAÑOS-GIJON-CERCANIAS,Gijón-Sanz Crespo a Venta de Baños,Ibérico,"306,1 km",False,mixto,42,0,41,1,0,41,True,391.808,391.146
+06132,132,ABLAÑA-BIF. TUD.VEGUIN,Bifurcación Tudela-Veguín a Ablaña,Ibérico,"5,3 km",False,mixto,2,0,2,0,0,2,True,5.347,5.347
+06134,134,TORNEROS-LEON,León Clasificación a Bifurcación León Clasificación,Ibérico,"1,3 km",False,mercancias,4,2,2,0,0,4,True,8.873,8.873
+06138,138,BIF.GALICIA-BIF. ASTURIAS,Bifurcación Galicia a Bifurcación Asturias,Ibérico,"0,9 km",False,mixto,1,0,1,0,0,1,True,0.9,0.9
+0613G,13G,BIF.LEON CLAF.-LEON CLASIFICAC.,,,,,,1,0,0,0,1,0,False,1.299,0.0
+06140,140,BIF. TUD.VEGUIN-EL ENTREGO,Bifurcación Tudela Veguín a El Entrego,Ibérico,"21,5 km",False,mercancias,4,2,2,0,0,4,True,19.814,19.814
+06142,142,SOTO DE REY-BIF.OLLONIEGO,Soto de Rey a Bifurcación Olloniego,Ibérico,"2,3 km",False,mixto,1,0,1,0,0,1,True,1.979,1.979
+06144,144,VILLABONA DE A.-S.JUAN DE NIEVA,San Juan de Nieva a Villabona de Asturias,Ibérico,"20,8 km",False,mercancias,4,4,0,0,0,4,True,20.698,20.698
+06146,146,BIF.PEÑA RUBIA-BIF.VIELLA,Bifurcación Viella a Bifurcación Peña Rubia,Ibérico,"0,5 km",False,mercancias,1,1,0,0,0,1,True,0.45,0.45
+06148,148,NUBLEDO-TRASONA,Trasona a Nubledo,Ibérico,"5,7 km",False,mercancias,3,3,0,0,0,3,True,11.072,11.072
+06150,150,SERIN-ABOÑO,Aboño a Serín,Ibérico,"9,0 km",False,mercancias,3,3,0,0,0,3,True,8.634,8.634
+06152,152,GIJON-PUERTO-VERIÑA,Gijón-Puerto (El Musel) a Veriña,Ibérico,"4,6 km",False,mercancias,1,1,0,0,0,1,True,4.154,4.154
+06154,154,TUDELA VEGUIN-LUGO LLANERA,Lugo de Llanera a Tudela-Veguín,Ibérico,"14,1 km",False,mixto,3,0,3,0,0,3,True,13.893,13.893
+06160,160,PALENCIA-SANTANDER,Santander a Palencia,Ibérico,"217,2 km",False,mixto,12,0,12,0,0,12,True,217.298,217.298
+06162,162,SIERRAPANDO-SOLVAY FACTORIA,Solvay-Factoría a Sierrapando,Ibérico,"5,7 km",False,,1,0,0,0,1,0,False,5.967,0.0
+06182,182,CAMBIADOR CLASIFICACION - BIF. CLASIFICACION,Cambiador Clasificación a Bifurcación Clasificación,Ibérico,"0,4 km",False,viajeros,1,0,0,1,0,0,False,0.343,0.0
+06184,184,CAMBIADOR VILECHA - BIF. RIO BERNESGA,Bifurcación Río Bernesga a Cambiador Vilecha,Ibérico,"0,7 km",False,mercancias,1,1,0,0,0,1,True,0.754,0.754
+06800,800,LEON-A CORUÑA,"La Coruña a León-Aguja km 123,6",Ibérico,"428,2 km",False,mercancias,25,4,21,0,0,25,True,488.226,488.226
+06802,802,TORAL DE LOS VAD-VILLAFRANCA BIERZO,Toral de los Vados a Villafranca del Bierzo,Ibérico,"9,1 km",False,mercancias,2,1,0,0,1,1,True,9.125,2.068
+06804,804,BETANZOS-INFESTA-FERROL,Betanzos-Infiesta a Ferrol,Ibérico,"42,8 km",False,mixto,1,0,1,0,0,1,True,42.863,42.863
+06806,806,LA BAÑEZA-ASTORGA,La Bañeza a Astorga,Ibérico,"21,8 km",False,,1,0,0,0,1,0,False,21.79,0.0
+06810,810,MONFORTE  LEMOS-VIGO,Bifurcación Chapela a Monforte de Lemos,Ibérico,"177,8 km",False,mercancias,8,2,6,0,0,8,True,177.933,177.933
+06812,812,CHAPELA-AG.KM.171-VIGO-GUIXAR,Vigo-Guixar a Bifurcación Chapela,Ibérico,"6,4 km",False,mixto,1,0,1,0,0,1,True,6.162,6.162
+06814,814,GUILLAREI-VALENCA DO MINHO,Guillarey a Valença do Minho,Ibérico,"7,8 km",False,mercancias,5,3,2,0,0,5,True,12.182,12.182
+06816,816,"GUILLAREI AGJ. KM. 141,6-GUILLAREI AGJ. KM. 0,9","Guillarey-aguja km 141,6 a Guillarey-aguja km 0,9",Ibérico,"1,0 km",False,mercancias,1,1,0,0,0,1,True,0.979,0.979
+06818,818,VILAGARCIA DE AROUSA - BIF. ANGUEIRA,Vilagarcía Aurosa a Bifurcación Angueira,Ibérico,"27,9 km",False,mixto,2,0,2,0,0,2,True,27.935,27.935
+06820,820,MEDINA DEL CAMPO-ZAMORA,Zamora-aguja km 233 a Medina del Campo,Ibérico,"90,2 km",False,mercancias,5,3,2,0,0,5,True,179.489,179.489
+06822,822,ZAMORA-A CORUÑA,Bifurcación Valorio a La Coruña,"Ibérico, mixto","436,3 km",False,mercancias,27,7,19,0,1,26,True,727.231,711.458
+06824,824,REDONDELA-SANTIAGO DE COMPOSTELA,Redondela a Santiago de Compostela,Ibérico,"92,0 km",False,mercancias,17,7,10,0,0,17,True,208.603,208.603
+06826,826,BIF. CERCEDA-CENTRAL TÉRMICA DE MEIRAMA,Central térmica de Meirama a Cerceda-Meirama,Ibérico,"11,9 km",False,mercancias,6,5,0,0,1,5,True,44.157,21.32
+06828,828,FAXIL-PORTAS,Bifurcación San Amaro a Portas,Ibérico,"7,6 km",False,mercancias,4,4,0,0,0,4,True,24.991,24.991
+06830,830,BIF UXES-BIF SAN CRISTOBAL,Bifurcación Uxes a Bifurcación San Cristóbal,Ibérico,"0,7 km",False,mercancias,1,1,0,0,0,1,True,0.697,0.697
+06832,832,"BIF. SAN DIEGO-AGUJA KM. 545,4","Aguja km 545,4 a Bifurcación San Diego",Ibérico,"0,5 km",False,mercancias,1,1,0,0,0,1,True,0.547,0.547
+06834,834,BIF. EL BURGO-A CORUÑA SAN DIEGO,La Coruña-San Diego a Bifurcación El Burgo,Ibérico,"1,7 km",False,mercancias,2,2,0,0,0,2,True,1.735,1.735
+06836,836,BIF. LEON-BIF. RIO BERNESGA,Bifurcación León a Bifurcación Río Bernesga,Ibérico,"3,2 km",False,mixto,2,0,2,0,0,2,True,3.158,3.158
+06838,838,BIF. QUINTANA-BIF. TORNEROS,Bifurcación Torneros a Bifurcación Quintana,Ibérico,"3,1 km",False,mixto,2,0,2,0,0,2,True,2.853,2.853
+06840,840,"CER-M. AG.KM.000,7-MEIRAMA-PICARDEL","Cerceda-Meirama-aguja km. 0,729 a Meirama-Picardiel",Ibérico,"0,5 km",False,mercancias,1,1,0,0,0,1,True,1.252,1.252
+06842,842,"BIF. A GRANDEIRA AG. KM. 376,1 - BIF. RIO SAR","Bifurcación Río Sar a Bifurcación A Grandeira aguja km 376,1",Ibérico,"1,1 km",False,mercancias,1,1,0,0,0,1,True,0.96,0.96
+06848,848,REDONDELA AV - BIF. REDONDELA,Redondela AV a Bifurcación Redondela AV,Ibérico,"1,0 km",False,mixto,1,0,1,0,0,1,True,1.044,1.044
+06850,850,VIGO URZAIZ - BIF. ARCADE,Vigo-Urzáiz a Bifurcación Arcade,Ibérico,"17,9 km",False,mixto,2,0,1,1,0,1,True,17.918,6.368
+06884,884,CAMB. ZAMORA - BIF. EL BOLON,Bifurcación El Bolón a Cambiador de Zamora,Ibérico,"0,2 km",True,mercancias,1,1,0,0,0,1,True,0.2,0.2
+06888,888,"CAMBIADOR PEDRALBA - PEDRALBA AG KM 112,4","Pedralba aguja km 112,4 a Cambiador de Pedralba",Ibérico,"1,1 km",True,viajeros,1,0,0,1,0,0,False,1.005,0.0
+06894,894,"CAMBIADOR DE TABOADELA - TABOADELA AG. KM. 447,1","Cambiador de Taboadela a Taboadela aguja km 447,1",Ibérico,"0,5 km",False,viajeros,1,0,0,1,0,0,False,0.524,0.0
+08360,360,CARTAGENA PLAZA BASTARRECHE-LOS NIETOS,Cartagena Plaza Bastarreche a Los Nietos,Métrico,"19,6 km",False,viajeros,1,0,0,1,0,0,False,19.45,0.0
+08740,740,FERROL-PRAVIA,Pravia a Ferrol,Métrico,"269,0 km",False,mixto,11,0,11,0,0,11,True,269.197,269.197
+08750,750,PRAVIA-GIJON-SANZ CRESPO,Gijón-Sanz Crespo a Pravia,Métrico,"29,0 km",False,mixto,8,0,6,0,2,6,True,63.892,50.829
+08752,752,GIJON-SANZ CRESPO-LAVIANA,Laviana a Gijón-Sanz Crespo,Métrico,"29,0 km",False,mercancias,11,3,6,2,0,9,True,69.371,55.292
+08754,754,SOTIELLO-PUERTO EL MUSEL,Sotiello a Puerto El Musel,Métrico,"2,0 km",False,mercancias,3,1,1,0,1,2,True,15.077,7.915
+08756,756,SOTIELLO-ABOÑO APD,Aguja Enlace Sotiello a Aguja Enlace Veriña,Métrico,"0,7 km",False,mixto,2,0,1,0,1,1,True,1.471,0.737
+08758,758,LA MARUCA MERCANCIAS-PUERTO AVILES,La Maruca Mercancías a Puerto de Avilés,Métrico,"2,0 km",False,,1,0,0,0,1,0,False,1.739,0.0
+08760,760,TRUBIA-OVIEDO,Oviedo a Trubia,Métrico,"12,0 km",False,mixto,4,0,2,0,2,2,True,24.229,12.115
+08762,762,SOTO UDRION-SAN ESTEBAN DE PRAVIA,Trubia a San Esteban de Pravia,Métrico,"29,0 km",False,mixto,3,0,2,1,0,2,True,39.029,28.687
+08764,764,TRUBIA-COLLANZO,Trubia a Collanzo,Métrico,"55,0 km",False,mixto,7,0,5,2,0,5,True,54.706,30.232
+08770,770,OVIEDO-VALDECILLA LA MARGA,Santander a Oviedo,Métrico,"216,0 km",False,mercancias,17,1,16,0,0,17,True,216.984,216.984
+08772,772,OREJO - LIERGANES,Liérganes a Orejo,Métrico,"10,0 km",False,viajeros,2,0,0,2,0,0,False,9.83,0.0
+08774,774,MALIAÑO VIDRIERA - PUERTO RAOS,Maliaño La Vidriera a Puerto de Raos,Métrico,"2,0 km",False,,1,0,0,0,1,0,False,4.116,0.0
+08776,776,LLOVIO - RIBADESELLA PUERTO,Ribadesella Puerto a Llovio,Métrico,"3,0 km",False,viajeros,1,0,0,1,0,0,False,2.742,0.0
+08778,778,LLOVIO-RIBADESELLA PUERTO,,,,,,1,0,0,0,1,0,False,2.742,0.0
+08780,780,SANTANDER-BILBAO LA CONCORDIA,Bilbao Concordia a Santander,Métrico,"110,0 km",False,mercancias,12,1,10,1,0,11,True,119.909,117.385
+08782,782,BASURTO HOSPITAL-ARIZ,Ariz a Basurto Hospital,Métrico,"8,0 km",True,mercancias,1,1,0,0,0,1,True,8.124,8.124
+08784,784,IRAUREGUI-LUTXANA-BARAKALDO,Lutxana-Barakaldo a Irauregui,Métrico,"6,0 km",True,mercancias,1,1,0,0,0,1,True,5.714,5.714
+08786,786,OREJO-LIERGANES,,,,,,2,0,0,0,2,0,False,9.83,0.0
+08788,788,MALIAÑO-PUERTO DE RAOS,,,,,,1,0,0,0,1,0,False,4.036,0.0
+08790,790,ASUNCION UNIVERSIDAD-ARANGUREN,Aranguren a Asunción Universidad,Métrico,"310,0 km",False,mercancias,11,1,10,0,0,11,True,309.481,309.481
+08792,792,MATALLANA-LA ROBLA,Matallana a La Robla,Métrico,"11,0 km",False,mercancias,1,1,0,0,0,1,True,10.966,10.966
+08794,794,GUARDO-TERMICA VELILLA,Guardo a Central Térmica de Velilla,Métrico,"2,0 km",False,,1,0,0,0,1,0,False,2.166,0.0
+11072,072,CAMBIADOR MADRID-CHAMARTÍN-CTT FUENCARRAL AV,CTT de Fuencarral Alta Velocidad a Cambiador Madrid-Chamartín,Estándar,"0,1 km",False,mercancias,2,2,0,0,0,2,True,1.802,1.802
+11074,074,"OLMEDO-AV.-AG.KM 133,9-CAMBIADOR MEDINA DEL CAMPO","Cambiador de Medina del Campo a Olmedo AV-aguja km 133,9",Mixto,"19,9 km",True,mercancias,1,1,0,0,0,1,True,19.773,19.773
+11076,076,BIF. CAMBIADOR VALDESTILLAS-CAMBIADOR VALDESTILLAS,Cambiador Valdestillas a Bifurcación Cambiador de Valdestillas,Estándar,"1,0 km",True,viajeros,1,0,0,1,0,0,False,0.912,0.0
+11078,078,VALLADOLID CAMPO-GRANDE-CAMBIADOR VALLADOLID C.-GRANDE,Cambiador Valladolid-Campo Grande a Valladolid-Campo Grande,Estándar,"0,9 km",True,viajeros,1,0,0,1,0,0,False,0.923,0.0
+11080,080,MADRID-CHAMARTÍN-VALLADOLID CAMPO-GRANDE,Burgos-Rosa Manzano a Madrid-Chamartín-Clara Campoamor,Estándar,"304,0 km",False,mercancias,15,11,0,4,0,11,True,303.195,217.203
+11084,084,BIF. VENTA DE BAÑOS - LEON,León a Bifurcación Venta de Baños,Estándar,"127,9 km",False,mercancias,12,7,0,5,0,7,True,187.261,118.25
+11114,114,"BIF. CANAL DUERO-VALLADOLID FTE AMARGA KM 192,7",Complejo Ferroviario de Mercancías de Valladolid a Bifurcación Canal del Duero,Mixto,"8,0 km",False,mixto,2,0,2,0,0,2,True,8.135,8.135
+11136,136,BURGOS-ROSA MANZANO  - CAMB. BURGOS,Cambiador de Burgos a Burgos-Rosa Manzano,Estándar,"0,6 km",False,viajeros,1,0,0,1,0,0,False,0.591,0.0
+11158,158,BIF. CERRATO - CAMBIADOR VILLAMURIEL,Cambiador Villamuriel a Bifurcación Cerrato,Estándar,"1,8 km",False,viajeros,1,0,0,1,0,0,False,1.52,0.0
+11170,170,BIF. SOTO - BIF. CERRATO,Bifurcación Soto a Bifurcación Cerrato,Estándar,"0,7 km",False,viajeros,1,0,0,1,0,0,False,4.899,0.0
+11180,180,BIF. ESTADIO MUNICIPAL - CAMBIADOR CLASIFICACION,Bifurcación Estadio Municipal a Cambiador Clasificación,Estándar,"0,4 km",False,viajeros,1,0,0,1,0,0,False,0.192,0.0
+11186,186,BIF. CAMB. VILECHA - CAMBIADOR VILECHA,Cambiador Vilecha a Bifurcación Cambiador Vilecha,Estándar,"0,6 km",False,mercancias,1,1,0,0,0,1,True,0.75,0.75
+11984,984,BIF. PAJARES - POLA DE LENA,Pola de Lena a Bifurcación Pajares,Mixto,"49,3 km",False,mercancias,4,4,0,0,0,4,True,49.414,49.414
+12050,050,MADRID-PUERTA DE ATOCHA-BARCELONA-SANTS,Límite ADIF-LFPSA a Madrid-Puerta de Atocha-Almudena Grandes,Estándar,"752,4 km",False,mercancias,40,38,0,2,0,38,True,916.133,884.28
+12052,052,BIF. CAMBIADOR PLASENCIA-CAMBIADOR PLASENCIA,Cambiador de Plasencia de Jalón a Bifurcación Cambiador Plasencia de Jalón,Estándar,"3,8 km",False,viajeros,1,0,0,1,0,0,False,3.701,0.0
+12054,054,BIF MONCASI-BIF CANAL IMPERIAL,Bifurcación Moncasi a Bifurcación Canal Imperial,Estándar,"25,9 km",False,mercancias,5,5,0,0,0,5,True,25.889,25.889
+12056,056,BIF LES TORRES-BIF ARTESA DE LLEIDA,Bifurcación Artesa de Lérida a Bifurcación Les Torres de Sanui,Estándar,"16,5 km",False,mercancias,3,3,0,0,0,3,True,16.452,16.452
+12058,058,BIF CAMBIADOR LLEIDA-CAMBIADOR LLEIDA,Cambiador Lérida a Bifurcación Cambiador Lérida,Estándar,"0,5 km",True,,1,0,0,0,1,0,False,0.552,0.0
+12060,060,BIF. CAMB. ZARAGOZA-DELICIAS-CAMB. ZARAGOZA-DELICIAS,Bifurcación Cambiador Zaragoza-Delicias a Cambiador Zaragoza-Delicias,Estándar,"0,4 km",False,viajeros,1,0,0,1,0,0,False,0.445,0.0
+12062,062,BIF. CAMBIADOR PUIGVER-PUIGVRD-CAMBIADOR DE ANCHO,,,,,,1,0,0,0,1,0,False,0.898,0.0
+12064,064,BIF. CAMBIADOR RODA-RODA-CAMB. DE ANCHO,Bifurcación Cambiador Roda a Roda de Bará-Cambiador de Ancho,Estándar,"1,8 km",True,viajeros,1,0,0,1,0,0,False,1.814,0.0
+12066,066,CAN TUNIS-AV-BIF. C. TUNIS-AV,Bifurcación Can Tunis-Alta Velocidad a Can Tunis-Alta Velocidad,Estándar,"0,2 km",False,mercancias,1,1,0,0,0,1,True,0.21,0.21
+12068,068,"VALLECAS AV-AG. KM. 12,300-LOS GAVILANES-AG. KM. 13,400","Vallecas-Alta Velocidad-aguja km 12,300 a Los Gavilanes-aguja km 13,400",Estándar,"5,6 km",False,mercancias,1,1,0,0,0,1,True,5.47,5.47
+12070,070,BIF HUESCA-HUESCA,Bifurcación Huesca a Huesca,"Estándar, mixto","78,9 km",False,mercancias,7,2,5,0,0,7,True,83.038,83.038
+12280,280,BIF. NUDO MOLLET - BIF. MOLLET ,Bifurcación Mollet a Bifurcación nudo de Mollet,Estándar,"2,5 km",False,mercancias,1,1,0,0,0,1,True,2.062,2.062
+12292,292,"AG. KM. 641,5 - MONTMELO-AG.KM.127,4","Montmeló-aguja km 127,4 a Aguja km 641,5",Ibérico,,True,mercancias,1,1,0,0,0,1,True,1.473,1.473
+12296,296,"MONTMELO-AG.KM.129,0 - AGUJA KM. 645,0 ","Aguja km 645,0 a Montmeló-aguja km 129,0",Ibérico,,True,mercancias,1,1,0,0,0,1,True,0.406,0.406
+12298,298,BIF. GIRONA-MERCADERIES - GIRONA-MERCADERIES,Gerona-Mercancías a Bifurcación Gerona-Mercancías,Estándar,"0,6 km",False,mercancias,2,2,0,0,0,2,True,1.984,1.984
+12640,640,CAMBIADOR DE LA BOELLA-CAMP DE TARRAGONA,Cambiador de La Boella a Camp de Tarragona,Estándar,"12,2 km",False,viajeros,2,0,0,2,0,0,False,11.932,0.0
+13024,024,"BIF. BLANCALES - YELES AGUJA KM.34,397","Yeles-aguja km 34,397 a Bifurcación Los Blancales",Estándar,"5,7 km",False,mercancias,1,1,0,0,0,1,True,5.722,5.722
+13040,040,BIF. TORREJÓN DE VELASCO - VALENCIA-JOAQUIM SOROLLA,Madrid-Chamartín-Clara Campoamor a Valencia-Joaquín Sorolla,Estándar,"397,6 km",False,mercancias,16,14,0,2,0,14,True,411.074,398.851
+13042,042,BIF. ALBACETE - ALBACETE,Bifurcación Albacete a Alicante-Terminal,Estándar,"237,8 km",False,mercancias,11,11,0,0,0,11,True,237.649,237.649
+13044,044,BIF. JOAQUIN SOROLLA-UIC - BIF. JESUS,Bifurcación Jesús a Bifurcación Joaquín Sorolla UIC,Estándar,"0,5 km",False,viajeros,1,0,0,1,0,0,False,0.523,0.0
+13046,046,BIF. MURCIA - BENIEL,"Bifurcación Murcia a El Reguerón-Aguja km 522,1",Estándar,52 km,False,mercancias,6,6,0,0,0,6,True,60.381,60.381
+13048,048,BIF. VINALOPO - MONFORTE DEL CID A.V.,Bifurcación Vinalopó a Monforte del Cid AV,Estándar,"2,1 km",False,mercancias,1,1,0,0,0,1,True,2.111,2.111
+13308,308,ALBACETE - CAMBIADOR ALBACETE,Albacete-Los Llanos a Cambiador Albacete,Estándar,"0,5 km",False,viajeros,1,0,0,1,0,0,False,0.54,0.0
+13328,328,"VALENCIA-A.V.-AGUJA KM. 396,7 - CAMBIADOR VALENCIA","Valencia-Alta Velocidad-aguja km 396,7 a Cambiador Valencia",Estándar,"0,1 km",False,viajeros,1,0,0,1,0,0,False,0.098,0.0
+13354,354,"EL REGUERON AG KM 522,1-MURCIA DEL CARMEN","El Reguerón-aguja km 522,1 a Murcia del Carmen",Mixto,"3,2 km",False,mixto,3,0,3,0,0,3,True,6.989,6.989
+14010,010,PTA. DE ATOCHA-SEVILLA-S. JUSTA,Madrid-Puerta de Atocha-Almudena Grandes a Sevilla-Santa Justa,Estándar,"470,5 km",False,mercancias,24,22,0,2,0,22,True,571.107,541.163
+14012,012,CAMBIADOR ATOCHA-PTA. DE ATOCHA,Madrid-Puerta de Atocha-Almudena Grandes a Cambiador Atocha,Estándar,"1,3 km",True,viajeros,1,0,0,1,0,0,False,1.004,0.0
+14014,014,CORDOBA-CENTRAL-CAMBIADOR CORD.,Bifurcación Gobantes a Bifurcación Bobadilla,Estándar,"9,0 km",False,viajeros,2,0,0,2,0,0,False,10.65,0.0
+14016,016,MAJARABIQUE-CAMBIADOR MAJ.,Majarabique a Cambiador Majarabique,Estándar,"2,0 km",False,viajeros,1,0,0,1,0,0,False,2.196,0.0
+14018,018,BIF. CERRO NEGRO/STA. CATALINA-CTT CERRO NEGRO AV,Bifurcación Cerro Negro/Santa Catalina - CTT Cerro Negro-Alta Velocidad,Estándar,"0,3 km",False,mercancias,1,1,0,0,0,1,True,0.423,0.423
+14020,020,LA SAGRA-TOLEDO,La Sagra a Toledo,Estándar,"21,4 km",False,mercancias,1,1,0,0,0,1,True,21.327,21.327
+14022,022,BIF CAMBIADOR ALCOLEA-CAMBIADOR ALCOLEA,Cambiador Alcolea a Bifurcación Cambiador Alcolea,Estándar,"0,7 km",False,mercancias,1,1,0,0,0,1,True,0.668,0.668
+14030,030,BIF. MALAGA-A.V.-MARIA ZAMBRANO,Bifurcación Málaga-Alta Velocidad a Málaga-María Zambrano,Estándar,"154,5 km",False,mercancias,10,8,0,2,0,8,True,207.943,150.051
+14032,032,ANTEQUERA-SANTA ANA-CAMBIADOR ANTEQUERA,Antequera-Santa Ana a Cambiador Antequera,Estándar,"0,4 km",False,viajeros,1,0,0,1,0,0,False,0.578,0.0
+14036,036,ANTEQUERA-SANTA ANA-GRANADA,Antequera-Santa Ana a Granada,Estándar,"125,7 km",False,mercancias,9,9,0,0,0,9,True,114.333,114.333
+15026,026,BIF. SAN ESTEBAN-BIF. CASA DE LA TORRE,Plasencia a Bifurcación San Nicolás,Ibérico,"175,3 km",False,mercancias,16,1,4,11,0,5,True,235.443,91.436
+15626,626,"CACERES AG. KM. 82,2-BIF. PEÑAS BLANCAS",,,,,mixto,3,0,3,0,0,3,True,42.439,42.439
+15926,926,BIF. LA ISLA-BIF. SAN NICOLAS,,,,,mixto,5,0,4,1,0,4,True,78.797,46.804
+16082,082,"BIF. COTO DA TORRE - BIF. A GRANDEIRA AG. KM. 85,0","Bifurcación Grandeira aguja km 85,0 a Bifurcación Coto de la Torre",Ibérico,"84,0 km",False,mercancias,3,3,0,0,0,3,True,84.122,84.122
+16190,190,MEDINA DEL CAMPO AV - CAMB. MEDINA DEL CAMPO AV,Medina AV a Cambiador de Medina AV,Estándar,"1,1 km",False,viajeros,1,0,0,1,0,0,False,1.141,0.0
+16886,886,ZAMORA - CAMB. ZAMORA,Cambiador de Zamora a Zamora,Estándar,"0,6 km",True,mercancias,1,1,0,0,0,1,True,0.602,0.602
+16890,890,BIF. PEDRALBA - CAMBIADOR PEDRALBA,Cambiador de Pedralba a Bifurcación Pedralba,Estándar,"4,1 km",True,viajeros,1,0,0,1,0,0,False,3.796,0.0
+16892,892,"TABOADELA AV AG. KM. 446,1 - CAMBIADOR TABOADELA","Cambiador de Taboadela a Taboadela aguja km 446,1",Estándar,"0,5 km",False,viajeros,1,0,0,1,0,0,False,0.446,0.0
+16982,982,"BIFURCACIÓN MEDINA - TABOADELA AG. KM. 234,0","Taboadela aguja km 234,0 a Bifurcación Medina",Estándar,"313,9 km",False,mercancias,17,12,0,5,0,12,True,246.54,138.392

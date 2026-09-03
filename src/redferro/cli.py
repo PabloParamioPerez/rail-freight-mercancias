@@ -13,9 +13,13 @@ app = typer.Typer(no_args_is_help=True, add_completion=False, help="Red ferrovia
 network = typer.Typer(help="IDEAdif spatial snapshots.")
 db = typer.Typer(help="DuckDB store.")
 hab = typer.Typer(help="Habilitaciones dependency graph.")
+reference = typer.Typer(help="External reference data (municipal boundaries).")
+lines = typer.Typer(help="Per-line products: catalogue, ordered stations, city list.")
 app.add_typer(network, name="network")
 app.add_typer(db, name="db")
 app.add_typer(hab, name="hab")
+app.add_typer(reference, name="reference")
+app.add_typer(lines, name="lines")
 
 
 @network.command("fetch")
@@ -48,6 +52,25 @@ def hab_graph(
     d = dt.date.fromisoformat(as_of) if as_of else dt.date.today()
     g = build_dependency_graph(d)
     rprint(f"[cyan]Habilitaciones:[/] {g.number_of_nodes()} nodes, {g.number_of_edges()} edges")
+
+
+@reference.command("fetch")
+def reference_fetch() -> None:
+    """Download + checksum-verify the municipal boundaries used for geocoding."""
+    from redferro.sources.municipios import fetch_municipios
+
+    out = fetch_municipios()
+    rprint(f"[green]Boundaries ready:[/] {out}")
+
+
+@lines.command("build")
+def lines_build() -> None:
+    """Build lineas.csv, lineas_estaciones.csv and lineas_ciudades.csv from the store."""
+    from redferro.analysis.lineas import build_line_products
+
+    products = build_line_products()
+    for stem, frame in products.items():
+        rprint(f"[green]Wrote:[/] {settings.processed / f'{stem}.csv'}  ({len(frame)} rows)")
 
 
 @app.command("map")

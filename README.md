@@ -11,21 +11,28 @@ operadores alternativos de mercancías).
 ```bash
 # 1. instalar (uv gestiona el entorno)
 make install                         # = uv sync --all-extras --group dev
-make hooks                           # = uv run pre-commit install
 
-# 2. descargar la foto actual de la red + construir la base
-uv run redferro network fetch        # -> data/raw/ideadif_<fecha>.gpkg
-uv run redferro db build             # -> data/processed/redferro.duckdb
-uv run redferro map                  # -> data/processed/network_map.html
+# 2. reproducir TODOS los artefactos desde las entradas ya versionadas
+make reproduce                       # db → reference → lines → maps
+```
 
-# 3. (cuando haya habilitaciones cargadas) construir el grafo
+`make reproduce` reconstruye la base DuckDB, los tres CSV por línea, la
+geocodificación estación→municipio y los cuatro mapas a partir de la foto de IDEAdif
+que **ya viene en el repo** (`data/raw/ideadif_2026-07-18.gpkg`). Sólo el paso
+`reference` toca la red (descarga única de límites municipales, verificada por
+SHA-256). Detalle y diccionario de datos en [`data/README.md`](data/README.md).
+
+```bash
+# obtener una foto NUEVA de la red (opcional; cambia el dato fijado)
+make snapshot                        # uv run redferro network fetch
+# (cuando haya habilitaciones cargadas) construir el grafo
 uv run redferro hab graph --as-of 2024-01-01
 ```
 
-`make help` lista el resto (`lint`, `fmt`, `test`, `build`, `lock`).
+`make help` lista el resto (`lint`, `fmt`, `test`, `build`, `lock`, `hooks`).
 
-> Los pasos que tocan la red necesitan acceso a `ideadif.adif.es`.
-> El resto —incluido todo el test suite— funciona sin conexión.
+> Sólo `make snapshot` y `make reference` tocan la red. El resto —incluido todo el
+> test suite y `make reproduce` salvo la descarga única de límites— funciona offline.
 
 ### Entorno reproducible
 `uv.lock` **se versiona** (esto es un repo de análisis, no una librería):
@@ -40,19 +47,27 @@ make lock               # uv lock --upgrade, para subir versiones a propósito
 ```
 src/redferro/
   config.py            configuración (pydantic-settings, .env)
-  cli.py               CLI (typer):  redferro network|db|hab|map|info
+  cli.py               CLI (typer): network|db|reference|lines|hab|map|info
   sources/
     ideadif_wfs.py     descarga WFS (RailwayLink/Node/StationNode)
     declaracion_red.py parseo de la Declaración sobre la Red (histórico)
+    rfig.py            numeración RFIG (nº de línea) desde la Orden FOM/710/2015
+    municipios.py      límites municipales + geocodificación estación→municipio
   db/
     schema.sql         esquema DuckDB (infra + habilitaciones + grafo)
     duckdb_io.py       carga de snapshots a DuckDB
+  analysis/
+    lineas.py          productos por línea: catálogo, estaciones, ciudades
   habilitaciones/
     model.py           tipos de dominio
     graph.py           grafo de dependencia geográfica (networkx)
   viz/maps.py          mapas folium
+data/                  entradas fijadas + artefactos derivados — ver data/README.md
 docs/data-sources.md   detalle de fuentes, endpoints y limitaciones
 ```
+
+Qué hay en `data/`, qué se versiona y cómo se regenera está documentado en
+[`data/README.md`](data/README.md) (manifiesto + diccionario de columnas).
 
 ## Decisiones de diseño
 - **CRS de almacenamiento:** EPSG:25830 (nativo de IDEAdif); reproyección a 4326
@@ -76,6 +91,12 @@ docs/data-sources.md   detalle de fuentes, endpoints y limitaciones
 
 Mapas en `data/processed/`: `network_map.html` (toda la red por uso) y
 `freight_map.html` (sólo la subred de mercancías), en variante clara y oscura.
+
+Productos por línea (también en `data/processed/`, ver diccionario en
+[`data/README.md`](data/README.md)):
+- `lineas.csv` — catálogo: nº RFIG, nombre, ancho, mezcla de uso, longitud.
+- `lineas_estaciones.csv` — cada nodo de cada línea con su **municipio** geocodificado.
+- `lineas_ciudades.csv` — la lista ordenada de municipios que conecta cada línea.
 
 **Lo que falta:**
 - **Habilitaciones: sin fuente.** Las tablas `habilitacion_*` están vacías y no son

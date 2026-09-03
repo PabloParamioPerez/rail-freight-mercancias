@@ -32,8 +32,14 @@ operators.
   The service is a **current snapshot**, not historical; snapshots are date-stamped.
 - `sources/declaracion_red.py` — parses the annual *Declaración sobre la Red* PDFs
   (Catálogo de Líneas). **This is the historical/temporal backbone.**
+- `sources/rfig.py` — parses the RFIG line numbering (nº de línea ↔ nombre ↔ ancho)
+  from a committed wikitext snapshot of the Orden FOM/710/2015 catalogue.
+- `sources/municipios.py` — fetches (by pinned SHA-256) the INE/IGN municipal
+  boundaries and geocodes each station point to its municipio.
 - `db/schema.sql` + `db/duckdb_io.py` — DuckDB store (spatial ext). Three blocks:
   infrastructure (open), habilitaciones (constructed/internal), derived graph.
+- `analysis/lineas.py` — per-line reviewer products (catalogue, ordered stations,
+  city list) written to `data/processed/lineas*.csv`.
 - `habilitaciones/graph.py` — builds the networkx adjacency graph over
   habilitación units (shared physical node ⇒ geographic dependency).
 - `viz/maps.py` — folium maps.
@@ -41,10 +47,17 @@ operators.
 ## Conventions
 - Store geometry in **EPSG:25830** (native CRS of IDEAdif); reproject to 4326 only
   for web maps.
-- `data/raw` is immutable, date-stamped, gitignored. Derived artefacts go to
-  `data/interim` / `data/processed`. Never commit large binaries.
 - Every table carries a validity period; queries are "as of" a date.
 - Keep raw PDF/table extraction in `data/interim` for auditability before cleaning.
+- **Reproducibility over leanness** (see `data/README.md`). Commit a dataset iff it
+  cannot be re-fetched byte-identical: the exact IDEAdif snapshot (a moving source)
+  is committed even though it is 20 MB; the 81 MB boundaries file is *not* (stable →
+  fetched by checksum). Small reviewer-facing derived products (`lineas*.csv`, the
+  geocode parquet, the four maps) are committed for convenience but stay regenerable
+  by a `make` target; heavy regenerable artefacts (`redferro.duckdb`) are not. Every
+  derived artefact must be rebuildable via `make reproduce` — never hand-edit one.
+- `.gitignore` has **no inline comments** (a `!pattern  # note` matches nothing);
+  keep negations on their own lines, after every guard they must override.
 
 ## Data-source facts worth remembering
 - IDEAdif WFS: `https://ideadif.adif.es/services/wfs` — layers

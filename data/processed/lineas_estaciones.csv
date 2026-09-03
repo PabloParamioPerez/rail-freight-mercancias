@@ -1,0 +1,1985 @@
+codigo_linea,numero_rfig,orden,nombre_estacion,es_localidad,municipio,provincia,ccaa,geocode_match,dist_m,dep_id
+01000,000,1,HUELVA PUERTO,True,Palos de la Frontera,Huelva,Andalucía,within,0.0,TN_RailwayNode_43022
+01000,000,2,BIFURCACION TORRE ARENILLAS,False,Palos de la Frontera,Huelva,Andalucía,within,0.0,TN_RailwayNode_B4310
+01000,000,3,ACCESO PUERTO DE HUELVA,False,Palos de la Frontera,Huelva,Andalucía,within,0.0,TN_RailwayNode_43030
+01000,000,4,"HUELVA-MERCANCIAS AG. KM. 107,4",False,Huelva,Huelva,Andalucía,within,0.0,TN_RailwayNode_A4309
+01000,000,5,HUELVA-MERCANCIAS,True,Huelva,Huelva,Andalucía,within,0.0,TN_RailwayNode_43023
+01000,000,6,CADIZ,True,Cádiz,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51405
+01000,000,7,CADIZ-PUERTO,True,Cádiz,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51411
+01000,000,8,ALGECIRAS,True,Algeciras,Cádiz,Andalucía,within,0.0,TN_RailwayNode_55020
+01000,000,9,ALGECIRAS-PUERTO (CGD),True,Algeciras,Cádiz,Andalucía,within,0.0,TN_RailwayNode_55021
+01000,000,10,SAN ROQUE-LA LINEA,True,San Roque,Cádiz,Andalucía,within,0.0,TN_RailwayNode_55018
+01000,000,11,MIRAFLORES LA LINEA,True,San Roque,Cádiz,Andalucía,within,0.0,TN_RailwayNode_55023
+01000,000,12,FACT. SEAT,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51007
+01000,000,13,SEVILLA-SANTA JUSTA,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51003
+01000,000,14,SAN JERONIMO (CGD),True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_50800
+01000,000,15,SEVILLA-CTT,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_XX008
+01000,000,16,LA NEGRILLA,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51005
+01000,000,17,BIF. S. BERNARDO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5119
+01000,000,18,BIF. SAN JERONIMO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5073
+01000,000,19,EXPO,True,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_37804
+01000,000,20,AZVISA CENTRO LOGÍSTICO,True,Alcalá de Guadaíra,Sevilla,Andalucía,within,0.0,TN_RailwayNode_XX018
+01000,000,21,MAJARABIQUE,True,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_37803
+01000,000,22,ALCALA DE GUADAIRA-POLO DESARROLLO,True,Alcalá de Guadaíra,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51006
+01000,000,23,BADAJOZ-FRONTERA,False,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37610
+01000,000,24,BADAJOZ,True,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37606
+01000,000,25,MALAGA MARIA ZAMBRANO,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54413
+01000,000,26,"P.K. 0,682 PTO CONEXION MALAGA",False,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_PK068
+01000,000,27,BIF. PLAYA,False,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_B5442
+01000,000,28,MALAGA-PLAYA (CGD),True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54415
+01000,000,29,MALAGA-PUERTO,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54414
+01000,000,30,VIGO-BERBES,True,Vigo,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22307
+01000,000,31,VIGO-GUIXAR,True,Vigo,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22308
+01000,000,32,"P.K. 5,404 PTO",False,Pontevedra,Pontevedra,Galicia,within,0.0,TN_RailwayNode_PK540
+01000,000,33,PONTEVEDRA,True,Pontevedra,Pontevedra,Galicia,within,0.0,TN_RailwayNode_23004
+01000,000,34,A CORUÑA-SAN DIEGO,True,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_20406
+01000,000,35,A CORUÑA-PUERTO,True,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_20407
+01000,000,36,ACCESO PUERTOLLANO REFINERÍA,False,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_B3730
+01000,000,37,FERROL PUERTO,True,Ferrol,A Coruña,Galicia,within,0.0,TN_RailwayNode_21011
+01000,000,38,FERROL,True,Ferrol,A Coruña,Galicia,within,0.0,TN_RailwayNode_21010
+01000,000,39,PUERTOLLANO-REFINERIA,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37315
+01000,000,40,ALMERIA-PUERTO,True,Almería,Almería,Andalucía,within,0.0,TN_RailwayNode_56313
+01000,000,41,ALMERIA,True,Almería,Almería,Andalucía,within,0.0,TN_RailwayNode_56312
+01000,000,42,KM. 253.5,False,Ponferrada,León,Castilla y León,within,0.0,TN_RailwayNode_B2021
+01000,000,43,PONFERRADA-CLASIFICACION,False,Ponferrada,León,Castilla y León,within,0.0,TN_RailwayNode_20114
+01000,000,44,PONFERRADA,True,Ponferrada,León,Castilla y León,within,0.0,TN_RailwayNode_20200
+01000,000,45,AGUILAS,True,Águilas,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_07004
+01000,000,46,AGUILAS PTO.,True,Águilas,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_07006
+01000,000,47,VALLADOLID-ARGALES,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10608
+01000,000,48,VILLAVERDE-ORCASITAS (CGD),True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35008
+01000,000,49,"AGUJA KM 8,640",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_XX012
+01000,000,50,EL SALOBRAL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60108
+01000,000,51,VILLAVERDE-MERCANCIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_95101
+01000,000,52,VALLADOLID-CAMPO GRANDE,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10600
+01000,000,53,BIF. MUSEO,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1804
+01000,000,54,MUSEO DELICIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_XX006
+01000,000,55,TRES HERMANOS,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10601
+01000,000,56,CAMPSA,True,Santovenia de Pisuerga,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_XX002
+01000,000,57,ODONNELL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98100
+01000,000,58,BARAJAS-HANGARES (APD),False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98303
+01000,000,59,BIF. BASE AEREA,False,Alcalá de Henares,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B7011
+01000,000,60,BASE AEREA DE TORREJON,True,Torrejón de Ardoz,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70106
+01000,000,61,CANTERA LUGONES,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_XX015
+01000,000,62,LUGONES,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15212
+01000,000,63,VIELLA,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16101
+01000,000,64,CENTRAL LECHERA,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_XX011
+01000,000,65,VENTA DE BAÑOS,True,Venta de Baños,Palencia,Castilla y León,within,0.0,TN_RailwayNode_11000
+01000,000,66,FASA-RENAULT,True,Villamuriel de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_XX001
+01000,000,67,ENSIDESA,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_XX009
+01000,000,68,BIF. ENSIDESA,False,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_XX013
+01000,000,69,CARTAGENA-PUERTO,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61308
+01000,000,70,BIF. PARQUE CARBONERAS,False,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_XX014
+01000,000,71,ABOÑO,True,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16601
+01000,000,72,CARTAGENA,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61307
+01000,000,73,PARQUE DE CARBONES DE ABOñO,True,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16605
+01000,000,74,EL MUSEL,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_XX010
+01000,000,75,GIJON-PUERTO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16604
+01000,000,76,ALGUAZAS-MOLINA,True,Alguazas,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61017
+01000,000,77,RIBERA DE MOLINA (CGD),True,Molina de Segura,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_63002
+01000,000,78,VILLALONQUEJAR,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_82220
+01000,000,79,BURGOS,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11100
+01000,000,80,SANT GABRIEL,True,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62109
+01000,000,81,ALACANT-PORT(LÍMITE CONEXIÓN),True,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62107
+01000,000,82,ALACANT-BENALUA (CGD),True,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62105
+01000,000,83,MURIEDAS,True,Camargo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14221
+01000,000,84,SANTANDER-PUERTO,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14224
+01000,000,85,BIF.GRAO VALENCI,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6502
+01000,000,86,GRAO DE VALENCIA,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65009
+01000,000,87,VALENCIA PUERTO,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65012
+01000,000,88,GILET (APD),False,Gilet,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_67223
+01000,000,89,SAGUNT,True,Sagunt,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65200
+01000,000,90,PUERTO DE SAGUNTO,True,Sagunt,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_67224
+01000,000,91,SANTURTZI-PUERTO,True,Santurtzi,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13407
+01000,000,92,SANTURTZI,True,Santurtzi,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13405
+01000,000,93,GENERAL MOTOS,True,Pedrola,Zaragoza,Aragón,within,0.0,TN_RailwayNode_XX004
+01000,000,94,GRISEN,True,Grisén,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70706
+01000,000,95,CENTRAL TERMICA,True,Andorra,Teruel,Aragón,within,0.0,TN_RailwayNode_CT712
+01000,000,96,ZARAGOZA-ARRABAL,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78002
+01000,000,97,ZARAGOZA-CORBERA ALTA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78007
+01000,000,98,TORRASPAPEL - LA MONTAÑANESA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_50A03
+01000,000,99,SAMPER,True,Samper de Calanda,Teruel,Aragón,within,0.0,TN_RailwayNode_71201
+01000,000,100,ZUERA,True,Zuera,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78100
+01000,000,101,CEPSA FACTORIA,True,Zuera,Zaragoza,Aragón,within,0.0,TN_RailwayNode_XX017
+01000,000,102,GURREA DE GALLEGO,True,Gurrea de Gállego,Huesca,Aragón,within,0.0,TN_RailwayNode_74001
+01000,000,103,"PK. 1,927",False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_A7510
+01000,000,104,BIF. A VILANOVETA,False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B7511
+01000,000,105,"AG. KM. 185,747",False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_A8401
+01000,000,106,PLA DE VILANOVETA,True,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_78401
+01000,000,107,BALAGUER,True,Balaguer,Lleida,Cataluña,within,0.0,TN_RailwayNode_75105
+01000,000,108,LA POBLA DE SEGUR,True,La Pobla de Segur,Lleida,Cataluña,within,0.0,TN_RailwayNode_75116
+01000,000,109,"BELLV.AG.672,900",False,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7172
+01000,000,110,TALLERES,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_XX005
+01000,000,111,MERCABARNA,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_XX003
+01000,000,112,BARCELONA-CAN TUNIS,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71901
+01000,000,113,BARCELONA-SANTS,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71801
+01100,100,1,AVILA,True,Ávila,Ávila,Castilla y León,within,0.0,TN_RailwayNode_10400
+01100,100,2,HERRADON-LA CAÑADA,True,Herradón de Pinares,Ávila,Castilla y León,within,0.0,TN_RailwayNode_10300
+01100,100,3,SANTA MARIA DE LA ALAMEDA,True,Santa María de la Alameda,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10206
+01100,100,4,EL ESCORIAL,True,El Escorial,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10203
+01100,100,5,BIF. P. PIO,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9701
+01100,100,6,PINAR DE LAS ROZAS,True,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10100
+01100,100,7,EL TEJAR (APD),False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_97103
+01100,100,8,LAS MATAS,True,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10101
+01100,100,9,VILLALBA DE GUADARRAMA,True,Collado Villalba,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10200
+01100,100,10,AREVALO,True,Arévalo,Ávila,Castilla y León,within,0.0,TN_RailwayNode_10409
+01100,100,11,PITIS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_97100
+01100,100,12,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+01100,100,13,"KM 179,9",False,Palacios de Goda,Ávila,Castilla y León,within,0.0,TN_RailwayNode_10410
+01100,100,14,MEDINA DEL CAMPO,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10500
+01100,100,15,VALDESTILLAS,True,Valdestillas,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10503
+01100,100,16,VALLADOLID-CAMPO GRANDE,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10600
+01100,100,17,KM 250,False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0801
+01100,100,18,TRES HERMANOS,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10601
+01100,100,19,BIF. CANAL DUERO,False,Santovenia de Pisuerga,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0810
+01100,100,20,RIO PISUERGA,False,Santovenia de Pisuerga,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10611
+01100,100,21,CORCOS-AGUILAREJO,True,Corcos,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10603
+01100,100,22,CUBILLAS DE SANTA MARTA (APD),False,Cubillas de Santa Marta,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10604
+01100,100,23,VENTA DE BAÑOS,True,Venta de Baños,Palencia,Castilla y León,within,0.0,TN_RailwayNode_11000
+01100,100,24,MAGAZ,True,Magaz de Pisuerga,Palencia,Castilla y León,within,0.0,TN_RailwayNode_11004
+01100,100,25,VILLODRIGO,True,Villodrigo,Palencia,Castilla y León,within,0.0,TN_RailwayNode_11007
+01100,100,26,BIF. ARANDA,False,Villalbilla de Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_B1111
+01100,100,27,BURGOS-ROSA MANZANO,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11014
+01100,100,28,"BURGOS AG. KM. 374,2",False,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_A0825
+01100,100,29,"BIF. RUBENA-AG. KM. 377,3",False,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_A1112
+01100,100,30,BIF. RUBENA,False,Rubena,Burgos,Castilla y León,within,0.0,TN_RailwayNode_B1112
+01100,100,31,BRIVIESCA,True,Briviesca,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11109
+01100,100,32,PANCORBO,True,Pancorbo,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11111
+01100,100,33,BUJEDO,True,Bugedo,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11112
+01100,100,34,BIF. RIOJA,False,Miranda de Ebro,Burgos,Castilla y León,within,0.0,TN_RailwayNode_B1110
+01100,100,35,MIRANDA DE EBRO,True,Miranda de Ebro,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11200
+01100,100,36,JUNDIZ,True,Vitoria-Gasteiz,Araba,País Vasco,within,0.0,TN_RailwayNode_11221
+01100,100,37,VITORIA-GASTEIZ,True,Vitoria-Gasteiz,Araba,País Vasco,within,0.0,TN_RailwayNode_11208
+01100,100,38,AGURAIN-SALVATIERRA DE ALAVA,True,Agurain,Araba,País Vasco,within,0.0,TN_RailwayNode_11212
+01100,100,39,EGUINO (APD),False,Asparrena,Araba,País Vasco,within,0.0,TN_RailwayNode_11214
+01100,100,40,KM. 529.1,False,Asparrena,Araba,País Vasco,within,0.0,TN_RailwayNode_C1125
+01100,100,41,"BIF. KM.534,0",False,Olazti,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_B1120
+01100,100,42,ZEGAMA-OTZAURTE,True,Zegama,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11303
+01100,100,43,ALTSASU,True,Altsasu,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_11300
+01100,100,44,BRINKOLA,True,Legazpi,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11305
+01100,100,45,ZUMARRAGA,True,Zumarraga,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11400
+01100,100,46,TOLOSA,True,Tolosa,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11500
+01100,100,47,HERNANI,True,Hernani,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11508
+01100,100,48,SAN SEBASTIAN-DONOSTIA,True,Donostia,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11511
+01100,100,49,LEZO-ERRENTERIA,True,Lezo,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11516
+01100,100,50,IRUN,True,Irun,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11600
+01100,100,51,"P.K. 641,181 (FRONTERA)",False,Irun,Gipuzkoa,País Vasco,nearest,9.4,TN_RailwayNode_C1160
+01100,100,52,HENDAYA,True,Irun,Gipuzkoa,País Vasco,nearest,463.8,TN_RailwayNode_11602
+01102,102,1,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+01102,102,2,BIF. FUENCARRAL,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1702
+01102,102,3,UNIVERSIDAD-CANTOBLANCO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17009
+01102,102,4,BIF. TRES CANTOS,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1703
+01102,102,5,EL GOLOSO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17003
+01102,102,6,TRES CANTOS,True,Tres Cantos,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17004
+01102,102,7,COLMENAR VIEJO,True,Colmenar Viejo,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17005
+01102,102,8,MANZANARES-SOTO EL REAL,True,Soto del Real,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17006
+01102,102,9,BUSTARVIEJO-VALDEMANCO,True,Bustarviejo,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17100
+01102,102,10,ROBREGORDO-SOMOSIERRA,True,Robregordo,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17107
+01102,102,11,RIAZA,True,Comunidad de Sepúlveda y Riaza,Segovia,Castilla y León,within,0.0,TN_RailwayNode_17109
+01102,102,12,MADERUELO-LINARES,True,Maderuelo,Segovia,Castilla y León,within,0.0,TN_RailwayNode_17112
+01102,102,13,ARANDA DE DUERO-MONTECILLO,True,Aranda de Duero,Burgos,Castilla y León,within,0.0,TN_RailwayNode_17200
+01102,102,14,LERMA (APD),False,Lerma,Burgos,Castilla y León,within,0.0,TN_RailwayNode_17205
+01102,102,15,BIF. ARANDA,False,Villalbilla de Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_B1111
+01104,104,1,UNIVERSIDAD-CANTOBLANCO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17009
+01104,104,2,ALCOBENDAS S.SEBASTIAN DE LOS REYES,True,Alcobendas,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_19003
+01106,106,1,IRUN,True,Irun,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11600
+01106,106,2,CAMBIADOR IRUN,False,Irun,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11604
+01106,106,3,"P.K.641,181(FRONTERA)",False,Irun,Gipuzkoa,País Vasco,nearest,10.8,TN_RailwayNode_C1161
+01106,106,4,HENDAYA,True,Irun,Gipuzkoa,País Vasco,nearest,463.8,TN_RailwayNode_11602
+01108,108,1,LA CARRERA (CGD),True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_85214
+01108,108,2,"C. FERROVIARIO AG. KM. 3,7",False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B1053
+01108,108,3,BIF. LINEA MADRID-HENDAYA,False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B1051
+01108,108,4,VALLADOLID-CAMPO GRANDE,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10600
+01110,110,1,VILLALBA DE GUADARRAMA,True,Collado Villalba,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10200
+01110,110,2,TABLADA,True,Guadarrama,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_12007
+01110,110,3,CERCEDILLA,True,Cercedilla,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_12006
+01110,110,4,SEGOVIA,True,Segovia,Segovia,Castilla y León,within,0.0,TN_RailwayNode_12100
+01112,112,1,VALLADOLID-CAMPO GRANDE,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10600
+01112,112,2,BIF. LINEA MADRID-HENDAYA,False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B1051
+01112,112,3,VALLADOLID-ARGALES,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10608
+01116,116,1,CERCEDILLA,True,Cercedilla,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_12006
+01116,116,2,PUERTO DE NAVACERRADA,True,Los Baldios,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_12020
+01116,116,3,LOS COTOS,True,Real Sitio de San Ildefonso,Segovia,Castilla y León,within,0.0,TN_RailwayNode_12023
+01118,118,1,"P.K. 641,181 (FRONTERA)",False,Irun,Gipuzkoa,País Vasco,nearest,9.4,TN_RailwayNode_C1160
+01118,118,2,IRUN,True,Irun,Gipuzkoa,País Vasco,within,0.0,TN_RailwayNode_11600
+01120,120,1,FUENTES DE OÑORO,True,Fuentes de Oñoro,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_33016
+01120,120,2,VILAR FORMOSO,True,Fuentes de Oñoro,Salamanca,Castilla y León,nearest,248.9,TN_RailwayNode_33030
+01120,120,3,FUENTES OÑORO-FRONTERA,False,Fuentes de Oñoro,Salamanca,Castilla y León,nearest,1.5,TN_RailwayNode_C3308
+01120,120,4,CIUDAD RODRIGO,True,Ciudad Rodrigo,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_33013
+01120,120,5,FTE. DE S. ESTEBAN-BOADILLA,True,La Fuente de San Esteban,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_33008
+01120,120,6,TEJARES-CHAMBERI,True,Salamanca,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_33001
+01120,120,7,BIF. LA SERNA,False,Carbajosa de la Sagrada,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_B3001
+01120,120,8,LA ALAMEDILLA (APD),False,Salamanca,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_30110
+01120,120,9,SALAMANCA,True,Salamanca,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_30100
+01120,120,10,CANTALAPIEDRA,True,Cantalapiedra,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_32004
+01120,120,11,FRESNO EL VIEJO (APD),False,Fresno el Viejo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_32003
+01120,120,12,BIF. ARROYO DE LA GOLOSA,False,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B3200
+01120,120,13,MEDINA DEL CAMPO,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10500
+01122,122,1,SALAMANCA,True,Salamanca,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_30100
+01122,122,2,PEÑARANDA DE BRACAMONTE,True,Peñaranda de Bracamonte,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_34010
+01122,122,3,SAN PEDRO DEL ARROYO,True,San Pedro del Arroyo,Ávila,Castilla y León,within,0.0,TN_RailwayNode_34005
+01122,122,4,AVILA,True,Ávila,Ávila,Castilla y León,within,0.0,TN_RailwayNode_10400
+01124,124,1,SALAMANCA,True,Salamanca,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_30100
+01124,124,2,VALDUNCIEL (CGD),True,Valdunciel,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_30101
+01126,126,1,ARANDA DE DUERO-MONTECILLO,True,Aranda de Duero,Burgos,Castilla y León,within,0.0,TN_RailwayNode_17200
+01126,126,2,ARANDA DE DUERO-CHELVA(CGD.),True,Aranda de Duero,Burgos,Castilla y León,within,0.0,TN_RailwayNode_85200
+01128,128,1,"BURGOS AG. KM. 374,2",False,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_A0825
+01128,128,2,CAMB. BURGOS,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_08020
+01156,156,1,CAMBIADOR VILLAMURIEL,False,Villamuriel de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_08201
+01156,156,2,BIF. VILLAMURIEL DE CERRATO,False,Villamuriel de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B1401
+01164,164,1,PALENCIA ARROYO VILLALOBON,True,Palencia,Palencia,Castilla y León,within,0.0,TN_RailwayNode_15000
+01164,164,2,BIF. VILLAMURIEL DE CERRATO,False,Villamuriel de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B1401
+01164,164,3,MAGAZ,True,Magaz de Pisuerga,Palencia,Castilla y León,within,0.0,TN_RailwayNode_11004
+01166,166,1,BIF. RUBENA,False,Rubena,Burgos,Castilla y León,within,0.0,TN_RailwayNode_B1112
+01166,166,2,VILLAFRIA,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11102
+01168,168,1,"BIF. RUBENA-AG. KM. 377,3",False,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_A1112
+01168,168,2,VILLAFRIA,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11102
+01172,172,1,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+01172,172,2,CAMBIADOR MADRID-CHAMARTIN,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_08011
+01174,174,1,MEDINA DEL CAMPO,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10500
+01174,174,2,CAMBIADOR MEDINA DEL CAMPO,False,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08200
+01176,176,1,VALDESTILLAS,True,Valdestillas,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10503
+01176,176,2,CAMBIADOR VALDESTILLAS,False,Valdestillas,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08012
+01178,178,1,KM 250,False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0801
+01178,178,2,CAMBIADOR VALLADOLID C. GRANDE,False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08010
+01188,188,1,CAMB. MEDINA DEL CAMPO AV,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08241
+01188,188,2,BIF. ARROYO DE LA GOLOSA,False,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B3200
+01192,192,1,"C. FERROVIARIO AG. KM. 3,7",False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B1053
+01192,192,2,COMPLEJO FERROVIARIO MERC.,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10620
+01192,192,3,RIO PISUERGA,False,Santovenia de Pisuerga,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10611
+01700,700,1,CASETAS,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70800
+01700,700,2,CABAÑAS DE EBRO,True,Cabañas de Ebro,Zaragoza,Aragón,within,0.0,TN_RailwayNode_81209
+01700,700,3,CORTES DE NAVARRA,True,Cortes,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_81205
+01700,700,4,TUDELA DE NAVARRA,True,Tudela,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_81202
+01700,700,5,CASTEJON DE EBRO,True,Castejón,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_81200
+01700,700,6,CALAHORRA,True,Calahorra,La Rioja,La Rioja,within,0.0,TN_RailwayNode_81108
+01700,700,7,ALCANADRE,True,Alcanadre,La Rioja,La Rioja,within,0.0,TN_RailwayNode_81105
+01700,700,8,LOGROÑO,True,Logroño,La Rioja,La Rioja,within,0.0,TN_RailwayNode_81100
+01700,700,9,HARO,True,Haro,La Rioja,La Rioja,within,0.0,TN_RailwayNode_81002
+01700,700,10,SAN FELICES,True,Haro,La Rioja,La Rioja,within,0.0,TN_RailwayNode_81001
+01700,700,11,MIRANDA DE EBRO,True,Miranda de Ebro,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11200
+01700,700,12,BIF. CASTILLA,False,Miranda de Ebro,Burgos,Castilla y León,within,0.0,TN_RailwayNode_B8100
+01700,700,13,ARTOMAÑA,True,Amurrio,Araba,País Vasco,within,0.0,TN_RailwayNode_13006
+01700,700,14,ORDUÑA,True,Urduña,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13100
+01700,700,15,ARETA (APD),False,Laudio,Araba,País Vasco,within,0.0,TN_RailwayNode_13107
+01700,700,16,LLODIO,True,Laudio,Araba,País Vasco,within,0.0,TN_RailwayNode_13106
+01700,700,17,ARRIGORRIAGA,True,Arrigorriaga,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13111
+01700,700,18,AGUJA DE ENLACE,False,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_A1311
+01700,700,19,INTERMODAL ABANDO IND. PRIETO,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13200
+01704,704,1,BIF. RIOJA,False,Miranda de Ebro,Burgos,Castilla y León,within,0.0,TN_RailwayNode_B1110
+01704,704,2,BIF. CASTILLA,False,Miranda de Ebro,Burgos,Castilla y León,within,0.0,TN_RailwayNode_B8100
+01710,710,1,CASTEJON DE EBRO,True,Castejón,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_81200
+01710,710,2,TAFALLA,True,Tafalla,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_80108
+01710,710,3,GARINOAIN,True,Garínoain,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_80106
+01710,710,4,NOAIN,True,Noáin (Valle de Elorz),Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_80103
+01710,710,5,PAMPLONA,True,Pamplona,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_80100
+01710,710,6,ETXARRI-ARANATZ,True,Etxarri Aranatz,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_80003
+01710,710,7,"BIF. KM.231,5",False,Altsasu,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_B8000
+01710,710,8,ALTSASU,True,Altsasu,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_11300
+01712,712,1,"BIF. KM.231,5",False,Altsasu,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_B8000
+01712,712,2,"BIF. KM.534,0",False,Olazti,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_B1120
+01720,720,1,INTERMODAL ABANDO IND. PRIETO,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13200
+01720,720,2,LA CASILLA,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13201
+01720,720,3,BIFURCACION LA CASILLA,False,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_B1320
+01720,720,4,OLABEAGA,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13303
+01720,720,5,ZORROTZA,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13304
+01720,720,6,LUTXANA-BARAKALDO,True,Barakaldo,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13305
+01720,720,7,DESERTU-BARAKALDO,True,Barakaldo,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13400
+01720,720,8,SANTURTZI,True,Santurtzi,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13405
+01722,722,1,DESERTU-BARAKALDO,True,Barakaldo,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13400
+01722,722,2,MUSKIZ,True,Muskiz,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13506
+01724,724,1,SANTURTZI,True,Santurtzi,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13405
+01724,724,2,BILBAO MERCANCIAS,True,Santurtzi,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13408
+01726,726,1,BIFURCACION LA CASILLA,False,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_B1320
+01726,726,2,LA CASILLA,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13201
+01726,726,3,AGUJA DE ENLACE,False,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_A1311
+01904,904,1,BIF. FUENCARRAL,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1702
+01904,904,2,"FUENCARRAL-AGUJA KM 4,5",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A1702
+01904,904,3,FUENCARRAL-FUENTE GRANDE,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_97101
+01910,910,1,BIF. STA. CATALINA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1803
+01910,910,2,DELICIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18004
+01910,910,3,MADRID-ATOCHA CERCANIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18000
+01910,910,4,PIRAMIDES (APD),False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18005
+01910,910,5,MADRID-PRINCIPE PIO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10000
+01910,910,6,POZUELO,True,Pozuelo de Alarcón,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10002
+01910,910,7,LAS ROZAS (APD),False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10005
+01910,910,8,BIF. CHAMARTIN,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1005
+01910,910,9,BIF. CHAMARTIN-AGUJA KM.18.6,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_97018
+01910,910,10,PINAR DE LAS ROZAS,True,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10100
+01912,912,1,LAS MATAS,True,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10101
+01912,912,2,LAS MATAS CLASIFICACION,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10105
+01912,912,3,PINAR DE LAS ROZAS,True,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10100
+01914,914,1,BIF. P. PIO,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9701
+01914,914,2,BIF. CHAMARTIN-AGUJA KM.18.6,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_97018
+01914,914,3,BIF. CHAMARTIN,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1005
+01924,924,1,BIF. P. PIO,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9701
+01924,924,2,BIF. CHAMARTIN,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1005
+01999,999,1,AYAMONTE,True,Ayamonte,Huelva,Andalucía,within,0.0,TN_RailwayNode_42107
+01999,999,2,GIBRALEON,True,Gibraleón,Huelva,Andalucía,within,0.0,TN_RailwayNode_42020
+01999,999,3,PUERTO REAL (APD),False,Puerto Real,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51401
+01999,999,4,PUERTO DE SANTA MARIA,True,El Puerto de Santa María,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51400
+01999,999,5,SANLUCAR DE BARRAMEDA,True,El Puerto de Santa María,Cádiz,Andalucía,within,0.0,TN_RailwayNode_53009
+01999,999,6,TROCADERO,True,El Puerto de Santa María,Cádiz,Andalucía,within,0.0,TN_RailwayNode_F0405
+01999,999,7,BONANZA,True,Sanlúcar de Barrameda,Cádiz,Andalucía,within,0.0,TN_RailwayNode_F0408
+01999,999,8,JEREZ DE LA FRONTERA,False,Jerez de la Frontera,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51300
+01999,999,9,JEDULA,True,Arcos de la Frontera,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51502
+01999,999,10,ARCOS DE LA FRONTERA,False,Arcos de la Frontera,Cádiz,Andalucía,within,0.0,TN_RailwayNode_52003
+01999,999,11,VV. FRESNO,True,Villanueva del Fresno,Badajoz,Extremadura,within,0.0,TN_RailwayNode_F0503
+01999,999,12,SAN FRANCISCO DE GUADAIRA,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_F2004
+01999,999,13,UTRERA,True,Utrera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51200
+01999,999,14,SEVILLA-SANTA JUSTA,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51003
+01999,999,15,SEVILLA CTT,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_F0415
+01999,999,16,BIF.BOBADILLA,False,Utrera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_F0416
+01999,999,17,BIF. S. BERNARDO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5119
+01999,999,18,JEREZ DE LOS CABALLEROS (CGD),True,Jerez de los Caballeros,Badajoz,Extremadura,within,0.0,TN_RailwayNode_41004
+01999,999,19,CARMONA BAJA,True,Alcalá de Guadaíra,Sevilla,Andalucía,within,0.0,TN_RailwayNode_F0407
+01999,999,20,SEVILLA SAN BERNARDO,True,Alcalá de Guadaíra,Sevilla,Andalucía,within,0.0,TN_RailwayNode_F0406
+01999,999,21,MORON DE LA FRONTERA,False,Arahal,Sevilla,Andalucía,within,0.0,TN_RailwayNode_01103
+01999,999,22,LA TRINIDAD,True,Morón de la Frontera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_01002
+01999,999,23,OLVERA,True,Olvera,Cádiz,Andalucía,within,0.0,TN_RailwayNode_F0512
+01999,999,24,CARMONA ALTA,True,Carmona,Sevilla,Andalucía,within,0.0,TN_RailwayNode_02101
+01999,999,25,GUADAJOZ (APD),False,Carmona,Sevilla,Andalucía,within,0.0,TN_RailwayNode_50602
+01999,999,26,MARCHENA,True,Marchena,Sevilla,Andalucía,within,0.0,TN_RailwayNode_01005
+01999,999,27,ZAFRA,True,Zafra,Badajoz,Extremadura,within,0.0,TN_RailwayNode_40100
+01999,999,28,ALMARGEN,True,Almargen,Málaga,Andalucía,within,0.0,TN_RailwayNode_F0401
+01999,999,29,MALAGA,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_F0409
+01999,999,30,MALAGA-PLAYA (CGD),True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54415
+01999,999,31,BIF. LAS MARAVILLAS,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0103
+01999,999,32,FUENTE DE PIEDRA,True,Fuente de Piedra,Málaga,Andalucía,within,0.0,TN_RailwayNode_54301
+01999,999,33,LA CARLOTA,True,La Carlota,Córdoba,Andalucía,within,0.0,TN_RailwayNode_F0403
+01999,999,34,"KM. 72,3",False,Puente Genil,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54200
+01999,999,35,ARROYO DE MALPARTIDA,True,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35402
+01999,999,36,CASAR DE CACERES,True,Casar de Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35305
+01999,999,37,VALCHILLON,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54100
+01999,999,38,VILLANUEVA DE LA SERENA,True,Villanueva de la Serena,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37406
+01999,999,39,RENA,True,Rena,Badajoz,Extremadura,within,0.0,TN_RailwayNode_F0510
+01999,999,40,ALCAUDETE-FTE.ORBE,True,Alcaudete,Jaén,Andalucía,within,0.0,TN_RailwayNode_03106
+01999,999,41,LOGROSAN,True,Logrosán,Cáceres,Extremadura,within,0.0,TN_RailwayNode_F0505
+01999,999,42,PLASENCIA,True,Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_30002
+01999,999,43,MARMOLEJO,True,Marmolejo,Jaén,Andalucía,within,0.0,TN_RailwayNode_50405
+01999,999,44,LA FREGENEDA (Puente Internacional),True,La Fregeneda,Salamanca,Castilla y León,nearest,36.3,TN_RailwayNode_F0103
+01999,999,45,JAEN,True,Jaén,Jaén,Andalucía,within,0.0,TN_RailwayNode_03100
+01999,999,46,PUERTOLLANO,True,Andújar,Jaén,Andalucía,within,0.0,TN_RailwayNode_F0506
+01999,999,47,ALIA,True,Alía,Cáceres,Extremadura,within,0.0,TN_RailwayNode_F0509
+01999,999,48,SANTIAGO DE COMPOST.-DANIEL CASTELAO,True,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_31400
+01999,999,49,LINARES,True,Espeluy,Jaén,Andalucía,within,0.0,TN_RailwayNode_F0402
+01999,999,50,ESPELUY,True,Espeluy,Jaén,Andalucía,within,0.0,TN_RailwayNode_50400
+01999,999,51,GUADIX,True,Guadix,Granada,Andalucía,within,0.0,TN_RailwayNode_56200
+01999,999,52,PUERTO DE BEJAR,True,Puerto de Béjar,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_30009
+01999,999,53,FTE. DE S. ESTEBAN-BOADILLA,True,La Fuente de San Esteban,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_33008
+01999,999,54,ALQUIFE,True,La Calahorra,Granada,Andalucía,within,0.0,TN_RailwayNode_58001
+01999,999,55,LA CALAHORRA-FERREIRA,True,La Calahorra,Granada,Andalucía,within,0.0,TN_RailwayNode_56201
+01999,999,56,OROSO-VILLACID,True,Oroso,A Coruña,Galicia,within,0.0,TN_RailwayNode_31402
+01999,999,57,ORDES,True,Ordes,A Coruña,Galicia,within,0.0,TN_RailwayNode_31415
+01999,999,58,P.K. 405/525,False,Ordes,A Coruña,Galicia,within,0.0,TN_RailwayNode_F0513
+01999,999,59,P.K. 405/600,False,Ordes,A Coruña,Galicia,within,0.0,TN_RailwayNode_F0514
+01999,999,60,P.K. 421/500,False,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_F0515
+01999,999,61,LINARES SAN JOSE,True,Linares,Jaén,Andalucía,within,0.0,TN_RailwayNode_56013
+01999,999,62,LINARES-BAEZA,True,Linares,Jaén,Andalucía,within,0.0,TN_RailwayNode_50300
+01999,999,63,BAEZA,True,Linares,Jaén,Andalucía,within,0.0,TN_RailwayNode_F0410
+01999,999,64,QUEIXAS-LONDOÑO,True,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_31406
+01999,999,65,P.K. 114/400,False,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_F0511
+01999,999,66,CALERA-CHOZAS,True,Calera y Chozas,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_35201
+01999,999,67,BAZA,True,Baza,Granada,Andalucía,within,0.0,TN_RailwayNode_06200
+01999,999,68,POBLETE,True,Ciudad Real,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_F0501
+01999,999,69,SERON,True,Serón,Almería,Andalucía,within,0.0,TN_RailwayNode_06111
+01999,999,70,BIF. LA SERNA,False,Carbajosa de la Sagrada,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_B3001
+01999,999,71,VALDUNCIEL (CGD),True,Valdunciel,Salamanca,Castilla y León,within,0.0,TN_RailwayNode_30101
+01999,999,72,CUBO DEL VINO,True,El Cubo de Tierra del Vino,Zamora,Castilla y León,within,0.0,TN_RailwayNode_30104
+01999,999,73,EL EMPERADOR,True,Los Yébenes,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_37108
+01999,999,74,TORAL DE LOS VADOS,True,Toral de los Vados,León,Castilla y León,within,0.0,TN_RailwayNode_20204
+01999,999,75,ZAMORA,True,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_30200
+01999,999,76,VILLAFRANCA DEL BIERZO (CGD),True,Villafranca del Bierzo,León,Castilla y León,within,0.0,TN_RailwayNode_20603
+01999,999,77,PONFERRADA-CARGADEROS,False,Ponferrada,León,Castilla y León,within,0.0,TN_RailwayNode_20115
+01999,999,78,PONFERRADA,True,Ponferrada,León,Castilla y León,within,0.0,TN_RailwayNode_20200
+01999,999,79,TOLEDO,True,Toledo,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_92102
+01999,999,80,LAS NORIAS,True,Huércal-Overa,Almería,Andalucía,within,0.0,TN_RailwayNode_06101
+01999,999,81,BARGAS (APD),False,Bargas,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_35102
+01999,999,82,CINCO CASAS,True,Alcázar de San Juan,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_50002
+01999,999,83,ALMENDRICOS (APD),False,Lorca,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_06100
+01999,999,84,BIENSERVIDA,True,Bienservida,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_F0517
+01999,999,85,ALGODOR,True,Aranjuez,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37100
+01999,999,86,TOMELLOSO,True,Tomelloso,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_96002
+01999,999,87,POBLADURA,True,Pobladura del Valle,Zamora,Castilla y León,within,0.0,TN_RailwayNode_30212
+01999,999,88,LA BAÑEZA,True,La Bañeza,León,Castilla y León,within,0.0,TN_RailwayNode_30216
+01999,999,89,ASTORGA,True,Astorga,León,Castilla y León,within,0.0,TN_RailwayNode_20100
+01999,999,90,MEDINA DEL CAMPO,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10500
+01999,999,91,VILLACAÑAS,True,Villacañas,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_60300
+01999,999,92,QUINTANAR DE LA ORDEN,True,Villacañas,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_93003
+01999,999,93,YELES Y ESQUIVIAS,True,Yeles,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_F0502
+01999,999,94,CARAVACA,True,Caravaca de la Cruz,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_F0314
+01999,999,95,LEGANES,True,Leganés,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35001
+01999,999,96,CUATRO VIENTOS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35603
+01999,999,97,LAS ROZAS (APD),False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10005
+01999,999,98,TOTANA,True,Totana,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_06003
+01999,999,99,BIF. CHAMARTIN,False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1005
+01999,999,100,SOCUELLAMOS,True,Socuéllamos,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_60406
+01999,999,101,PINAR DE LAS ROZAS,True,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_10100
+01999,999,102,LA PINILLA,True,Mazarrón,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_F0301
+01999,999,103,EL TEJAR (APD),False,Las Rozas de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_97103
+01999,999,104,CIRUELOS,True,Segovia,Segovia,Castilla y León,within,0.0,TN_RailwayNode_12108
+01999,999,105,SEGOVIA,True,Segovia,Segovia,Castilla y León,within,0.0,TN_RailwayNode_12100
+01999,999,106,MAZARRON,True,Fuente Álamo de Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_F0302
+01999,999,107,LA CARRERA (CGD),True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_85214
+01999,999,108,SANTA CRUZ DE LA ZARZA (APD),False,Santa Cruz de la Zarza,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_66005
+01999,999,109,LA POVEDA,True,Arganda del Rey,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_F0504
+01999,999,110,TORREJON DE ARDOZ,True,Torrejón de Ardoz,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70102
+01999,999,111,CARTAGENA,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61307
+01999,999,112,TARANCON,True,Tarancón,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_66006
+01999,999,113,RIBERA DE MOLINA (CGD),True,Molina de Segura,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_63002
+01999,999,114,MURCIA DEL CARMEN,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61200
+01999,999,115,MURCIA ZARAICHE,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_F0305
+01999,999,116,LOS RAMOS-ALQUERIAS,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61300
+01999,999,117,ALBACETE - LOS LLANOS,True,Albacete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60600
+01999,999,118,CHINCHILLA DE MONTEARAGON,True,Chinchilla de Monte-Aragón,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_F0304
+01999,999,119,PEÑAFIEL,True,Peñafiel,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_85206
+01999,999,120,CHINCHILLA DE MONTEARAGON,True,Chinchilla de Monte-Aragón,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60701
+01999,999,121,VILLAR DE CHINCHILLA,True,Chinchilla de Monte-Aragón,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60702
+01999,999,122,TORREVIEJA,True,Torrevieja,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62204
+01999,999,123,SAN ISIDRO-ALBATERA-CATRAL,True,San Isidro,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62100
+01999,999,124,VENTA DEL MORO,True,Venta del Moro,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_F0516
+01999,999,125,LANGA DE DUERO,True,Langa de Duero,Soria,Castilla y León,within,0.0,TN_RailwayNode_85109
+01999,999,126,AGOST,True,Agost,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60909
+01999,999,127,BARRUELO DE SANTULLAN,True,Barruelo de Santullán,Palencia,Castilla y León,within,0.0,TN_RailwayNode_14302
+01999,999,128,QUINTANILLA DE LAS TORRES (APD),False,Pomar de Valdivia,Palencia,Castilla y León,within,0.0,TN_RailwayNode_14115
+01999,999,129,VILLALONQUEJAR,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_82220
+01999,999,130,BURGOS,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11100
+01999,999,131,SAN LEONARDO,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_82108
+01999,999,132,UTIEL,True,Utiel,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_66200
+01999,999,133,HORNA (APD),False,Sigüenza,Guadalajara,Castilla-La Mancha,within,0.0,TN_RailwayNode_70304
+01999,999,134,ALCOI,True,Alcoi,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_69011
+01999,999,135,ALMAZAN-DEHESA APT,False,Almazán,Soria,Castilla y León,within,0.0,TN_RailwayNode_85101
+01999,999,136,COSCURITA,True,Coscurita,Soria,Castilla y León,within,0.0,TN_RailwayNode_84100
+01999,999,137,CIDAD-DOSANTE,True,Merindad de Valdeporres,Burgos,Castilla y León,within,0.0,TN_RailwayNode_82219
+01999,999,138,MONTEAGUDO,True,Monteagudo de las Vicarías,Soria,Castilla y León,within,0.0,TN_RailwayNode_85001
+01999,999,139,RIBA-ROJA DE TURIA,True,Riba-roja de Túria,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69206
+01999,999,140,SORIA,True,Soria,Soria,Castilla y León,within,0.0,TN_RailwayNode_82100
+01999,999,141,SORIA CAÑUELO,True,Soria,Soria,Castilla y León,within,0.0,TN_RailwayNode_F0101
+01999,999,142,YERA,True,Vega de Pas,Cantabria,Cantabria,within,0.0,TN_RailwayNode_F0508
+01999,999,143,ARIZA,True,Ariza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70500
+01999,999,144,LIRIA,True,Llíria,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69209
+01999,999,145,SANTA EULALIA DEL CAMPO,True,Santa Eulalia,Teruel,Aragón,within,0.0,TN_RailwayNode_67105
+01999,999,146,OJOS NEGROS,True,Santa Eulalia,Teruel,Aragón,within,0.0,TN_RailwayNode_F0201
+01999,999,147,TERUEL,True,Teruel,Teruel,Aragón,within,0.0,TN_RailwayNode_67200
+01999,999,148,BOO,True,El Astillero,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14219
+01999,999,149,VALENCIA-CABANYAL (APD),False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65003
+01999,999,150,CAMINREAL-FUENTES CLARAS,True,Caminreal,Teruel,Aragón,within,0.0,TN_RailwayNode_67100
+01999,999,151,EL COSCOLLAR,True,Puçol,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65100
+01999,999,152,TORRELAPAJA,True,Torrelapaja,Zaragoza,Aragón,within,0.0,TN_RailwayNode_82005
+01999,999,153,CALATAYUD,True,Calatayud,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70600
+01999,999,154,VILLANUEVA DE JILOCA,True,Villanueva de Jiloca,Zaragoza,Aragón,within,0.0,TN_RailwayNode_86009
+01999,999,155,CERVERA DEL RIO ALHAMA,False,Cervera del Río Alhama,La Rioja,La Rioja,within,0.0,TN_RailwayNode_83009
+01999,999,156,OLABEAGA,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13303
+01999,999,157,TARAZONA,True,Tarazona,Zaragoza,Aragón,within,0.0,TN_RailwayNode_87005
+01999,999,158,PARQUE GUGGENHEIM,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13302
+01999,999,159,BILBAO-LA NAJA,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13300
+01999,999,160,FITERO,True,Cintruénigo,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_F0102
+01999,999,161,TULEBRAS,True,Tulebras,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_87003
+01999,999,162,TUDELA DE NAVARRA,True,Tudela,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_81202
+01999,999,163,CASTEJON DE EBRO,True,Castejón,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_81200
+01999,999,164,LA PUEBLA DE HIJAR,True,La Puebla de Híjar,Teruel,Aragón,within,0.0,TN_RailwayNode_71200
+01999,999,165,ALCAÑIZ,True,Alcañiz,Teruel,Aragón,within,0.0,TN_RailwayNode_68004
+01999,999,166,ZUERA,True,Zuera,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78100
+01999,999,167,KM. 7/300,False,Zuera,Zaragoza,Aragón,within,0.0,TN_RailwayNode_XX016
+01999,999,168,GURREA DE GALLEGO,True,Gurrea de Gállego,Huesca,Aragón,within,0.0,TN_RailwayNode_74001
+01999,999,169,CRETAS,True,Cretas,Teruel,Aragón,within,0.0,TN_RailwayNode_68007
+01999,999,170,TARDIENTA,True,Tardienta,Huesca,Aragón,within,0.0,TN_RailwayNode_78200
+01999,999,171,TURUÑANA BIF.,False,Ayerbe,Huesca,Aragón,within,0.0,TN_RailwayNode_74203
+01999,999,172,TORTOSA,True,Tortosa,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65400
+01999,999,173,HUESCA,True,Huesca,Huesca,Aragón,within,0.0,TN_RailwayNode_74200
+01999,999,174,MEQUINENZA,True,Mequinenza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_F0518
+01999,999,175,FRAGA,True,Massalcoreig,Lleida,Cataluña,within,0.0,TN_RailwayNode_F0519
+01999,999,176,SELGUA,True,Monzón,Huesca,Aragón,within,0.0,TN_RailwayNode_78300
+01999,999,177,CANFRANC,True,Canfranc,Huesca,Aragón,within,0.0,TN_RailwayNode_74217
+01999,999,178,BORDEAUX,True,Aisa,Huesca,Aragón,nearest,87.9,TN_RailwayNode_F0205
+01999,999,179,BARBASTRO,True,Barbastro,Huesca,Aragón,within,0.0,TN_RailwayNode_75001
+01999,999,180,LLEIDA-PIRINEUS,True,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_78400
+01999,999,181,GRANOLLERS-CENTRE,True,Granollers,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79100
+01999,999,182,LES FRANQUESES DEL VALLES,True,Les Franqueses del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_77100
+01999,999,183,RIPOLL,True,Ripoll,Girona,Cataluña,within,0.0,TN_RailwayNode_77200
+01999,999,184,SANT JOAN DE LES ABADESSES,True,Sant Joan de les Abadesses,Girona,Cataluña,within,0.0,TN_RailwayNode_77201
+02200,200,1,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+02200,200,2,BIF. HORTALEZA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9800
+02200,200,3,FUENTE DE LA MORA (APD),False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98003
+02200,200,4,HORTALEZA,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98001
+02200,200,5,ODONNELL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98100
+02200,200,6,BIF. VICALVARO-MERCANCIAS,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9811
+02200,200,7,SAN FERNANDO DE HENARES,True,Coslada,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70101
+02200,200,8,TORREJON DE ARDOZ,True,Torrejón de Ardoz,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70102
+02200,200,9,BIF. BASE AEREA,False,Alcalá de Henares,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B7011
+02200,200,10,ALCALA DE HENARES,True,Alcalá de Henares,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70103
+02200,200,11,MECO,True,Meco,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70104
+02200,200,12,AZUQUECA,True,Azuqueca de Henares,Guadalajara,Castilla-La Mancha,within,0.0,TN_RailwayNode_70105
+02200,200,13,GUADALAJARA,True,Guadalajara,Guadalajara,Castilla-La Mancha,within,0.0,TN_RailwayNode_70200
+02200,200,14,BAIDES,True,Baides,Guadalajara,Castilla-La Mancha,within,0.0,TN_RailwayNode_70300
+02200,200,15,SIGÜENZA,True,Sigüenza,Guadalajara,Castilla-La Mancha,within,0.0,TN_RailwayNode_70302
+02200,200,16,TORRALBA,True,Medinaceli,Soria,Castilla y León,within,0.0,TN_RailwayNode_70400
+02200,200,17,ARCOS DE JALON,True,Arcos de Jalón,Soria,Castilla y León,within,0.0,TN_RailwayNode_70403
+02200,200,18,SANTA MARIA DE HUERTA,True,Santa María de Huerta,Soria,Castilla y León,within,0.0,TN_RailwayNode_70404
+02200,200,19,ARIZA,True,Ariza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70500
+02200,200,20,CALATAYUD,True,Calatayud,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70600
+02200,200,21,MORATA DE JALON,True,Morata de Jalón,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70607
+02200,200,22,RICLA-LA ALMUNIA,True,Ricla,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70700
+02200,200,23,"CAMBIADOR PLASENCIA AG. KM. 308,6",False,Plasencia de Jalón,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7070
+02200,200,24,GRISEN,True,Grisén,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70706
+02200,200,25,CASETAS,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70800
+02200,200,26,C.I.M. DE ZARAGOZA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70803
+02200,200,27,"CIM-AGUJA KM. 337,1",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7080
+02200,200,28,ZARAGOZA DELICIAS,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_04040
+02200,200,29,MIRAFLORES,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_71100
+02200,200,30,"MIRAFLORES-AGUJA KM. 0,9",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7890
+02200,200,31,COGULLADA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78902
+02200,200,32,ZARAGOZA-CORBERA ALTA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78007
+02200,200,33,SAN JUAN DE MOZARRIFAR,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78004
+02200,200,34,ZUERA,True,Zuera,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78100
+02200,200,35,ALMUDEVAR,True,Almudévar,Huesca,Aragón,within,0.0,TN_RailwayNode_78102
+02200,200,36,TARDIENTA,True,Tardienta,Huesca,Aragón,within,0.0,TN_RailwayNode_78200
+02200,200,37,SARIÑENA,True,Sariñena,Huesca,Aragón,within,0.0,TN_RailwayNode_78203
+02200,200,38,SELGUA,True,Monzón,Huesca,Aragón,within,0.0,TN_RailwayNode_78300
+02200,200,39,MONZON-RIO CINCA,False,Monzón,Huesca,Aragón,within,0.0,TN_RailwayNode_78301
+02200,200,40,BINEFAR,True,Binéfar,Huesca,Aragón,within,0.0,TN_RailwayNode_78302
+02200,200,41,ALMACELLES,True,Almacelles,Lleida,Cataluña,within,0.0,TN_RailwayNode_78304
+02200,200,42,LLEIDA-PIRINEUS,True,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_78400
+02200,200,43,"CAMB.-AG.KM. 3,1",False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_A7300
+02200,200,44,PUIGVERD DE LLEIDA-ARTESA,True,Puigverd de Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_73001
+02200,200,45,VINAIXA,True,Vinaixa,Lleida,Cataluña,within,0.0,TN_RailwayNode_73005
+02200,200,46,LA PLANA-PICAMOIXONS,True,Valls,Tarragona,Cataluña,within,0.0,TN_RailwayNode_73100
+02200,200,47,VALLS,True,Valls,Tarragona,Cataluña,within,0.0,TN_RailwayNode_76004
+02200,200,48,RODA DE BARA,True,Roda de Berà,Tarragona,Cataluña,within,0.0,TN_RailwayNode_72100
+02200,200,49,SANT VICENÇ DE CALDERS,True,El Vendrell,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71600
+02200,200,50,CUNIT,True,Cunit,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71603
+02200,200,51,VILANOVA I LA GELTRU,True,Vilanova i la Geltrú,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71700
+02200,200,52,SITGES,True,Sitges,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71701
+02200,200,53,CASTELLDEFELS,True,Castelldefels,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71705
+02200,200,54,EL PRAT DE LLOBREGAT,True,El Prat de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71707
+02200,200,55,"KM 671,9",False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7171
+02200,200,56,BELLVITGE-GORNAL,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71708
+02200,200,57,"BELLVITGE AGUJA KM. 674,8",False,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7173
+02200,200,58,BARCELONA-SANTS,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71801
+02200,200,59,BIF. ARAGO,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7181
+02200,200,60,BARNA.-EST. DE FRANÇA,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79400
+02200,200,61,BIF.GLORIAS-CLOT,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7183
+02200,200,62,BIF. CLOT,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7182
+02202,202,1,TORRALBA,True,Medinaceli,Soria,Castilla y León,within,0.0,TN_RailwayNode_70400
+02202,202,2,COSCURITA,True,Coscurita,Soria,Castilla y León,within,0.0,TN_RailwayNode_84100
+02202,202,3,SORIA,True,Soria,Soria,Castilla y León,within,0.0,TN_RailwayNode_82100
+02202,202,4,CERVERA DEL RIO ALHAMA,False,Cervera del Río Alhama,La Rioja,La Rioja,within,0.0,TN_RailwayNode_83009
+02202,202,5,CASTEJON DE EBRO,True,Castejón,Navarra,Comunidad Foral de Navarra,within,0.0,TN_RailwayNode_81200
+02204,204,1,BIF. CANFRANC,False,Monflorite-Lascasas,Huesca,Aragón,within,0.0,TN_RailwayNode_B7800
+02204,204,2,"HOYA DE HUESCA-AGUJA KM. 2,3",False,Huesca,Huesca,Aragón,within,0.0,TN_RailwayNode_A7400
+02204,204,3,AYERBE,True,Ayerbe,Huesca,Aragón,within,0.0,TN_RailwayNode_74204
+02204,204,4,SANTA MARIA Y LA PEÑA,True,Las Peñas de Riglos,Huesca,Aragón,within,0.0,TN_RailwayNode_74207
+02204,204,5,JACA,True,Jaca,Huesca,Aragón,within,0.0,TN_RailwayNode_74213
+02204,204,6,CANFRANC,True,Canfranc,Huesca,Aragón,within,0.0,TN_RailwayNode_74217
+02206,206,1,LLEIDA-PIRINEUS,True,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_78400
+02206,206,2,PK. 1.927,False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_C7510
+02206,206,3,"PK. 1,927",False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_A7510
+02206,206,4,BIF. A VILANOVETA,False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B7511
+02206,206,5,BALAGUER,True,Balaguer,Lleida,Cataluña,within,0.0,TN_RailwayNode_75105
+02206,206,6,LA POBLA DE SEGUR,True,La Pobla de Segur,Lleida,Cataluña,within,0.0,TN_RailwayNode_75116
+02208,208,1,SAN JUAN DE MOZARRIFAR,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78004
+02208,208,2,SAN GREGORIO,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78006
+02210,210,1,MIRAFLORES,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_71100
+02210,210,2,"MIRAFLORES-AGUJA KM. 345,6",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7111
+02210,210,3,LA CARTUJA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_71101
+02210,210,4,"LA CARTUJA-AGUJA KM. 351,1",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7110
+02210,210,5,LA ZAIDA-SASTAGO,True,La Zaida,Zaragoza,Aragón,within,0.0,TN_RailwayNode_71108
+02210,210,6,LA PUEBLA DE HIJAR,True,La Puebla de Híjar,Teruel,Aragón,within,0.0,TN_RailwayNode_71200
+02210,210,7,SAMPER,True,Samper de Calanda,Teruel,Aragón,within,0.0,TN_RailwayNode_71201
+02210,210,8,ESCATRON,True,Samper de Calanda,Teruel,Aragón,within,0.0,TN_RailwayNode_71202
+02210,210,9,CASPE,True,Caspe,Zaragoza,Aragón,within,0.0,TN_RailwayNode_71204
+02210,210,10,FAIO-LA POBLA DE MASSALUCA,True,La Pobla de Massaluca,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71208
+02210,210,11,FLIX,True,Flix,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71210
+02210,210,12,MORA LA NOVA,True,Móra la Nova,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71300
+02210,210,13,REUS,True,Reus,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71400
+02210,210,14,BIF. VILASECA,False,Vila-seca,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B7510
+02210,210,15,"AGUJA CLASIF. KM. 100,4.",False,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_A7141
+02210,210,16,TARRAGONA,True,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71500
+02210,210,17,SANT VICENÇ DE CALDERS,True,El Vendrell,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71600
+02212,212,1,BIF. HOYA DE HUESCA,False,Huesca,Huesca,Aragón,within,0.0,TN_RailwayNode_B7801
+02212,212,2,"HOYA DE HUESCA-AGUJA KM. 2,3",False,Huesca,Huesca,Aragón,within,0.0,TN_RailwayNode_A7400
+02214,214,1,"LA CARTUJA-AGUJA KM. 23,3",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7083
+02214,214,2,LA CARTUJA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_71101
+02214,214,3,BIF. TERUEL,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B7081
+02214,214,4,"CIM AGUJA KM. 0,7",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7081
+02214,214,5,C.I.M. DE ZARAGOZA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70803
+02214,214,6,"BIF.PLAZA-AG.KM.8,9",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7086
+02214,214,7,BIF. PLAZA,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B7082
+02216,216,1,"BIF.PLAZA-AG.KM.1,4",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7087
+02216,216,2,"BIF.PLAZA-AG.KM.8,9",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7086
+02216,216,3,ZARAGOZA-ARRABAL,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78002
+02216,216,4,ZARAGOZA-CORBERA ALTA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_78007
+02218,218,1,BIF. PLAZA,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B7082
+02218,218,2,"BIF.PLAZA-AG.KM.1,4",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7087
+02218,218,3,ZARAGOZA-PLAZA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70805
+02220,220,1,LLEIDA-PIRINEUS,True,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_78400
+02220,220,2,"AG. KM. 185,747",False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_A8401
+02220,220,3,PLA DE VILANOVETA,True,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_78401
+02220,220,4,CERVERA,True,Cervera,Lleida,Cataluña,within,0.0,TN_RailwayNode_78500
+02220,220,5,SANT GUIM DE FREIXENET (APD),False,Sant Guim de Freixenet,Lleida,Cataluña,within,0.0,TN_RailwayNode_78501
+02220,220,6,MANRESA,True,Manresa,Barcelona,Cataluña,within,0.0,TN_RailwayNode_78600
+02220,220,7,SANT VICENÇ DE CASTELLET,True,Sant Vicenç de Castellet,Barcelona,Cataluña,within,0.0,TN_RailwayNode_78604
+02220,220,8,TERRASSA ESTACIÓ DEL NORD,True,Terrassa,Barcelona,Cataluña,within,0.0,TN_RailwayNode_78700
+02220,220,9,LHOSPITALET DE LLOBREGAT,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72305
+02220,220,10,CERDANYOLA DEL VALLES,True,Cerdanyola del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_78706
+02220,220,11,BARCELONA-SANTS,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71801
+02220,220,12,MONTCADA-BIFURCACIO,False,Montcada i Reixac,Barcelona,Cataluña,within,0.0,TN_RailwayNode_78800
+02220,220,13,BIF. VILANOVA,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B8801
+02222,222,1,BIF. AIGÜES,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7901
+02222,222,2,MONTCADA-BIFURCACIO,False,Montcada i Reixac,Barcelona,Cataluña,within,0.0,TN_RailwayNode_78800
+02222,222,3,GRANOLLERS-CANOVELLES,True,Granollers,Barcelona,Cataluña,within,0.0,TN_RailwayNode_77006
+02222,222,4,LES FRANQUESES DEL VALLES,True,Les Franqueses del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_77100
+02222,222,5,LA GARRIGA,True,La Garriga,Barcelona,Cataluña,within,0.0,TN_RailwayNode_77102
+02222,222,6,VIC,True,Vic,Barcelona,Cataluña,within,0.0,TN_RailwayNode_77109
+02222,222,7,LA FARGA DE BEBIE (APD),False,Montesquiu,Barcelona,Cataluña,within,0.0,TN_RailwayNode_77114
+02222,222,8,RIPOLL,True,Ripoll,Girona,Cataluña,within,0.0,TN_RailwayNode_77200
+02222,222,9,RIBES DE FRESER,True,Ribes de Freser,Girona,Cataluña,within,0.0,TN_RailwayNode_77303
+02222,222,10,PLANOLES,True,Planoles,Girona,Cataluña,within,0.0,TN_RailwayNode_77304
+02222,222,11,PUIGCERDA,True,Puigcerdà,Girona,Cataluña,within,0.0,TN_RailwayNode_77309
+02222,222,12,"P.K. 50,707(FRONT)",False,Puigcerdà,Girona,Cataluña,nearest,73.5,TN_RailwayNode_C7730
+02222,222,13,LA TOUR DE CAROL-ENVEIGT,True,Guils de Cerdanya,Girona,Cataluña,nearest,1031.5,TN_RailwayNode_77310
+02224,224,1,CERDANYOLA DEL VALLES,True,Cerdanyola del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_78706
+02224,224,2,CERDANYOLA UNIVERSITAT,True,Cerdanyola del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72503
+02230,230,1,REUS,True,Reus,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71400
+02230,230,2,LA PLANA-PICAMOIXONS,True,Valls,Tarragona,Cataluña,within,0.0,TN_RailwayNode_73100
+02234,234,1,REUS,True,Reus,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71400
+02234,234,2,CONSTANTI,True,Constantí,Tarragona,Cataluña,within,0.0,TN_RailwayNode_72006
+02234,234,3,RODA DE BARA,True,Roda de Berà,Tarragona,Cataluña,within,0.0,TN_RailwayNode_72100
+02238,238,1,CASTELLBISBAL-AGUJAS LLOBREGAT,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7190
+02238,238,2,CASTELLBISBAL-AGUJAS MOLINS,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7229
+02238,238,3,BIF. LLOBREGAT,False,El Papiol,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7192
+02238,238,4,RIU LLOBREGAT,True,Pallejà,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71908
+02238,238,5,BARCELONA-CAN TUNIS,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71901
+02238,238,6,BARCELONA-MORROT,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71902
+02240,240,1,SANT VICENÇ DE CALDERS,True,El Vendrell,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71600
+02240,240,2,LARBOÇ,True,L'Arboç,Tarragona,Cataluña,within,0.0,TN_RailwayNode_72202
+02240,240,3,VILAFRANCA DEL PENEDES,True,Vilafranca del Penedès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72204
+02240,240,4,SANT SADURNI DANOIA,True,Sant Sadurní d'Anoia,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72207
+02240,240,5,"AGUJA KM. 70,449",False,Sant Esteve Sesrovires,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7225
+02240,240,6,"AGUJA KM. 71,161",False,Sant Esteve Sesrovires,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7226
+02240,240,7,MARTORELL CENTRAL,True,Martorell,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72209
+02240,240,8,CASTELLBISBAL,True,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72210
+02240,240,9,CASTELLBISBAL-AGUJAS RUBI,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7220
+02240,240,10,"AGUJA KM. 79,347",False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7228
+02240,240,11,BIF. RUBI,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7221
+02240,240,12,CASTELLBISBAL-AGUJAS MOLINS,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7229
+02240,240,13,BIF. LLOBREGAT,False,El Papiol,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7192
+02240,240,14,EL PAPIOL (APD),False,El Papiol,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72211
+02240,240,15,MOLINS DE REI,True,Molins de Rei,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72300
+02240,240,16,LHOSPITALET DE LLOBREGAT,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72305
+02242,242,1,MARTORELL-SEAT,True,Martorell,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72212
+02242,242,2,"AGUJA KM. 0,500",False,Sant Esteve Sesrovires,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7227
+02242,242,3,"AGUJA KM. 71,161",False,Sant Esteve Sesrovires,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7226
+02244,244,1,"AGUJA KM. 70,449",False,Sant Esteve Sesrovires,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7225
+02244,244,2,"AGUJA KM. 0,500",False,Sant Esteve Sesrovires,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7227
+02246,246,1,MOLLET-SANT FOST,True,Mollet del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79006
+02246,246,2,BIF. NUDO MOLLET,False,Santa Perpètua de Mogoda,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72507
+02246,246,3,"AGUJA KM. 23,2",False,Santa Perpètua de Mogoda,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7223
+02246,246,4,CERDANYOLA UNIVERSITAT,True,Cerdanyola del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72503
+02246,246,5,RUBÍ CAN VALLHONRAT,True,Rubí,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72501
+02246,246,6,"AGUJA KM. 4,014",False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7222
+02246,246,7,CASTELLBISBAL-AGUJAS LLOBREGAT,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7190
+02246,246,8,BIF. PAPIOL,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7224
+02246,246,9,CASTELLBISBAL-AGUJAS RUBI,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7220
+02246,246,10,CASTELLBISBAL,True,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72210
+02248,248,1,BIF. PAPIOL,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7224
+02248,248,2,"AGUJA KM. 79,347",False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7228
+02248,248,3,"AGUJA KM. 4,014",False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7222
+02248,248,4,BIF. RUBI,False,Castellbisbal,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A7221
+02250,250,1,LHOSPITALET DE LLOBREGAT,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72305
+02250,250,2,"BELLVITGE AGUJA KM. 674,8",False,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7173
+02254,254,1,EL PRAT DE LLOBREGAT,True,El Prat de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71707
+02254,254,2,AEROPORT,True,El Prat de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72400
+02260,260,1,FIGUERES-VILAFANT,True,Vilafant,Girona,Cataluña,within,0.0,TN_RailwayNode_04307
+02260,260,2,VILAMALLA,True,Vilamalla,Girona,Cataluña,within,0.0,TN_RailwayNode_79308
+02260,260,3,BIF. CLOT,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7182
+02260,260,4,BIF. ARAGO,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7181
+02260,260,5,BARNA.-EST. DE FRANÇA,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79400
+02260,260,6,BARCELONA-SANTS,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71801
+02262,262,1,LA SAGRERA,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79002
+02262,262,2,BIF. SAGRERA,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7900
+02262,262,3,EL CLOT,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79009
+02262,262,4,BIF. GLORIAS,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7184
+02262,262,5,BIF. CLOT,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7182
+02264,264,1,BIF. AIGÜES,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7901
+02264,264,2,MONTCADA-BIFURCACIO,False,Montcada i Reixac,Barcelona,Cataluña,within,0.0,TN_RailwayNode_78800
+02266,266,1,BIF. VILANOVA,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B8801
+02266,266,2,BIF. GLORIAS,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7184
+02268,268,1,BIF. ARAGO,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7181
+02268,268,2,EL CLOT,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79009
+02268,268,3,BIF. SAGRERA,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7900
+02268,268,4,LA SAGRERA,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79002
+02268,268,5,SANT ANDREU,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79004
+02270,270,1,BIF. ARAGO,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7181
+02270,270,2,EL CLOT,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79009
+02270,270,3,BIF. SAGRERA,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7900
+02270,270,4,LA SAGRERA,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79002
+02270,270,5,SANT ANDREU,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79004
+02270,270,6,BIF. AIGÜES,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7901
+02270,270,7,MONTCADA I REIXAC,True,Montcada i Reixac,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79005
+02270,270,8,LA LLAGOSTA,True,La Llagosta,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79011
+02270,270,9,MOLLET-SANT FOST,True,Mollet del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79006
+02270,270,10,"P.K.643,0 ( MONTMELO-AG.KM.127,4 )",False,Montmeló,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79013
+02270,270,11,LA LLAGOSTA MERCADERIES,True,Montmeló,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79012
+02270,270,12,MONTORNES-BUTANO,True,Montornès del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79008
+02270,270,13,GRANOLLERS-CENTRE,True,Granollers,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79100
+02270,270,14,SANT CELONI,True,Sant Celoni,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79104
+02270,270,15,GUALBA (APD),False,Gualba,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79105
+02270,270,16,MAÇANET-MASSANES,True,Maçanet de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_79200
+02270,270,17,FORNELLS DE LA SELVA (APD),False,Fornells de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_79205
+02270,270,18,BIF. GIRONA MERC,False,Fornells de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_B7920
+02270,270,19,GIRONA-MERCADERIES,True,Girona,Girona,Cataluña,within,0.0,TN_RailwayNode_79206
+02270,270,20,GIRONA,True,Girona,Girona,Cataluña,within,0.0,TN_RailwayNode_79300
+02270,270,21,VILAMALLA,True,Vilamalla,Girona,Cataluña,within,0.0,TN_RailwayNode_79308
+02270,270,22,FIGUERES,True,Figueres,Girona,Cataluña,within,0.0,TN_RailwayNode_79309
+02270,270,23,PORTBOU,True,Portbou,Girona,Cataluña,within,0.0,TN_RailwayNode_79315
+02270,270,24,"P.K.274,305(FRONTERA)",False,Portbou,Girona,Cataluña,within,0.0,TN_RailwayNode_C7931
+02270,270,25,CERBERE,True,Portbou,Girona,Cataluña,nearest,612.2,TN_RailwayNode_79316
+02272,272,1,BIF. GIRONA MERC,False,Fornells de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_B7920
+02272,272,2,GIRONA-MERCADERIES,True,Girona,Girona,Cataluña,within,0.0,TN_RailwayNode_79206
+02274,274,1,PORTBOU,True,Portbou,Girona,Cataluña,within,0.0,TN_RailwayNode_79315
+02274,274,2,CAMBIADOR PORTBOU,False,Portbou,Girona,Cataluña,within,0.0,TN_RailwayNode_79318
+02274,274,3,"P.K.274,305(FRONTERA)",False,Portbou,Girona,Cataluña,within,0.0,TN_RailwayNode_C7932
+02274,274,4,CERBERE,True,Portbou,Girona,Cataluña,nearest,612.2,TN_RailwayNode_79316
+02276,276,1,LHOSPITALET DE LLOBREGAT,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72305
+02276,276,2,BARCELONA-SANTS,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71801
+02276,276,3,BIF. VILANOVA,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B8801
+02276,276,4,BIF.GLORIAS-CLOT,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7183
+02276,276,5,EL CLOT,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79009
+02276,276,6,BIF. SAGRERA,False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7900
+02276,276,7,LA SAGRERA,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79002
+02276,276,8,"BIF. SAGRERA-AG.KM. 108,0",False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7943
+02276,276,9,MATARO,True,Mataró,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79500
+02276,276,10,ARENYS DE MAR,True,Arenys de Mar,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79600
+02276,276,11,CALELLA,True,Calella,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79603
+02276,276,12,BLANES,True,Blanes,Girona,Cataluña,within,0.0,TN_RailwayNode_79606
+02276,276,13,MAÇANET-MASSANES,True,Maçanet de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_79200
+02278,278,1,BIF. NUDO MOLLET,False,Santa Perpètua de Mogoda,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72507
+02278,278,2,LA LLAGOSTA,True,La Llagosta,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79011
+02278,278,3,SANT ANDREU,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79004
+02278,278,4,"BIF. SAGRERA-AG.KM. 108,0",False,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B7943
+02282,282,1,CAMBIADOR PLASENCIA DE JALÓN,False,Plasencia de Jalón,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70715
+02282,282,2,"CAMBIADOR PLASENCIA AG. KM. 308,6",False,Plasencia de Jalón,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7070
+02284,284,1,"CIM AGUJA KM. 0,7",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7081
+02284,284,2,"CIM-AGUJA KM. 337,1",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7080
+02286,286,1,"LA CARTUJA-AGUJA KM. 351,1",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7110
+02286,286,2,"LA CARTUJA-AGUJA KM. 23,3",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7083
+02288,288,1,"MIRAFLORES-AGUJA KM. 345,6",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7111
+02288,288,2,"MIRAFLORES-AGUJA KM. 0,9",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7890
+02290,290,1,"CIM-AGUJA KM. 337,1",False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_A7080
+02290,290,2,CAMBIADOR ZARAGOZA DELICIAS,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70899
+02294,294,1,RODA DE BARA,True,Roda de Berà,Tarragona,Cataluña,within,0.0,TN_RailwayNode_72100
+02294,294,2,RODA DE BARA-CAMB. DE ANCHO,True,Roda de Berà,Tarragona,Cataluña,within,0.0,TN_RailwayNode_04200
+02610,610,1,"SAGUNT-AGUJA KM. 268,8.",False,Sagunt,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6722
+02610,610,2,SAGUNT,True,Sagunt,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65200
+02610,610,3,GILET (APD),False,Gilet,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_67223
+02610,610,4,ESTIVELLA-ALBALAT DELS TARONGERS,True,Estivella,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_67221
+02610,610,5,SONEJA (APD),False,Soneja,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_67217
+02610,610,6,CAUDIEL,True,Caudiel,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_67211
+02610,610,7,BARRACAS,True,Barracas,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_67208
+02610,610,8,TERUEL,True,Teruel,Teruel,Aragón,within,0.0,TN_RailwayNode_67200
+02610,610,9,SANTA EULALIA DEL CAMPO,True,Santa Eulalia,Teruel,Aragón,within,0.0,TN_RailwayNode_67105
+02610,610,10,CAMINREAL-FUENTES CLARAS,True,Caminreal,Teruel,Aragón,within,0.0,TN_RailwayNode_67100
+02610,610,11,NAVARRETE,True,Calamocha,Teruel,Aragón,within,0.0,TN_RailwayNode_67020
+02610,610,12,BADULES (APD),False,Badules,Zaragoza,Aragón,within,0.0,TN_RailwayNode_67015
+02610,610,13,CARIÑENA,True,Cariñena,Zaragoza,Aragón,within,0.0,TN_RailwayNode_67010
+02610,610,14,MARIA DE HUERVA (APD-CGD),False,María de Huerva,Zaragoza,Aragón,within,0.0,TN_RailwayNode_67004
+02610,610,15,CUARTE DE HUERVA,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_67002
+02610,610,16,BIF. TERUEL,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B7081
+02612,612,1,"SAGUNT-AGUJA KM. 32,3",False,Sagunt,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6731
+02612,612,2,"SAGUNT-AGUJA KM. 268,8.",False,Sagunt,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6722
+02622,622,1,TARRAGONA-MERCADERIES,True,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71403
+02622,622,2,"AGUJA CLASIF. KM. 272,0.",False,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_A6541
+02624,624,1,"AGUJA CLASIF. KM. 100,4.",False,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_A7141
+02624,624,2,TARRAGONA-MERCADERIES,True,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71403
+02624,624,3,TARRAGONA,True,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71500
+02630,630,1,SALOU-PORT AVENTURA,True,Salou,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65411
+02630,630,2,"AGUJA CLASIF. KM. 272,0.",False,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_A6541
+02630,630,3,TARRAGONA PORT,True,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71504
+02630,630,4,TARRAGONA,True,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71500
+02702,702,1,CABAÑAS DE EBRO,True,Cabañas de Ebro,Zaragoza,Aragón,within,0.0,TN_RailwayNode_81209
+02702,702,2,GRISEN,True,Grisén,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70706
+02902,902,1,HORTALEZA,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98001
+02902,902,2,BIF. HORTALEZA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9800
+02902,902,3,FUENCARRAL-FUENTE GRANDE,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_97101
+02902,902,4,"FUENCARRAL-AGUJA KM 4,5",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A1702
+02902,902,5,PITIS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_97100
+02906,906,1,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+02906,906,2,FUENCARRAL-COMPLEJO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A9060
+02908,908,1,HORTALEZA,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98001
+02908,908,2,AEROPUERTO-T4,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98305
+02930,930,1,MADRID-ATOCHA CERCANIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18000
+02930,930,2,AGUJA KM. 2.0,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A7002
+02930,930,3,ASAMBLEA MADRID-ENTREVIAS (APD),False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70002
+02930,930,4,VALLECAS-INDUSTRIAL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70001
+02930,930,5,VICALVARO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70100
+02930,930,6,COSLADA,True,Coslada,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70108
+02930,930,7,SAN FERNANDO DE HENARES,True,Coslada,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70101
+02932,932,1,MADRID-SANTA CATALINA,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60004
+02932,932,2,AGUJA KM. 2.0,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A7002
+02932,932,3,"AG. KM. 1,2",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A7003
+02932,932,4,MADRID-ATOCHA CERCANIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18000
+02938,938,1,ASAMBLEA MADRID-ENTREVIAS (APD),False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70002
+02938,938,2,AGUJA KM. 2.0,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A7002
+02938,938,3,"AG. KM. 1,2",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A7003
+02938,938,4,CAMBIADOR ATOCHA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70004
+02938,938,5,MADRID-ATOCHA CERCANIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18000
+02940,940,1,VICALVARO-MERCANCIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98201
+02940,940,2,VICALVARO MERC.-AG.KM.3.007,False,Coslada,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A9820
+02940,940,3,ODONNELL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98100
+02942,942,1,VALLECAS-INDUSTRIAL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70001
+02942,942,2,BIF. REBOLLEDO,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9521
+02942,942,3,VILLAVERDE BAJO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60100
+02944,944,1,VICALVARO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70100
+02944,944,2,VICALVARO-MERCANCIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98201
+02944,944,3,BIF. VICALVARO-MERCANCIAS,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9811
+02948,948,1,BIF. VICALVARO-MERCANCIAS,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9811
+02948,948,2,VICALVARO MERCANCIAS-PTO.SECO(CGD),True,Coslada,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98222
+02948,948,3,VICALVARO MERC.-AG.KM.3.007,False,Coslada,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A9820
+02948,948,4,VICALVARO-MERCANCIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_98201
+03300,300,1,XATIVA,True,Xàtiva,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64100
+03300,300,2,"XATIVA-AGUJA KM.47,0",False,Xàtiva,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6402
+03300,300,3,BIF. VALLADA,False,Vallada,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6401
+03300,300,4,BIF. MOIXENT,False,Moixent,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6411
+03300,300,5,MOIXENT,True,Moixent,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64003
+03300,300,6,SILLA,True,Silla,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64200
+03300,300,7,LA FONT DE LA FIGUERA,True,Moixent,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64001
+03300,300,8,BIF. TUNEL DE LA ENCINA,False,la Font de la Figuera,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6410
+03300,300,9,KM 5.900,False,la Font de la Figuera,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_C6017
+03300,300,10,"LA ENCINA AGUJA KM. 2,963",False,Villena,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6091
+03300,300,11,ALFAFAR-BENETUSSER,True,Benetússer,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64203
+03300,300,12,BIF. JOAQUIN SOROLLA-IBERICO,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6420
+03300,300,13,VALENCIA-ESTACIO DEL NORD,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65000
+03300,300,14,LA ENCINA,True,Villena,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60900
+03300,300,15,ALMANSA,True,Almansa,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60800
+03300,300,16,"CHINCHILLA MONTEAR.AG.KM.298,4",False,Chinchilla de Monte-Aragón,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_B6100
+03300,300,17,CHINCHILLA,True,Chinchilla de Monte-Aragón,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60700
+03300,300,18,"ALBACETE-AGUJA KM. 279,4",False,Albacete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_A6060
+03300,300,19,ALBACETE - LOS LLANOS,True,Albacete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60600
+03300,300,20,LA RODA DE ALBACETE,True,La Roda,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60505
+03300,300,21,VILLARROBLEDO,True,Villarrobledo,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60500
+03300,300,22,SOCUELLAMOS,True,Socuéllamos,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_60406
+03300,300,23,ALCAZAR DE SAN JUAN,True,Alcázar de San Juan,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_60400
+03300,300,24,"AGUJA KM. 146,1",False,Alcázar de San Juan,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_A6031
+03300,300,25,QUERO,True,Quero,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_60301
+03300,300,26,VILLACAÑAS,True,Villacañas,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_60300
+03300,300,27,ARANJUEZ,True,Aranjuez,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60200
+03300,300,28,CASTILLEJO-AÑOVER,True,Aranjuez,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60202
+03300,300,29,PINTO,True,Pinto,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60103
+03300,300,30,SAN CRISTOBAL INDUSTRIAL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60101
+03300,300,31,VILLAVERDE BAJO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60100
+03300,300,32,KM. 5.200,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60001
+03300,300,33,BIF. PLANETARIO,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B6002
+03300,300,34,AGUJA KM. 1.4,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A6001
+03300,300,35,MADRID-ATOCHA CERCANIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18000
+03300,300,36,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+03302,302,1,ALCAZAR DE SAN JUAN,True,Alcázar de San Juan,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_60400
+03302,302,2,ALCAZAR DE SAN JUAN-MERCANCIAS,True,Alcázar de San Juan,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_60302
+03302,302,3,"AGUJA KM. 146,1",False,Alcázar de San Juan,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_A6031
+03304,304,1,ALFAFAR-BENETUSSER,True,Benetússer,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64203
+03304,304,2,VALENCIA-LA FONT DE SANT LLUIS,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65002
+03304,304,3,VALENCIA-F.S.L.MERCANCIAS,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65013
+03304,304,4,BIF. PUERTO FSL,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6505
+03306,306,1,SAN VICENTE DE RASPEIG,True,Sant Vicent del Raspeig,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60910
+03306,306,2,SANT VICENT CENTRE (APD),False,Sant Vicent del Raspeig,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60913
+03306,306,3,"S. VICENTE RASPEIG-AGJ KM. 448,7",False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6090
+03310,310,1,VALENCIA-LA FONT DE SANT LLUIS,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65002
+03310,310,2,VALENCIA-ESTACIO DEL NORD,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65000
+03310,310,3,VALENCIA - SANT ISIDRE,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_66212
+03310,310,4,BUÑOL,True,Buñol,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_66206
+03310,310,5,UTIEL,True,Utiel,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_66200
+03310,310,6,CAMPORROBLES,True,Camporrobles,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_66112
+03310,310,7,CARBONERAS DE GUADAZAON,True,Carboneras de Guadazaón,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_66104
+03310,310,8,CUENCA,True,Cuenca,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_66100
+03310,310,9,HUETE,True,Huete,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_66011
+03310,310,10,TARANCON,True,Tarancón,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_66006
+03310,310,11,SANTA CRUZ DE LA ZARZA (APD),False,Santa Cruz de la Zarza,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_66005
+03310,310,12,ARANJUEZ,True,Aranjuez,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60200
+03312,312,1,ALGODOR,True,Aranjuez,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37100
+03312,312,2,CASTILLEJO-AÑOVER,True,Aranjuez,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60202
+03314,314,1,VALENCIA - SANT ISIDRE,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_66212
+03314,314,2,XIRIVELLA-LALTER (APD),False,Xirivella,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69200
+03314,314,3,QUART POBLET,True,Quart de Poblet,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69201
+03316,316,1,PINTO,True,Pinto,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60103
+03316,316,2,SAN MARTIN DE LA VEGA,True,San Martín de la Vega,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60116
+03318,318,1,"ALBACETE-AGUJA KM. 279,4",False,Albacete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_A6060
+03318,318,2,CAMBIADOR ALBACETE,False,Albacete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_03303
+03320,320,1,CHINCHILLA,True,Chinchilla de Monte-Aragón,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60700
+03320,320,2,"CHINCHILLA MONTEAR.AG.KM.298,4",False,Chinchilla de Monte-Aragón,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_B6100
+03320,320,3,HELLIN,True,Hellín,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_61005
+03320,320,4,KM. 378.0,False,Cieza,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_C6105
+03320,320,5,CALASPARRA,True,Calasparra,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61009
+03320,320,6,CIEZA,True,Cieza,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61012
+03320,320,7,ALGUAZAS-MOLINA,True,Alguazas,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61017
+03320,320,8,ALCANTARILLA (APD),False,Alcantarilla,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61100
+03320,320,9,MURCIA MERCANCIAS,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61101
+03320,320,10,MURCIA DEL CARMEN,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61200
+03320,320,11,EL REGUERON,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61210
+03320,320,12,"EL REGUERON AG KM 522,1",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6133
+03320,320,13,"MURCIA DEL CARMEN AG. KM 526,8",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6135
+03320,320,14,"EL REGUERON AGUJA KM 525,3",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6137
+03320,320,15,"AGUJA KM. 523,2",False,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6131
+03320,320,16,CARTAGENA,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61307
+03322,322,1,MURCIA MERCANCIAS,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61101
+03322,322,2,ALCANTARILLA-LOS ROMANOS (APD),False,Alcantarilla,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_06008
+03322,322,3,LORCA-SUTULLENA,True,Lorca,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_06006
+03322,322,4,AGUILAS,True,Águilas,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_07004
+03322,322,5,ALMENDRICOS (APD),False,Lorca,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_06100
+03322,322,6,JARAVIA (APD),False,Pulpí,Almería,Andalucía,within,0.0,TN_RailwayNode_07003
+03324,324,1,CARTAGENA,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61307
+03324,324,2,"AGUJA KM. 0,8",False,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6141
+03326,326,1,ESCOMBRERAS,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61401
+03326,326,2,"LÍMITE ADIF -  AP CARTAGENA PK 11,310",False,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_B6140
+03326,326,3,DARSENA DE ESCOMBRERAS,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61404
+03326,326,4,"AGUJA KM. 0,8",False,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6141
+03326,326,5,"AGUJA KM. 523,2",False,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6131
+03330,330,1,ALACANT-TERMINAL,False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60911
+03330,330,2,BIF. BENALUA,False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6406
+03330,330,3,"S. VICENTE RASPEIG-AGJ KM. 448,7",False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6090
+03330,330,4,SANT VICENT CENTRE (APD),False,Sant Vicent del Raspeig,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60913
+03330,330,5,SAN VICENTE DE RASPEIG,True,Sant Vicent del Raspeig,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60910
+03330,330,6,VILLENA,True,Villena,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60902
+03330,330,7,CAUDETE,True,Caudete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60901
+03330,330,8,LA ENCINA,True,Villena,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60900
+03332,332,1,"LA ENCINA AGUJA KM. 2,963",False,Villena,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6091
+03332,332,2,CAUDETE,True,Caudete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60901
+03334,334,1,SANT GABRIEL,True,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62109
+03334,334,2,ALACANT-BENALUA (CGD),True,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62105
+03336,336,1,ALACANT-TERMINAL,False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60911
+03336,336,2,BIF. ALACANT,False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6405
+03336,336,3,SANT GABRIEL,True,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62109
+03336,336,4,SAN ISIDRO-ALBATERA-CATRAL,True,San Isidro,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62100
+03336,336,5,ORIHUELA - MIGUEL HERNANDEZ,True,Orihuela,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62002
+03336,336,6,BENIEL,True,Beniel,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_62001
+03336,336,7,EL REGUERON,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61210
+03336,336,8,"EL REGUERON AGUJA KM 525,3",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6137
+03338,338,1,VALENCIA-JOAQUIN SOROLLA,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_03216
+03338,338,2,CAMBIADOR VALENCIA,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_03217
+03340,340,1,MOIXENT,True,Moixent,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64003
+03340,340,2,BIF. MOIXENT,False,Moixent,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6411
+03340,340,3,BIF. VALLADA,False,Vallada,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6401
+03340,340,4,L ALCUDIA,True,l'Alcúdia de Crespins,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64006
+03340,340,5,"XATIVA-AGUJA KM.47,0",False,Xàtiva,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6402
+03342,342,1,XATIVA,True,Xàtiva,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64100
+03342,342,2,ONTINYENT,True,Ontinyent,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69008
+03342,342,3,ALCOI,True,Alcoi,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_69011
+03344,344,1,SILLA,True,Silla,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64200
+03344,344,2,CULLERA,True,Cullera,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69104
+03344,344,3,GANDIA-MERCADERIES,True,Gandia,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69108
+03344,344,4,GANDIA,True,Gandia,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69110
+03346,346,1,GANDIA-MERCADERIES,True,Gandia,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69108
+03346,346,2,PLATJA I GRAU DE GANDIA (APD),False,Gandia,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69111
+03346,346,3,GANDIA PORT,True,Gandia,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_69109
+03348,348,1,SILLA,True,Silla,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64200
+03348,348,2,KM. 3.012 LIM ADIF-FORD,False,Almussafes,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6410
+03348,348,3,FORD,True,Almussafes,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_64108
+03350,350,1,BIF. BENALUA,False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6406
+03350,350,2,BIF. ALACANT,False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6405
+03352,352,1,"EL REGUERON AG KM 522,1",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6133
+03352,352,2,"AGUJA KM. 523,2",False,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6131
+03352,352,3,CARTAGENA,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61307
+03600,600,1,BIF. JOAQUIN SOROLLA-UIC,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6422
+03600,600,2,VALENCIA-LA FONT DE SANT LLUIS,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65002
+03600,600,3,VALENCIA-F.S.L.MERCANCIAS,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65013
+03600,600,4,BIF. JOAQUIN SOROLLA-IBERICO,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6420
+03600,600,5,BIF. PUERTO FSL,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6505
+03600,600,6,BIF. PUERTO CABANYAL,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6500
+03600,600,7,VALENCIA-ESTACIO DEL NORD,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65000
+03600,600,8,BIF.GRAO VALENCI,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6502
+03600,600,9,PUÇOL,True,Puçol,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65008
+03600,600,10,"SAGUNT-AGUJA KM. 32,3",False,Sagunt,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6731
+03600,600,11,SAGUNT,True,Sagunt,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65200
+03600,600,12,ALMENARA,True,Almenara,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_65202
+03600,600,13,VILA-REAL,True,Vila-real,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_65208
+03600,600,14,CASTELLO DE LA PLANA,True,Castelló de la Plana,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_65300
+03600,600,15,LES PALMES,True,Castelló de la Plana,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_65301
+03600,600,16,ORPESA,True,Orpesa,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_65304
+03600,600,17,VINAROS,True,Vinaròs,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_65312
+03600,600,18,ULLDECONA-ALCANAR-LA SENIA (APT),False,Ulldecona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65314
+03600,600,19,LALDEA-AMPOSTA-TORTOSA,True,L'Aldea,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65402
+03600,600,20,BIF. CALAFAT,False,Vandellòs i l'Hospitalet de l'Infant,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B6541
+03600,600,21,VANDELLOS,True,Vandellòs i l'Hospitalet de l'Infant,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65406
+03600,600,22,L'HOSPITALET DE L'INFANT,True,Vandellòs i l'Hospitalet de l'Infant,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65420
+03600,600,23,CAMBRILS,True,Cambrils,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65409
+03600,600,24,CAMBRILS,True,Cambrils,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65422
+03600,600,25,SALOU,True,Salou,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65410
+03600,600,26,SALOU-PORT AVENTURA,True,Salou,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65411
+03600,600,27,BIF. LA FEREDAT,False,Vila-seca,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B5410
+03600,600,28,BIF. BELLISSENS,False,Reus,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B5411
+03600,600,29,"AGUJA CLASIF. KM. 272,0.",False,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_A6541
+03600,600,30,CAMBIADOR DE LA BOELLA,False,Reus,Tarragona,Cataluña,within,0.0,TN_RailwayNode_04120
+03600,600,31,TARRAGONA,True,Tarragona,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71500
+03600,600,32,SANT VICENÇ DE CALDERS,True,El Vendrell,Tarragona,Cataluña,within,0.0,TN_RailwayNode_71600
+03602,602,1,BIF. PUERTO CABANYAL,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6500
+03602,602,2,BIF. NAZARET,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6504
+03602,602,3,KM. 6.7 LIM ADIF-PTO VALENCIA,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6504
+03602,602,4,VALENCIA-PUERTO NORTE,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65016
+03604,604,1,LES PALMES,True,Castelló de la Plana,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_65301
+03604,604,2,PORT DE CASTELLÓ,True,Castelló de la Plana,Castelló,Comunitat Valenciana,within,0.0,TN_RailwayNode_65501
+03606,606,1,BIF. PUERTO FSL,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6505
+03606,606,2,"VFSL-AG.KM.5,8",False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6501
+03606,606,3,BIF. NAZARET,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6504
+03606,606,4,KM. 7.1 LIM ADIF-PTO VALENCIA,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6505
+03606,606,5,VALENCIA-PUERTO SUR,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65017
+03608,608,1,"VFSL-AG.KM.5,8",False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B6501
+03608,608,2,VALENCIA-F.S.L.MERCANCIAS,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_65013
+03614,614,1,BIF. JOAQUIN SOROLLA-IBERICO,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6420
+03614,614,2,VALENCIA-JOAQUIN SOROLLA,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_03216
+03620,620,1,LALDEA-AMPOSTA-TORTOSA,True,L'Aldea,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65402
+03620,620,2,TORTOSA,True,Tortosa,Tarragona,Cataluña,within,0.0,TN_RailwayNode_65400
+03632,632,1,BIF. VILASECA,False,Vila-seca,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B7510
+03632,632,2,BIF. LA FEREDAT,False,Vila-seca,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B5410
+03900,900,1,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+03900,900,2,MADRID-ATOCHA CERCANIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18000
+03916,916,1,DELICIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18004
+03916,916,2,BIF. STA. CATALINA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1803
+03916,916,3,BIF. MUSEO,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B1804
+03916,916,4,MADRID-SANTA CATALINA,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60004
+03934,934,1,BIF. REBOLLEDO,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B9521
+03934,934,2,MADRID-SANTA CATALINA,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60004
+03934,934,3,MADRID-ABROÑIGAL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_95104
+03936,936,1,SAN CRISTOBAL INDUSTRIAL,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60101
+03936,936,2,VILLAVERDE-MERCANCIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_95101
+03936,936,3,VILLAVERDE BAJO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60100
+03946,946,1,VILLAVERDE BAJO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60100
+03946,946,2,MADRID-SANTA CATALINA,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60004
+03950,950,1,MADRID-P. DE ATOCHA ALMUDENA GRANDES,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60000
+03950,950,2,AGUJA KM. 1.4,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A6001
+04400,400,1,ALCAZAR DE SAN JUAN,True,Alcázar de San Juan,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_60400
+04400,400,2,MANZANARES,True,Manzanares,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_50100
+04400,400,3,VALDEPEÑAS,True,Valdepeñas,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_50102
+04400,400,4,SANTA CRUZ DE MUDELA,True,Santa Cruz de Mudela,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_50200
+04400,400,5,VENTA DE CARDENAS,True,Almuradiel,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_50203
+04400,400,6,VADOLLANO,True,Linares,Jaén,Andalucía,within,0.0,TN_RailwayNode_50209
+04400,400,7,LINARES-BAEZA,True,Linares,Jaén,Andalucía,within,0.0,TN_RailwayNode_50300
+04400,400,8,"ESPELUY-AGUJA KM. 338,8",False,Mengíbar,Jaén,Andalucía,within,0.0,TN_RailwayNode_A5030
+04400,400,9,"ESPELUY-AGUJA KM. 340,1",False,Mengíbar,Jaén,Andalucía,within,0.0,TN_RailwayNode_A5031
+04400,400,10,ESPELUY,True,Espeluy,Jaén,Andalucía,within,0.0,TN_RailwayNode_50400
+04400,400,11,ANDUJAR,True,Andújar,Jaén,Andalucía,within,0.0,TN_RailwayNode_50403
+04400,400,12,LOS SILES,True,Marmolejo,Jaén,Andalucía,within,0.0,TN_RailwayNode_50406
+04400,400,13,"ALCOLEA-AGUJA KM.431,9",False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_A5040
+04400,400,14,CAMPUS UNIVERS. DE RABANALES(APD),False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50417
+04400,400,15,CORDOBA-JULIO ANGUITA,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50500
+04400,400,16,BIF. CORDOBA MERCANCIAS,False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_B5052
+04400,400,17,EL HIGUERON,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50501
+04400,400,18,PALMA DEL RIO,False,Palma del Río,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50506
+04400,400,19,LORA DEL RIO,False,Lora del Río,Sevilla,Andalucía,within,0.0,TN_RailwayNode_50600
+04400,400,20,LOS ROSALES,True,Tocina,Sevilla,Andalucía,within,0.0,TN_RailwayNode_50700
+04400,400,21,MAJARABIQUE-ESTACION,True,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_50709
+04400,400,22,BIF. LOS NARANJOS,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5101
+04400,400,23,BIF. TAMARGUILLO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5102
+04400,400,24,BIF. S. BERNARDO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5119
+04400,400,25,SEVILLA-SANTA JUSTA,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51003
+04400,400,26,"LA SALUD-AGUJA KM. 6,2",False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_A5100
+04400,400,27,LA SALUD,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51101
+04400,400,28,DOS HERMANAS,True,Dos Hermanas,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51103
+04400,400,29,BIF. UTRERA,False,Utrera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5103
+04400,400,30,UTRERA,True,Utrera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51200
+04400,400,31,LEBRIJA,True,Lebrija,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51203
+04400,400,32,JEREZ DE LA FRONTERA,False,Jerez de la Frontera,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51300
+04400,400,33,PUERTO DE SANTA MARIA,True,El Puerto de Santa María,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51400
+04400,400,34,LAS ALETAS,True,Puerto Real,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51415
+04400,400,35,CADIZ,True,Cádiz,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51405
+04400,400,36,CORTADURA,True,Cádiz,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51407
+04400,400,37,RIO ARILLO,False,San Fernando,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51419
+04402,402,1,"ESPELUY-AGUJA KM. 340,1",False,Mengíbar,Jaén,Andalucía,within,0.0,TN_RailwayNode_A5031
+04402,402,2,"ESPELUY-AGUJA KM. 150,5",False,Mengíbar,Jaén,Andalucía,within,0.0,TN_RailwayNode_A0300
+04402,402,3,MENGIBAR-ARTICHUELA (APD-CGD),False,Mengíbar,Jaén,Andalucía,within,0.0,TN_RailwayNode_03001
+04402,402,4,JAEN,True,Jaén,Jaén,Andalucía,within,0.0,TN_RailwayNode_03100
+04404,404,1,"ESPELUY-AGUJA KM. 338,8",False,Mengíbar,Jaén,Andalucía,within,0.0,TN_RailwayNode_A5030
+04404,404,2,"ESPELUY-AGUJA KM. 150,5",False,Mengíbar,Jaén,Andalucía,within,0.0,TN_RailwayNode_A0300
+04406,406,1,LAS ALETAS,True,Puerto Real,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51415
+04406,406,2,UNIVERSIDAD DE CADIZ (APD),False,Puerto Real,Cádiz,Andalucía,within,0.0,TN_RailwayNode_51416
+04408,408,1,"ALCOLEA-AGUJA KM.431,9",False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_A5040
+04408,408,2,CAMBIADOR ALCOLEA,False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_37706
+04410,410,1,LINARES-BAEZA,True,Linares,Jaén,Andalucía,within,0.0,TN_RailwayNode_50300
+04410,410,2,LOS PROPIOS Y CAZORLA,True,Úbeda,Jaén,Andalucía,within,0.0,TN_RailwayNode_56005
+04410,410,3,"KM. 99,2 ( HUELMA )",False,Cabra del Santo Cristo,Jaén,Andalucía,within,0.0,TN_RailwayNode_56010
+04410,410,4,MOREDA,True,Morelábor,Granada,Andalucía,within,0.0,TN_RailwayNode_56100
+04410,410,5,BIF. GRANADA,False,Morelábor,Granada,Andalucía,within,0.0,TN_RailwayNode_B5601
+04410,410,6,GUADIX,True,Guadix,Granada,Andalucía,within,0.0,TN_RailwayNode_56200
+04410,410,7,LA CALAHORRA-FERREIRA,True,La Calahorra,Granada,Andalucía,within,0.0,TN_RailwayNode_56201
+04410,410,8,HUENEJA-DOLAR,True,Huéneja,Granada,Andalucía,within,0.0,TN_RailwayNode_56300
+04410,410,9,FIÑANA,True,Fiñana,Almería,Andalucía,within,0.0,TN_RailwayNode_56301
+04410,410,10,FUENTE SANTA,True,Santa Fe de Mondújar,Almería,Andalucía,within,0.0,TN_RailwayNode_56306
+04410,410,11,ALMERIA,True,Almería,Almería,Andalucía,within,0.0,TN_RailwayNode_56312
+04412,412,1,HUENEJA-DOLAR,True,Huéneja,Granada,Andalucía,within,0.0,TN_RailwayNode_56300
+04412,412,2,MINAS DEL MARQUESADO,True,Alquife,Granada,Andalucía,within,0.0,TN_RailwayNode_58101
+04414,414,1,BIF. GRANADA,False,Morelábor,Granada,Andalucía,within,0.0,TN_RailwayNode_B5601
+04414,414,2,BIF. ALMERIA,False,Morelábor,Granada,Andalucía,within,0.0,TN_RailwayNode_B5701
+04416,416,1,GRANADA,True,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_05000
+04416,416,2,"GRANADA AG. KM 54,289",False,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_B5703
+04416,416,3,"GRANADA AG. KM 53,273",False,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_B5702
+04416,416,4,ALBOLOTE,True,Albolote,Granada,Andalucía,within,0.0,TN_RailwayNode_57006
+04416,416,5,BIF. ALMERIA,False,Morelábor,Granada,Andalucía,within,0.0,TN_RailwayNode_B5701
+04416,416,6,MOREDA,True,Morelábor,Granada,Andalucía,within,0.0,TN_RailwayNode_56100
+04418,418,1,"ANTEQUERA-STA.ANA-AGJ.KM. 48,3",False,Fuente de Piedra,Málaga,Andalucía,within,0.0,TN_RailwayNode_A0426
+04418,418,2,ANTEQUERA-SANTA ANA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_02003
+04418,418,3,"ANTEQUERA-STA.ANA-AGJ.KM. 50,4",False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_A0427
+04420,420,1,BIF. LAS MARAVILLAS,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0103
+04420,420,2,BOBADILLA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_54400
+04420,420,3,ALMARGEN-CAÑETE LA REAL,True,Almargen,Málaga,Andalucía,within,0.0,TN_RailwayNode_55003
+04420,420,4,RONDA,True,Ronda,Málaga,Andalucía,within,0.0,TN_RailwayNode_55007
+04420,420,5,GAUCIN,True,Cortes de la Frontera,Málaga,Andalucía,within,0.0,TN_RailwayNode_55013
+04420,420,6,"P.K. 158,029",False,Castellar de la Frontera,Cádiz,Andalucía,within,0.0,TN_RailwayNode_F1580
+04420,420,7,"P.K. 161,699",False,San Roque,Cádiz,Andalucía,within,0.0,TN_RailwayNode_F1617
+04420,420,8,SAN ROQUE-LA LINEA,True,San Roque,Cádiz,Andalucía,within,0.0,TN_RailwayNode_55018
+04420,420,9,ALGECIRAS,True,Algeciras,Cádiz,Andalucía,within,0.0,TN_RailwayNode_55020
+04422,422,1,BIF. UTRERA,False,Utrera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5103
+04422,422,2,EL SORBITO,True,Alcalá de Guadaíra,Sevilla,Andalucía,within,0.0,TN_RailwayNode_01001
+04422,422,3,ARAHAL,True,Arahal,Sevilla,Andalucía,within,0.0,TN_RailwayNode_01003
+04422,422,4,OSUNA,True,Osuna,Sevilla,Andalucía,within,0.0,TN_RailwayNode_01007
+04422,422,5,P.K. 79.9,False,Osuna,Sevilla,Andalucía,within,0.0,TN_RailwayNode_F0799
+04422,422,6,P.K. 91.6,False,Gilena,Sevilla,Andalucía,within,0.0,TN_RailwayNode_F0916
+04422,422,7,KM. 98.5 ( BIF. MALAGA ),False,Pedrera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B0102
+04422,422,8,FUENTE DE PIEDRA,True,Fuente de Piedra,Málaga,Andalucía,within,0.0,TN_RailwayNode_54301
+04424,424,1,LA RODA DE ANDALUCIA,True,La Roda de Andalucía,Sevilla,Andalucía,within,0.0,TN_RailwayNode_54300
+04424,424,2,KM. 98.5 ( BIF. MALAGA ),False,Pedrera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B0102
+04426,426,1,FUENTE DE PIEDRA,True,Fuente de Piedra,Málaga,Andalucía,within,0.0,TN_RailwayNode_54301
+04426,426,2,"ANTEQUERA-STA.ANA-AGJ.KM. 48,3",False,Fuente de Piedra,Málaga,Andalucía,within,0.0,TN_RailwayNode_A0426
+04426,426,3,"ANTEQUERA-STA.ANA-AGJ.KM. 50,4",False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_A0427
+04426,426,4,BIF. LAS MARAVILLAS,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0103
+04426,426,5,ANTEQUERA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_05019
+04426,426,6,SALINAS-VILLANUEVA DE TAPIA,True,Archidona,Málaga,Andalucía,within,0.0,TN_RailwayNode_05015
+04426,426,7,KM 59.560,False,Loja,Granada,Andalucía,within,0.0,TN_RailwayNode_C5441
+04426,426,8,LOJA-SAN FRANCISCO (APD),False,Loja,Granada,Andalucía,within,0.0,TN_RailwayNode_05013
+04426,426,9,KM 86.520,False,Íllora,Granada,Andalucía,within,0.0,TN_RailwayNode_C5442
+04426,426,10,GRANADA,True,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_05000
+04428,428,1,"ANTEQUERA-STA.ANA-AGJ.KM. 50,4",False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_A0427
+04428,428,2,CAMBIADOR ANTEQUERA,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_02020
+04430,430,1,LOS PRADOS,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54412
+04430,430,2,"MALAGA-AG.K191,4",False,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_A5440
+04430,430,3,MALAGA MARIA ZAMBRANO,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54413
+04430,430,4,ALORA,True,Álora,Málaga,Andalucía,within,0.0,TN_RailwayNode_54405
+04430,430,5,BOBADILLA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_54400
+04430,430,6,"ANTEQUERA-STA.ANA-AGJ.KM. 50,4",False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_A0427
+04430,430,7,FUENTE DE PIEDRA,True,Fuente de Piedra,Málaga,Andalucía,within,0.0,TN_RailwayNode_54301
+04430,430,8,LA RODA DE ANDALUCIA,True,La Roda de Andalucía,Sevilla,Andalucía,within,0.0,TN_RailwayNode_54300
+04430,430,9,"KM. 72,3",False,Puente Genil,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54200
+04430,430,10,PUENTE GENIL,True,Puente Genil,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54201
+04430,430,11,MONTILLA,True,Montilla,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54105
+04430,430,12,VALCHILLON,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54100
+04430,430,13,"AGUJA KM. 1,337",False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_A5050
+04430,430,14,CORDOBA-MERCANCIAS,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50512
+04430,430,15,BIF. CORDOBA MERCANCIAS,False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_B5052
+04432,432,1,CORDOBA-JULIO ANGUITA,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50500
+04432,432,2,CORDOBA-MERCANCIAS,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50512
+04432,432,3,EL HIGUERON,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50501
+04434,434,1,CAMBIADOR CORDOBA,False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54001
+04434,434,2,VALCHILLON,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54100
+04436,436,1,MALAGA-CENT. ALAMEDA (APD),False,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54517
+04436,436,2,MALAGA MARIA ZAMBRANO,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54413
+04436,436,3,"MALAGA-AG.K191,4",False,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_A5440
+04436,436,4,LOS PRADOS,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54412
+04436,436,5,FUENGIROLA,True,Fuengirola,Málaga,Andalucía,within,0.0,TN_RailwayNode_54516
+04438,438,1,"HUELVA-MERCANCIAS AG. KM. 107,4",False,Huelva,Huelva,Andalucía,within,0.0,TN_RailwayNode_A4309
+04438,438,2,BIFURCACION TORRE ARENILLAS,False,Palos de la Frontera,Huelva,Andalucía,within,0.0,TN_RailwayNode_B4310
+04438,438,3,ACCESO PUERTO DE HUELVA,False,Palos de la Frontera,Huelva,Andalucía,within,0.0,TN_RailwayNode_43030
+04440,440,1,HUELVA,True,Huelva,Huelva,Andalucía,within,0.0,TN_RailwayNode_43019
+04440,440,2,"HUELVA-MERCANCIAS AG. KM. 107,4",False,Huelva,Huelva,Andalucía,within,0.0,TN_RailwayNode_A4309
+04440,440,3,HUELVA-MERCANCIAS,True,Huelva,Huelva,Andalucía,within,0.0,TN_RailwayNode_43023
+04440,440,4,LA PALMA DEL CONDADO,True,La Palma del Condado,Huelva,Andalucía,within,0.0,TN_RailwayNode_43011
+04440,440,5,ESCACENA,True,Escacena del Campo,Huelva,Andalucía,within,0.0,TN_RailwayNode_43009
+04440,440,6,BENACAZON,True,Benacazón,Sevilla,Andalucía,within,0.0,TN_RailwayNode_43005
+04440,440,7,ALAMILLO,True,Camas,Sevilla,Andalucía,within,0.0,TN_RailwayNode_43001
+04440,440,8,BIF. CARTUJA,False,Santiponce,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B4301
+04440,440,9,BIF. SAN JERONIMO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5073
+04440,440,10,BIF. LOS NARANJOS,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5101
+04440,440,11,MAJARABIQUE-ESTACION,True,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_50709
+04442,442,1,BIF. LOS NARANJOS,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5101
+04442,442,2,CAMBIADOR MAJARABIQUE,False,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_37805
+04444,444,1,BIF. TAMARGUILLO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5102
+04444,444,2,BIF. LA NEGRILLA,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5109
+04444,444,3,LA NEGRILLA,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51005
+04444,444,4,"LA SALUD-AGUJA KM. 10,2",False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_A5101
+04444,444,5,LA SALUD,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51101
+04446,446,1,BIF. CARTUJA,False,Santiponce,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B4301
+04446,446,2,CARTUJA,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51050
+04448,448,1,BIF. LOS NARANJOS,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5101
+04448,448,2,BIF. SAN JERONIMO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5073
+04450,450,1,BIF. S. BERNARDO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5119
+04450,450,2,BIF. LA NEGRILLA,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5109
+04452,452,1,LA SALUD,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51101
+04452,452,2,KM. 1.717 LIM ADIF-PUERTO SEVILLA,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_A5110
+04452,452,3,PUERTO DE SEVILLA (CGD),True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51107
+04454,454,1,BIF. SAN JERONIMO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5073
+04454,454,2,CAMBIADOR MAJARABIQUE,False,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_37805
+04456,456,1,"LA SALUD-AGUJA KM. 10,2",False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_A5101
+04456,456,2,"LA SALUD-AGUJA KM. 6,2",False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_A5100
+04458,458,1,MAJARABIQUE-ESTACION,True,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_50709
+04458,458,2,BIF. SAN JERONIMO,False,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B5073
+04460,460,1,FUENTE DE PIEDRA,True,Fuente de Piedra,Málaga,Andalucía,within,0.0,TN_RailwayNode_54301
+04460,460,2,"ANTEQUERA-STA.ANA-AGJ.KM. 48,3",False,Fuente de Piedra,Málaga,Andalucía,within,0.0,TN_RailwayNode_A0426
+04460,460,3,"ANTEQUERA-STA.ANA-AGJ.KM. 50,4",False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_A0427
+04460,460,4,BIF. LAS MARAVILLAS,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0103
+04460,460,5,ANTEQUERA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_05019
+04460,460,6,SALINAS-VILLANUEVA DE TAPIA,True,Archidona,Málaga,Andalucía,within,0.0,TN_RailwayNode_05015
+04460,460,7,BIF. RIOFRIO,False,Loja,Granada,Andalucía,within,0.0,TN_RailwayNode_B0107
+04464,464,1,BIF. LA CHANA,False,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_B0110
+04464,464,2,BIF. TOCON,False,Íllora,Granada,Andalucía,within,0.0,TN_RailwayNode_B0109
+04466,466,1,BIF. RIOFRIO,False,Loja,Granada,Andalucía,within,0.0,TN_RailwayNode_B0107
+04466,466,2,SALINAS-VILLANUEVA DE TAPIA,True,Archidona,Málaga,Andalucía,within,0.0,TN_RailwayNode_05015
+04466,466,3,ANTEQUERA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_05019
+04468,468,1,BIF. LAS MARAVILLAS,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0103
+04468,468,2,BIFURCACION LA VERONICA,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0104
+04468,468,3,ANTEQUERA AV,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_02030
+04490,490,1,CAMBIADOR GRANADA,False,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_05021
+04490,490,2,"GRANADA AG. KM 53,273",False,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_B5702
+04492,492,1,"GRANADA AG. KM 54,289",False,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_B5703
+04492,492,2,CAMBIADOR GRANADA,False,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_05021
+04508,508,1,BADAJOZ,True,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37606
+04508,508,2,BADAJOZ-FRONTERA,False,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37610
+04512,512,1,HUELVA-MERCANCIAS,True,Huelva,Huelva,Andalucía,within,0.0,TN_RailwayNode_43023
+04512,512,2,GIBRALEON,True,Gibraleón,Huelva,Andalucía,within,0.0,TN_RailwayNode_42020
+04512,512,3,CALAÑAS,True,Calañas,Huelva,Andalucía,within,0.0,TN_RailwayNode_42015
+04512,512,4,VALDELAMUSA,True,Cortegana,Huelva,Andalucía,within,0.0,TN_RailwayNode_42012
+04512,512,5,JABUGO-GALAROZA,True,Jabugo,Huelva,Andalucía,within,0.0,TN_RailwayNode_42008
+04512,512,6,FREGENAL DE LA SIERRA,True,Fregenal de la Sierra,Badajoz,Extremadura,within,0.0,TN_RailwayNode_42005
+04512,512,7,ZAFRA,True,Zafra,Badajoz,Extremadura,within,0.0,TN_RailwayNode_40100
+04514,514,1,ZAFRA,True,Zafra,Badajoz,Extremadura,within,0.0,TN_RailwayNode_40100
+04514,514,2,CEMENTOS BALBOA (CGD),True,Alconera,Badajoz,Extremadura,within,0.0,TN_RailwayNode_41005
+04514,514,3,JEREZ DE LOS CABALLEROS (CGD),True,Jerez de los Caballeros,Badajoz,Extremadura,within,0.0,TN_RailwayNode_41004
+04516,516,1,MERIDA,True,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37500
+04516,516,2,ZAFRA,True,Zafra,Badajoz,Extremadura,within,0.0,TN_RailwayNode_40100
+04516,516,3,LLERENA,True,Llerena,Badajoz,Extremadura,within,0.0,TN_RailwayNode_40105
+04516,516,4,FUENTE DEL ARCO (APD),False,Fuente del Arco,Badajoz,Extremadura,within,0.0,TN_RailwayNode_40107
+04516,516,5,CAZALLA-CONSTANTINA,True,Cazalla de la Sierra,Sevilla,Andalucía,within,0.0,TN_RailwayNode_40113
+04516,516,6,PEDROSO,True,El Pedroso,Sevilla,Andalucía,within,0.0,TN_RailwayNode_40115
+04516,516,7,VILLANUEVA DEL RIO-MINAS,False,Villanueva del Río y Minas,Sevilla,Andalucía,within,0.0,TN_RailwayNode_40119
+04516,516,8,LOS ROSALES,True,Tocina,Sevilla,Andalucía,within,0.0,TN_RailwayNode_50700
+04520,520,1,BADAJOZ,True,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37606
+04520,520,2,BIF. SAN NICOLAS,False,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3760
+04520,520,3,"AG. KM. 160,4",False,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_A3760
+04520,520,4,MONTIJO,True,Montijo,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37603
+04520,520,5,BIF. LA ISLA,False,La Garrovilla,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3750
+04520,520,6,ALJUCEN,True,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37600
+04520,520,7,MERIDA,True,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37500
+04520,520,8,BIOENERGETICA EXTREMEÑA,True,Valdetorres,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37414
+04520,520,9,VILLANUEVA DE LA SERENA,True,Villanueva de la Serena,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37406
+04520,520,10,ALMORCHON,True,Cabeza del Buey,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37400
+04520,520,11,CABEZA DEL BUEY,True,Cabeza del Buey,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37311
+04520,520,12,GUADALMEZ-LOS PEDROCHES,True,Guadalmez,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37308
+04520,520,13,CARACOLLERA,True,Almodóvar del Campo,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37303
+04520,520,14,PUERTOLLANO-MERCANCÍAS,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37301
+04520,520,15,ACCESO PUERTOLLANO REFINERÍA,False,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_B3730
+04520,520,16,PUERTOLLANO,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37700
+04520,520,17,PUERTOLLANO,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37300
+04520,520,18,CALATRAVA,True,Villamayor de Calatrava,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37205
+04520,520,19,CAÑADA DE CALATRAVA,True,Ciudad Real,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37202
+04520,520,20,CIUDAD REAL,True,Ciudad Real,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37200
+04520,520,21,BIF. POBLETE,False,Miguelturra,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_B4005
+04522,522,1,MANZANARES,True,Manzanares,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_50100
+04522,522,2,ALMAGRO,True,Almagro,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_94004
+04522,522,3,CIUDAD REAL-MIGUELTURRA,True,Miguelturra,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_94005
+04522,522,4,CIUDAD REAL,True,Ciudad Real,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37200
+04524,524,1,CIUDAD REAL-MIGUELTURRA,True,Miguelturra,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_94005
+04524,524,2,BIF. POBLETE,False,Miguelturra,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_B4005
+04526,526,1,PUERTOLLANO-REFINERIA,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37315
+04526,526,2,PUERTOLLANO,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37300
+04526,526,3,PUERTOLLANO,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37700
+04528,528,1,ALMORCHON,True,Cabeza del Buey,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37400
+04528,528,2,PEÑARROYA - PUEBLONUEVO,True,Peñarroya-Pueblonuevo,Córdoba,Andalucía,within,0.0,TN_RailwayNode_00005
+04528,528,3,VILLANUEVA DEL REY (APD),False,Villanueva del Rey,Córdoba,Andalucía,within,0.0,TN_RailwayNode_00007
+04528,528,4,ALHONDIGUILLA-VILLAVICIOSA,True,Espiel,Córdoba,Andalucía,within,0.0,TN_RailwayNode_00010
+04528,528,5,MIRABUENO,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_00018
+05500,500,1,BIF. PLANETARIO,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B6002
+05500,500,2,KM. 5.200,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60001
+05500,500,3,VILLAVERDE BAJO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60100
+05500,500,4,VILLAVERDE ALTO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37001
+05500,500,5,LEGANES,True,Leganés,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35001
+05500,500,6,FUENLABRADA,True,Fuenlabrada,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35002
+05500,500,7,HUMANES,True,Humanes de Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35012
+05500,500,8,GRIÑON,True,Griñón,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35004
+05500,500,9,ILLESCAS,True,Illescas,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_35005
+05500,500,10,VILLALUENGA-YUNCLER,True,Villaluenga de la Sagra,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_35100
+05500,500,11,TORRIJOS,True,Torrijos,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_35105
+05500,500,12,TALAVERA DE LA REINA,True,Talavera de la Reina,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_35200
+05500,500,13,"P.K. 187,360",False,Oropesa,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_C3520
+05500,500,14,NAVALMORAL DE LA MATA,True,Navalmoral de la Mata,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35206
+05500,500,15,MONFRAGÜE,True,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_30000
+05500,500,16,"MONFRAGÜE-AGUJA KM.255,4",False,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3531
+05500,500,17,RIO TAJO (APD),False,Garrovillas de Alconétar,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35304
+05500,500,18,CACERES,True,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35400
+05500,500,19,BIF. CASA DE LA TORRE,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3503
+05500,500,20,HERRERUELA (APD),False,Herreruela,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35404
+05500,500,21,C. DE R.,True,San Vicente de Alcántara,Badajoz,Extremadura,within,0.0,TN_RailwayNode_D3546
+05500,500,22,VALENCIA DE ALCANTARA,True,Valencia de Alcántara,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35406
+05502,502,1,CACERES,True,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35400
+05502,502,2,C. DE R.,True,San Vicente de Alcántara,Badajoz,Extremadura,within,0.0,TN_RailwayNode_D3546
+05502,502,3,VALENCIA DE ALCANTARA,True,Valencia de Alcántara,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35406
+05502,502,4,"KM. 428,5 (FRONTERA)",False,Valencia de Alcántara,Cáceres,Extremadura,nearest,23.1,TN_RailwayNode_35407
+05504,504,1,VILLALUENGA-YUNCLER,True,Villaluenga de la Sagra,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_35100
+05504,504,2,"AGUJA KM. 5,7",False,Villaseca de la Sagra,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_A9101
+05504,504,3,VILLASECA Y MOCEJON,True,Villaseca de la Sagra,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_37008
+05504,504,4,ALGODOR,True,Aranjuez,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37100
+05506,506,1,"AGUJA KM. 5,7",False,Villaseca de la Sagra,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_A9101
+05506,506,2,ASLAND (CGD),True,Villaluenga de la Sagra,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_91001
+05510,510,1,ALJUCEN,True,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37600
+05510,510,2,BIF. GRANJA LAS ENCINAS,False,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3603
+05510,510,3,PEÑAS BLANCAS,True,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3602
+05510,510,4,CARMONITA (APD),False,Carmonita,Badajoz,Extremadura,within,0.0,TN_RailwayNode_36003
+05510,510,5,KM 32.135,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_C3600
+05510,510,6,CACERES AG. KM. 82.2,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_A3540
+05510,510,7,CACERES,True,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35400
+05518,518,1,BIF. ROMANOS,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3600
+05518,518,2,CACERES AG. KM. 82.2,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_A3540
+05518,518,3,CACERES,True,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35400
+05518,518,4,BIF. CASA DE LA TORRE,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3503
+05530,530,1,PLASENCIA,True,Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_30002
+05530,530,2,BIF. EL CHAPARRAL,False,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3500
+05530,530,3,"MONFRAGÜE-AGUJA KM.4,4",False,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3002
+05530,530,4,MONFRAGÜE,True,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_30000
+05532,532,1,"MONFRAGÜE-AGUJA KM.255,4",False,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3531
+05532,532,2,"MONFRAGÜE-AGUJA KM.4,4",False,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3002
+05534,534,1,BIF. EL CHAPARRAL,False,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3500
+05534,534,2,ARROYO DE LA HERRERA,True,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_03500
+05536,536,1,BIF. SAN ESTEBAN,False,Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3501
+05536,536,2,BIF. EL CHAPARRAL,False,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3500
+05538,538,1,PLASENCIA,True,Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_30002
+05538,538,2,BIF. SAN ESTEBAN,False,Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3501
+05920,920,1,MADRID-ATOCHA CERCANIAS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_18000
+05920,920,2,CUATRO VIENTOS,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35603
+05920,920,3,VILLAVERDE ALTO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37001
+05920,920,4,GETAFE - CENTRO,True,Getafe,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37002
+05920,920,5,MOSTOLES - EL SOTO,True,Móstoles,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_35607
+05920,920,6,CTT PARLA,False,Pinto,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37014
+05920,920,7,BIF. PARLA,False,Parla,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B3700
+05920,920,8,PARLA,True,Parla,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37012
+05922,922,1,BIF. PARLA,False,Parla,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B3700
+05922,922,2,PARLA INDUSTRIAL,True,Parla,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_37004
+06130,130,1,VENTA DE BAÑOS,True,Venta de Baños,Palencia,Castilla y León,within,0.0,TN_RailwayNode_11000
+06130,130,2,BIF. MAGAZ,False,Palencia,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B1400
+06130,130,3,PALENCIA ARROYO VILLALOBON,True,Palencia,Palencia,Castilla y León,within,0.0,TN_RailwayNode_15000
+06130,130,4,PALENCIA,True,Palencia,Palencia,Castilla y León,within,0.0,TN_RailwayNode_14100
+06130,130,5,VILLADA,True,Villada,Palencia,Castilla y León,within,0.0,TN_RailwayNode_15007
+06130,130,6,BASE DE MONTAJE AV VILLADA(CGD),False,Villada,Palencia,Castilla y León,within,0.0,TN_RailwayNode_15021
+06130,130,7,SAHAGUN,True,Sahagún,León,Castilla y León,within,0.0,TN_RailwayNode_15009
+06130,130,8,PALANQUINOS (APD-CGD),False,Villanueva de las Manzanas,León,Castilla y León,within,0.0,TN_RailwayNode_15015
+06130,130,9,TORNEROS,True,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_15017
+06130,130,10,BIF. RIO BERNESGA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_B1507
+06130,130,11,BIF. QUINTANA,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B1509
+06130,130,12,BIF.LEON CLAF.,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B1501
+06130,130,13,BIF. CLASIFICACION,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B0826
+06130,130,14,LEON,True,León,León,Castilla y León,within,0.0,TN_RailwayNode_15100
+06130,130,15,"LEON AG. KM. 123,6",False,San Andrés del Rabanedo,León,Castilla y León,within,0.0,TN_RailwayNode_A1510
+06130,130,16,BIF. GALICIA,False,San Andrés del Rabanedo,León,Castilla y León,within,0.0,TN_RailwayNode_B1511
+06130,130,17,LA SECA (APD),False,Cuadros,León,Castilla y León,within,0.0,TN_RailwayNode_15105
+06130,130,18,BIF. PAJARES,False,Cuadros,León,Castilla y León,within,0.0,TN_RailwayNode_B0820
+06130,130,19,LA ROBLA,True,La Robla,León,Castilla y León,within,0.0,TN_RailwayNode_15106
+06130,130,20,BUSDONGO,True,Villamanín,León,Castilla y León,within,0.0,TN_RailwayNode_15113
+06130,130,21,PUENTE DE LOS FIERROS,True,Lena,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15118
+06130,130,22,POLA DE LENA,True,Lena,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15122
+06130,130,23,UJO,True,Mieres,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15200
+06130,130,24,ABLAÑA,True,Mieres,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15205
+06130,130,25,BIF. TUDELA-VEGUIN,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1521
+06130,130,26,SOTO DE REY,True,Ribera de Arriba,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15208
+06130,130,27,LLAMAQUIQUE (APD),False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15218
+06130,130,28,OVIEDO,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15211
+06130,130,29,LUGONES,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15212
+06130,130,30,LUGO DE LLANERA,True,Llanera,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15300
+06130,130,31,VILLABONA DE ASTURIAS,True,Llanera,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15301
+06130,130,32,GIJON-CERCANIAS,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15403
+06130,130,33,GIJON-SANZ CRESPO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15410
+06130,130,34,GIJON-JOVELLANOS,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15402
+06130,130,35,SERIN,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15302
+06130,130,36,VERIÑA,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15400
+06132,132,1,ABLAÑA,True,Mieres,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15205
+06132,132,2,OLLONIEGO,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15207
+06132,132,3,BIF. TUDELA-VEGUIN,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1521
+06134,134,1,TORNEROS,True,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_15017
+06134,134,2,BIF. RIO BERNESGA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_B1507
+06134,134,3,BIF. QUINTANA,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B1509
+06134,134,4,LEON-CLASIFICACION,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_15018
+06134,134,5,LEON,True,León,León,Castilla y León,within,0.0,TN_RailwayNode_15100
+06138,138,1,BIF. GALICIA,False,San Andrés del Rabanedo,León,Castilla y León,within,0.0,TN_RailwayNode_B1511
+06138,138,2,BIF. ASTURIAS,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B2001
+0613G,13G,1,LEON-CLASIFICACION,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_15018
+0613G,13G,2,BIF.LEON CLAF.,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B1501
+06140,140,1,BIF. TUDELA-VEGUIN,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1521
+06140,140,2,BIF. OLLONIEGO,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1601
+06140,140,3,TUDELA-VEGUIN,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16002
+06140,140,4,BIF. PEÑA RUBIA,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1602
+06140,140,5,EL ENTREGO,True,San Martín del Rey Aurelio,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16011
+06142,142,1,SOTO DE REY,True,Ribera de Arriba,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15208
+06142,142,2,BIF. OLLONIEGO,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1601
+06144,144,1,VILLABONA DE ASTURIAS,True,Llanera,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15301
+06144,144,2,NUBLEDO,True,Corvera de Asturias,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16400
+06144,144,3,AVILES,True,Avilés,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16403
+06144,144,4,LA MARUCA (CGD),True,Avilés,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16404
+06144,144,5,SAN JUAN DE NIEVA,True,Castrillón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16405
+06146,146,1,BIF. PEÑA RUBIA,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1602
+06146,146,2,BIF. VIELLA,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1611
+06148,148,1,NUBLEDO,True,Corvera de Asturias,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16400
+06148,148,2,KM. 0.450 LIM ADIF-ARCELOR,False,Corvera de Asturias,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_A1650
+06148,148,3,TRASONA,True,Corvera de Asturias,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16501
+06150,150,1,SERIN,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15302
+06150,150,2,POAGO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15304
+06150,150,3,VERIÑA,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15400
+06150,150,4,ABOÑO,True,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16601
+06152,152,1,VERIÑA,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15400
+06152,152,2,GIJON-PUERTO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16604
+06154,154,1,TUDELA-VEGUIN,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16002
+06154,154,2,BIF. VIELLA,False,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_B1611
+06154,154,3,VIELLA,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16101
+06154,154,4,LUGO DE LLANERA,True,Llanera,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15300
+06160,160,1,SANTANDER,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14223
+06160,160,2,MURIEDAS,True,Camargo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14221
+06160,160,3,GUARNIZO,True,El Astillero,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14218
+06160,160,4,RENEDO,True,Piélagos,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14216
+06160,160,5,SIERRAPANDO (APD),False,Torrelavega,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14214
+06160,160,6,TORRELAVEGA,True,Torrelavega,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14213
+06160,160,7,LOS CORRALES DE BUELNA,True,Los Corrales de Buelna,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14210
+06160,160,8,BARCENA,True,Bárcena de Pie de Concha,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14206
+06160,160,9,REINOSA,True,Reinosa,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14202
+06160,160,10,MATAPORQUERA,True,Valdeolea,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14200
+06160,160,11,QUINTANILLA DE LAS TORRES (APD),False,Pomar de Valdivia,Palencia,Castilla y León,within,0.0,TN_RailwayNode_14115
+06160,160,12,OSORNO,True,Osorno la Mayor,Palencia,Castilla y León,within,0.0,TN_RailwayNode_14107
+06160,160,13,PALENCIA,True,Palencia,Palencia,Castilla y León,within,0.0,TN_RailwayNode_14100
+06162,162,1,SIERRAPANDO (APD),False,Torrelavega,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14214
+06162,162,2,SOLVAY FACTORIA (CGD),True,Polanco,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14226
+06182,182,1,BIF. CLASIFICACION,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B0826
+06182,182,2,CAMBIADOR CLASIFICACION,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_08206
+06184,184,1,CAMBIADOR VILECHA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_08205
+06184,184,2,BIF. RIO BERNESGA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_B1507
+06800,800,1,BIF. TORNEROS,False,Santovenia de la Valdoncina,León,Castilla y León,within,0.0,TN_RailwayNode_B1508
+06800,800,2,LEON,True,León,León,Castilla y León,within,0.0,TN_RailwayNode_15100
+06800,800,3,BIF. LEON,False,Santovenia de la Valdoncina,León,Castilla y León,within,0.0,TN_RailwayNode_B1506
+06800,800,4,"LEON AG. KM. 123,6",False,San Andrés del Rabanedo,León,Castilla y León,within,0.0,TN_RailwayNode_A1510
+06800,800,5,BIF. ASTURIAS,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B2001
+06800,800,6,QUINTANA-RANEROS,True,Santovenia de la Valdoncina,León,Castilla y León,within,0.0,TN_RailwayNode_20002
+06800,800,7,ASTORGA,True,Astorga,León,Castilla y León,within,0.0,TN_RailwayNode_20100
+06800,800,8,FOLGOSO,True,Torre del Bierzo,León,Castilla y León,within,0.0,TN_RailwayNode_20105
+06800,800,9,PONFERRADA,True,Ponferrada,León,Castilla y León,within,0.0,TN_RailwayNode_20200
+06800,800,10,KM. 253.5,False,Ponferrada,León,Castilla y León,within,0.0,TN_RailwayNode_B2021
+06800,800,11,TORAL DE LOS VADOS,True,Toral de los Vados,León,Castilla y León,within,0.0,TN_RailwayNode_20204
+06800,800,12,LA BAROSA (APD),False,Carucedo,León,Castilla y León,within,0.0,TN_RailwayNode_20206
+06800,800,13,KM. 273.390,False,Carucedo,León,Castilla y León,within,0.0,TN_RailwayNode_C2011
+06800,800,14,A RUA-PETIN,True,A Rúa,Ourense,Galicia,within,0.0,TN_RailwayNode_20213
+06800,800,15,MONFORTE DE LEMOS,True,Monforte de Lemos,Lugo,Galicia,within,0.0,TN_RailwayNode_20300
+06800,800,16,SARRIA,True,Sarria,Lugo,Galicia,within,0.0,TN_RailwayNode_20305
+06800,800,17,LUGO,True,Lugo,Lugo,Galicia,within,0.0,TN_RailwayNode_20309
+06800,800,18,LUGO MERCANCIAS,True,Lugo,Lugo,Galicia,within,0.0,TN_RailwayNode_20323
+06800,800,19,GUITIRIZ,True,Guitiriz,Lugo,Galicia,within,0.0,TN_RailwayNode_20314
+06800,800,20,BETANZOS-INFESTA,True,Betanzos,A Coruña,Galicia,within,0.0,TN_RailwayNode_20400
+06800,800,21,BIF. EL BURGO,False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_B2041
+06800,800,22,BIF. SAN DIEGO,False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_B2051
+06800,800,23,BIF. SAN CRISTOBAL,False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_B2052
+06800,800,24,A CORUÑA,True,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_31412
+06802,802,1,TORAL DE LOS VADOS,True,Toral de los Vados,León,Castilla y León,within,0.0,TN_RailwayNode_20204
+06802,802,2,COSMOS (CGD),True,Toral de los Vados,León,Castilla y León,within,0.0,TN_RailwayNode_20601
+06802,802,3,VILLAFRANCA DEL BIERZO (CGD),True,Villafranca del Bierzo,León,Castilla y León,within,0.0,TN_RailwayNode_20603
+06804,804,1,FERROL,True,Ferrol,A Coruña,Galicia,within,0.0,TN_RailwayNode_21010
+06804,804,2,BETANZOS-INFESTA,True,Betanzos,A Coruña,Galicia,within,0.0,TN_RailwayNode_20400
+06806,806,1,ASTORGA,True,Astorga,León,Castilla y León,within,0.0,TN_RailwayNode_20100
+06806,806,2,LA BAÑEZA,True,La Bañeza,León,Castilla y León,within,0.0,TN_RailwayNode_30216
+06810,810,1,GUILLAREI,True,Tui,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22200
+06810,810,2,"GUILLAREI-AG. KM. 141,6",False,Tui,Pontevedra,Galicia,within,0.0,TN_RailwayNode_A2220
+06810,810,3,VIGO,True,Vigo,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22303
+06810,810,4,BIF. CHAPELA,False,Redondela,Pontevedra,Galicia,within,0.0,TN_RailwayNode_A2230
+06810,810,5,REDONDELA,True,Redondela,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22300
+06810,810,6,RIBADAVIA,True,Ribadavia,Ourense,Galicia,within,0.0,TN_RailwayNode_22102
+06810,810,7,OURENSE,True,Ourense,Ourense,Galicia,within,0.0,TN_RailwayNode_22100
+06810,810,8,OS PEARES,True,A Peroxa,Ourense,Galicia,within,0.0,TN_RailwayNode_22005
+06810,810,9,MONFORTE DE LEMOS,True,Monforte de Lemos,Lugo,Galicia,within,0.0,TN_RailwayNode_20300
+06812,812,1,BIF. CHAPELA,False,Redondela,Pontevedra,Galicia,within,0.0,TN_RailwayNode_A2230
+06812,812,2,VIGO-GUIXAR,True,Vigo,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22308
+06814,814,1,"GUILLAREI-AG. KM. 0,9",False,Tui,Pontevedra,Galicia,within,0.0,TN_RailwayNode_A2240
+06814,814,2,GUILLAREI,True,Tui,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22200
+06814,814,3,TUI,True,Tui,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22401
+06814,814,4,TUI-FRONTERA,False,Tui,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22403
+06814,814,5,VALENCA DO MINHO,True,Tomiño,Pontevedra,Galicia,nearest,1409.1,TN_RailwayNode_22402
+06816,816,1,"GUILLAREI-AG. KM. 141,6",False,Tui,Pontevedra,Galicia,within,0.0,TN_RailwayNode_A2220
+06816,816,2,"GUILLAREI-AG. KM. 0,9",False,Tui,Pontevedra,Galicia,within,0.0,TN_RailwayNode_A2240
+06818,818,1,VILAGARCIA DE AROUSA,True,Vilagarcía de Arousa,Pontevedra,Galicia,within,0.0,TN_RailwayNode_23008
+06818,818,2,PADRON,True,Padrón,A Coruña,Galicia,within,0.0,TN_RailwayNode_23011
+06818,818,3,BIF. ANGUEIRA,False,Padrón,A Coruña,Galicia,within,0.0,TN_RailwayNode_B2302
+06820,820,1,MEDINA DEL CAMPO,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10500
+06820,820,2,TORO,True,Toro,Zamora,Castilla y León,within,0.0,TN_RailwayNode_31006
+06820,820,3,ZAMORA,True,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_30200
+06820,820,4,ZAMORA AG. KM. 233.0,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3019
+06822,822,1,A CORUÑA,True,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_31412
+06822,822,2,BIF. UXES,False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_B3141
+06822,822,3,MEIRAMA-PICARDEL,True,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_31409
+06822,822,4,CERCEDA-MEIRAMA,True,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_31416
+06822,822,5,SANTIAGO DE COMPOST.-DANIEL CASTELAO,True,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_31400
+06822,822,6,"BIF. A GRANDEIRA AG. KM. 376,1",False,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_B0862
+06822,822,7,"BIF. A GRANDEIRA AG. KM. 85,0",False,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_B0861
+06822,822,8,VEDRA-RIVADULLA,True,Vedra,A Coruña,Galicia,within,0.0,TN_RailwayNode_31312
+06822,822,9,LALIN,True,Lalín,Pontevedra,Galicia,within,0.0,TN_RailwayNode_31308
+06822,822,10,O IRIXO,True,O Irixo,Ourense,Galicia,within,0.0,TN_RailwayNode_31306
+06822,822,11,BIF. COTO DA TORRE,False,Ourense,Ourense,Galicia,within,0.0,TN_RailwayNode_B0860
+06822,822,12,OURENSE,True,Ourense,Ourense,Galicia,within,0.0,TN_RailwayNode_22100
+06822,822,13,OURENSE-SAN FRANCISCO (APD),False,Ourense,Ourense,Galicia,within,0.0,TN_RailwayNode_31215
+06822,822,14,TABOADELA,True,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_31214
+06822,822,15,"TABOADELA AG. KM. 234,0",False,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_A8250
+06822,822,16,LAZA-CERDEDELO,True,Laza,Ourense,Galicia,within,0.0,TN_RailwayNode_31208
+06822,822,17,LUBIAN,True,Lubián,Zamora,Castilla y León,within,0.0,TN_RailwayNode_31203
+06822,822,18,PEDRALBA AG KM 112.4,False,Pedralba de la Pradería,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3122
+06822,822,19,PUEBLA DE SANABRIA,True,Puebla de Sanabria,Zamora,Castilla y León,within,0.0,TN_RailwayNode_31200
+06822,822,20,SARRACIN DE ALISTE,True,Riofrío de Aliste,Zamora,Castilla y León,within,0.0,TN_RailwayNode_31108
+06822,822,21,BIF. VALORIO,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3021
+06822,822,22,BIF. EL BOLON,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3020
+06822,822,23,ZAMORA,True,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_30200
+06824,824,1,SANTIAGO DE COMPOST.-DANIEL CASTELAO,True,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_31400
+06824,824,2,BIF. RIO SAR,False,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_B0902
+06824,824,3,BIF. ANGUEIRA,False,Padrón,A Coruña,Galicia,within,0.0,TN_RailwayNode_B2302
+06824,824,4,PADRON,True,Padrón,A Coruña,Galicia,within,0.0,TN_RailwayNode_23011
+06824,824,5,DODRO,True,Dodro,A Coruña,Galicia,within,0.0,TN_RailwayNode_23020
+06824,824,6,VILAGARCIA DE AROUSA,True,Vilagarcía de Arousa,Pontevedra,Galicia,within,0.0,TN_RailwayNode_23008
+06824,824,7,FAXIL,True,Barro,Pontevedra,Galicia,within,0.0,TN_RailwayNode_23015
+06824,824,8,BIF. SAN AMARO,False,Pontevedra,Pontevedra,Galicia,within,0.0,TN_RailwayNode_B2301
+06824,824,9,PONTEVEDRA,True,Pontevedra,Pontevedra,Galicia,within,0.0,TN_RailwayNode_23004
+06824,824,10,BIF. ARCADE,False,Soutomaior,Pontevedra,Galicia,within,0.0,TN_RailwayNode_B2300
+06824,824,11,BIF. REDONDELA,False,Redondela,Pontevedra,Galicia,within,0.0,TN_RailwayNode_B2230
+06824,824,12,REDONDELA,True,Redondela,Pontevedra,Galicia,within,0.0,TN_RailwayNode_22300
+06826,826,1,CERCEDA-MEIRAMA,True,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_31416
+06826,826,2,"CERCEDA-MEIRAMA-AG. KM. 000,729",False,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_A3140
+06826,826,3,CENTRAL TERMICA DE MEIRAMA,True,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_31422
+06826,826,4,KM. 6.135 LIM ADIF-UNION FENOSA,False,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_A3142
+06826,826,5,SOGAMA,True,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_31421
+06826,826,6,ORDES,True,Ordes,A Coruña,Galicia,within,0.0,TN_RailwayNode_31415
+06826,826,7,SANTIAGO DE COMPOST.-DANIEL CASTELAO,True,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_31400
+06828,828,1,PORTAS,True,Portas,Pontevedra,Galicia,within,0.0,TN_RailwayNode_23006
+06828,828,2,FAXIL,True,Barro,Pontevedra,Galicia,within,0.0,TN_RailwayNode_23015
+06828,828,3,BIF. SAN AMARO,False,Pontevedra,Pontevedra,Galicia,within,0.0,TN_RailwayNode_B2301
+06830,830,1,BIF. SAN CRISTOBAL,False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_B2052
+06830,830,2,BIF. UXES,False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_B3141
+06832,832,1,"AGUJA KM. 545,4",False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_A2045
+06832,832,2,BIF. SAN DIEGO,False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_B2051
+06834,834,1,BIF. EL BURGO,False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_B2041
+06834,834,2,"AGUJA KM. 545,4",False,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_A2045
+06834,834,3,A CORUÑA-SAN DIEGO,True,A Coruña,A Coruña,Galicia,within,0.0,TN_RailwayNode_20406
+06836,836,1,BIF. RIO BERNESGA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_B1507
+06836,836,2,RIO BERNESGA,False,Santovenia de la Valdoncina,León,Castilla y León,within,0.0,TN_RailwayNode_15019
+06836,836,3,BIF. LEON,False,Santovenia de la Valdoncina,León,Castilla y León,within,0.0,TN_RailwayNode_B1506
+06838,838,1,RIO BERNESGA,False,Santovenia de la Valdoncina,León,Castilla y León,within,0.0,TN_RailwayNode_15019
+06838,838,2,BIF. TORNEROS,False,Santovenia de la Valdoncina,León,Castilla y León,within,0.0,TN_RailwayNode_B1508
+06838,838,3,BIF. QUINTANA,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B1509
+06840,840,1,"CERCEDA-MEIRAMA-AG. KM. 000,729",False,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_A3140
+06840,840,2,MEIRAMA-PICARDEL,True,Cerceda,A Coruña,Galicia,within,0.0,TN_RailwayNode_31409
+06842,842,1,"BIF. A GRANDEIRA AG. KM. 376,1",False,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_B0862
+06842,842,2,BIF. RIO SAR,False,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_B0902
+06848,848,1,REDONDELA AV,True,Redondela,Pontevedra,Galicia,within,0.0,TN_RailwayNode_08224
+06848,848,2,BIF. REDONDELA,False,Redondela,Pontevedra,Galicia,within,0.0,TN_RailwayNode_B2230
+06850,850,1,BIF. ARCADE,False,Soutomaior,Pontevedra,Galicia,within,0.0,TN_RailwayNode_B2300
+06850,850,2,REDONDELA AV,True,Redondela,Pontevedra,Galicia,within,0.0,TN_RailwayNode_08224
+06850,850,3,VIGO URZAIZ,True,Vigo,Pontevedra,Galicia,within,0.0,TN_RailwayNode_08223
+06884,884,1,BIF. EL BOLON,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3020
+06884,884,2,CAMBIADOR DE ZAMORA,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_08243
+06888,888,1,PEDRALBA AG KM 112.4,False,Pedralba de la Pradería,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3122
+06888,888,2,CAMBIADOR ANCHO PEDRALBA,False,Pedralba de la Pradería,Zamora,Castilla y León,within,0.0,TN_RailwayNode_08248
+06894,894,1,"TABOADELA AG. KM. 447,1",False,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_A8249
+06894,894,2,CAMBIADOR DE TABOADELA,False,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_08255
+08360,360,1,CARTAGENA PZ BAS,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_05951
+08360,360,2,LOS NIETOS,True,Cartagena,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_05977
+08740,740,1,FERROL,True,Ferrol,A Coruña,Galicia,within,0.0,TN_RailwayNode_21010
+08740,740,2,XUVIA,True,Narón,A Coruña,Galicia,within,0.0,TN_RailwayNode_05107
+08740,740,3,SAN SADURNIÑO,True,San Sadurniño,A Coruña,Galicia,within,0.0,TN_RailwayNode_05115
+08740,740,4,CERDIDO,True,Moeche,A Coruña,Galicia,within,0.0,TN_RailwayNode_05127
+08740,740,5,ORTIGUEIRA,True,Ortigueira,A Coruña,Galicia,within,0.0,TN_RailwayNode_05139
+08740,740,6,O BARQUEIRO,True,Mañón,A Coruña,Galicia,within,0.0,TN_RailwayNode_05145
+08740,740,7,XOVE,True,Xove,Lugo,Galicia,within,0.0,TN_RailwayNode_05161
+08740,740,8,RIBADEO,True,Ribadeo,Lugo,Galicia,within,0.0,TN_RailwayNode_05193
+08740,740,9,VEGADEO PUEBLO,True,Castropol,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05197
+08740,740,10,NAVIA,True,Navia,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05283
+08740,740,11,CUDILLERO,True,Cudillero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05245
+08740,740,12,PRAVIA,True,Pravia,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05325
+08750,750,1,PRAVIA,True,Pravia,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05325
+08750,750,2,LA MARUCA MERCANCIAS,True,Avilés,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05223
+08750,750,3,AVILES,True,Avilés,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_16403
+08750,750,4,TRASONA,True,Corvera de Asturias,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05217
+08750,750,5,CANDAS,True,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05211
+08750,750,6,AG ENLACE VERIÑA,False,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_A1984
+08750,750,7,ABOÑO APD,False,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05207
+08750,750,8,GIJON-SANZ CRESPO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15410
+08752,752,1,GIJON-SANZ CRESPO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15410
+08752,752,2,SOTIELLO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05405
+08752,752,3,LA FLORIDA,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05411
+08752,752,4,EL BERRON,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05509
+08752,752,5,CARBAYIN,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05417
+08752,752,6,CURUXONA,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05420
+08752,752,7,LA FELGUERA VEGA,True,Langreo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05425
+08752,752,8,LA FELGUERA-LANGREO CENTRO,True,Langreo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05426
+08752,752,9,SAMA LOS LLERONES (histórica),True,Langreo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05429
+08752,752,10,SAMA LOS LLERONES,True,Langreo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05427
+08752,752,11,LAVIANA,True,Laviana,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05443
+08754,754,1,SOTIELLO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05405
+08754,754,2,AG.ENL.SOTIELLO,False,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_A1983
+08754,754,3,PUERTO EL MUSEL,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05447
+08756,756,1,ABOÑO APD,False,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05207
+08756,756,2,AG ENLACE VERIÑA,False,Carreño,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_A1984
+08756,756,3,AG.ENL.SOTIELLO,False,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_A1983
+08756,756,4,SOTIELLO,True,Gijón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05405
+08758,758,1,LA MARUCA MERCANCIAS,True,Avilés,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05223
+08758,758,2,PUERTO AVILES,True,Avilés,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05226
+08760,760,1,OVIEDO,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15211
+08760,760,2,SOTO UDRION,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05308
+08760,760,3,TRUBIA,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05311
+08762,762,1,TRUBIA,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05311
+08762,762,2,SOTO UDRION,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05308
+08762,762,3,PRAVIA,True,Pravia,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05325
+08762,762,4,SAN ESTEBAN,True,Muros de Nalón,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05329
+08764,764,1,TRUBIA,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05311
+08764,764,2,SOTO DE RIBERA,True,Ribera de Arriba,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05353
+08764,764,3,BAIÑA,True,Mieres,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05361
+08764,764,4,ABLAÑA,True,Mieres,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15205
+08764,764,5,MIERES VASCO,True,Mieres,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05369
+08764,764,6,FIGAREDO,True,Mieres,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05373
+08764,764,7,MOREDA DE ALLER,True,Aller,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05379
+08764,764,8,COLLANZO,True,Aller,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05389
+08770,770,1,SANTANDER,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14223
+08770,770,2,SANTANDER MERCANCIAS,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05650
+08770,770,3,VALDECILLA LA MARGA,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05602
+08770,770,4,TORRELAVEGA CENTRO,True,Torrelavega,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05621
+08770,770,5,PUENTE SAN MIGUEL,True,Reocín,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05623
+08770,770,6,CABEZON DE LA SAL,True,Cabezón de la Sal,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05637
+08770,770,7,UNQUERA,True,Val de San Vicente,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05649
+08770,770,8,LLANES,True,Llanes,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05571
+08770,770,9,RIBADESELLA,True,Ribadesella,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05553
+08770,770,10,LLOVIO,True,Ribadesella,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05551
+08770,770,11,ARRIONDAS,True,Parres,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05543
+08770,770,12,INFIESTO APD,False,Piloña,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05534
+08770,770,13,NAVA,True,Nava,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05523
+08770,770,14,POLA DE SIERO,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05513
+08770,770,15,LA CARRERA DE SIERO,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05511
+08770,770,16,EL BERRON,True,Siero,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05509
+08770,770,17,OVIEDO,True,Oviedo,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15211
+08772,772,1,OREJO,True,Marina de Cudeyo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05663
+08772,772,2,SOLARES,True,Medio Cudeyo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05665
+08772,772,3,LIERGANES,True,Liérganes,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05671
+08774,774,1,MALIAÑO VIDRIERA,True,Camargo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05655
+08774,774,2,PUERTO RAOS,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05600
+08776,776,1,LLOVIO,True,Ribadesella,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05551
+08776,776,2,RIBADESELLA PUERTO,True,Ribadesella,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05552
+08778,778,1,LLOVIO,True,Ribadesella,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05551
+08778,778,2,RIBADESELLA PUERTO,True,Ribadesella,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_05552
+08780,780,1,VALDECILLA LA MARGA,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05602
+08780,780,2,MALIAÑO VIDRIERA,True,Camargo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05655
+08780,780,3,SANTANDER MERCANCIAS,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05650
+08780,780,4,SANTANDER,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14223
+08780,780,5,LA CANTABRICA,True,El Astillero,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05658
+08780,780,6,OREJO,True,Marina de Cudeyo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05663
+08780,780,7,MARRON,True,Ampuero,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05687
+08780,780,8,KARRANZA,True,Karrantza Harana,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05497
+08780,780,9,ARANGUREN,True,Zalla,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05473
+08780,780,10,IRAUREGUI,True,Alonsotegi,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05461
+08780,780,11,BASURTO HOSPITAL,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05455
+08780,780,12,BILBAO LA CONCORDIA,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05451
+08782,782,1,BASURTO HOSPITAL,True,Bilbao,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05455
+08782,782,2,ARIZ,True,Basauri,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05713
+08784,784,1,IRAUREGUI,True,Alonsotegi,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05461
+08784,784,2,LUTXANA-BARAKALDO,True,Barakaldo,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_13305
+08786,786,1,OREJO,True,Marina de Cudeyo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05663
+08786,786,2,SOLARES,True,Medio Cudeyo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05665
+08786,786,3,LIERGANES,True,Liérganes,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05671
+08788,788,1,PUERTO RAOS,True,Santander,Cantabria,Cantabria,within,0.0,TN_RailwayNode_05600
+08788,788,2,MALIAÑO (APD),False,Camargo,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14220
+08790,790,1,LA ASUNCION UNIVERSIDAD,True,León,León,Castilla y León,within,0.0,TN_RailwayNode_05803
+08790,790,2,SAN FELIZ,True,Garrafe de Torío,León,Castilla y León,within,0.0,TN_RailwayNode_05776
+08790,790,3,MATALLANA,True,Matallana de Torío,León,Castilla y León,within,0.0,TN_RailwayNode_05770
+08790,790,4,BOÑAR,True,Boñar,León,Castilla y León,within,0.0,TN_RailwayNode_05766
+08790,790,5,CISTIERNA,True,Cistierna,León,Castilla y León,within,0.0,TN_RailwayNode_05761
+08790,790,6,GUARDO,True,Guardo,Palencia,Castilla y León,within,0.0,TN_RailwayNode_05754
+08790,790,7,GUARDO APD,False,Guardo,Palencia,Castilla y León,within,0.0,TN_RailwayNode_05753
+08790,790,8,MATAPORQUERA,True,Valdeolea,Cantabria,Cantabria,within,0.0,TN_RailwayNode_14200
+08790,790,9,ARIJA,True,Arija,Burgos,Castilla y León,within,0.0,TN_RailwayNode_05740
+08790,790,10,LA CALZADA,True,Balmaseda,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05485
+08790,790,11,BALMASEDA V.,True,Balmaseda,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05483
+08790,790,12,ARANGUREN,True,Zalla,Bizkaia,País Vasco,within,0.0,TN_RailwayNode_05473
+08792,792,1,MATALLANA,True,Matallana de Torío,León,Castilla y León,within,0.0,TN_RailwayNode_05770
+08792,792,2,LA ROBLA,True,La Robla,León,Castilla y León,within,0.0,TN_RailwayNode_15106
+08794,794,1,GUARDO,True,Guardo,Palencia,Castilla y León,within,0.0,TN_RailwayNode_05754
+08794,794,2,TERMICA VELILLA,True,Velilla del Río Carrión,Palencia,Castilla y León,within,0.0,TN_RailwayNode_05779
+11072,072,1,CTT FUENCARRAL AV,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A0720
+11072,072,2,"M-CHAMARTIN-AG. KM. 1,5",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A0801
+11072,072,3,CAMBIADOR MADRID-CHAMARTIN,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_08011
+11074,074,1,BIFURCACIÓN MEDINA,False,Olmedo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0740
+11074,074,2,CAMBIADOR MEDINA DEL CAMPO,False,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08200
+11076,076,1,BIF. CAMBIADOR VALDESTILLAS,False,Valdestillas,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0802
+11076,076,2,CAMBIADOR VALDESTILLAS,False,Valdestillas,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08012
+11078,078,1,VALLADOLID-CAMPO GRANDE,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10600
+11078,078,2,CAMBIADOR VALLADOLID C. GRANDE,False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08010
+11080,080,1,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+11080,080,2,"M-CHAMARTIN-AG. KM. 1,5",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A0801
+11080,080,3,"KM. 51,878",False,Rascafría,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_C0809
+11080,080,4,SEGOVIA-GUIOMAR,True,Segovia,Segovia,Castilla y León,within,0.0,TN_RailwayNode_08004
+11080,080,5,"PK KM. 126,7",False,Fuente de Santa Cruz,Segovia,Castilla y León,within,0.0,TN_RailwayNode_C0812
+11080,080,6,BIFURCACIÓN MEDINA,False,Olmedo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0740
+11080,080,7,VALDESTILLAS-A.V.,True,Valdestillas,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08009
+11080,080,8,BIF. CAMBIADOR VALDESTILLAS,False,Valdestillas,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0802
+11080,080,9,VALLADOLID-CAMPO GRANDE,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10600
+11080,080,10,BIF. CANAL DUERO,False,Santovenia de Pisuerga,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0810
+11080,080,11,DUEÑAS AV,True,Dueñas,Palencia,Castilla y León,within,0.0,TN_RailwayNode_08014
+11080,080,12,BIF. VENTA DE BAÑOS,False,Venta de Baños,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0814
+11080,080,13,BIF. SOTO,False,Soto de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0815
+11080,080,14,BIF. LA VEGA,False,Soto de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0816
+11080,080,15,RIO ARLANZON,False,Revilla Vallejera,Burgos,Castilla y León,within,0.0,TN_RailwayNode_08016
+11080,080,16,BURGOS-ROSA MANZANO,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11014
+11084,084,1,BIF. VENTA DE BAÑOS,False,Venta de Baños,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0814
+11084,084,2,BIF. CERRATO,False,Villamuriel de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0817
+11084,084,3,PALENCIA,True,Palencia,Palencia,Castilla y León,within,0.0,TN_RailwayNode_14100
+11084,084,4,BIF. LAS BARRERAS,False,Valle del Retortillo,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0818
+11084,084,5,VILLADA AV,True,Villada,Palencia,Castilla y León,within,0.0,TN_RailwayNode_08203
+11084,084,6,LAS ARENAS,True,Bercianos del Real Camino,León,Castilla y León,within,0.0,TN_RailwayNode_08190
+11084,084,7,BIF. LAS ARENAS,False,Bercianos del Real Camino,León,Castilla y León,within,0.0,TN_RailwayNode_B0819
+11084,084,8,BIF. VILECHA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_B0823
+11084,084,9,VILECHA,True,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_08230
+11084,084,10,BIF. CAMB. VILECHA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_A0823
+11084,084,11,BIF. ESTADIO MUNICIPAL,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B0824
+11084,084,12,LEON,True,León,León,Castilla y León,within,0.0,TN_RailwayNode_15100
+11114,114,1,BIF. CANAL DUERO,False,Santovenia de Pisuerga,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0810
+11114,114,2,"KM 192,7",False,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0811
+11114,114,3,COMPLEJO FERROVIARIO MERC.,True,Valladolid,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_10620
+11136,136,1,BURGOS-ROSA MANZANO,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_11014
+11136,136,2,CAMB. BURGOS,True,Burgos,Burgos,Castilla y León,within,0.0,TN_RailwayNode_08020
+11158,158,1,BIF. CERRATO,False,Villamuriel de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0817
+11158,158,2,CAMBIADOR VILLAMURIEL,False,Villamuriel de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_08201
+11170,170,1,BIF. CERRATO,False,Villamuriel de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0817
+11170,170,2,BIF. SOTO,False,Soto de Cerrato,Palencia,Castilla y León,within,0.0,TN_RailwayNode_B0815
+11180,180,1,CAMBIADOR CLASIFICACION,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_08206
+11180,180,2,BIF. ESTADIO MUNICIPAL,False,León,León,Castilla y León,within,0.0,TN_RailwayNode_B0824
+11186,186,1,BIF. CAMB. VILECHA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_A0823
+11186,186,2,CAMBIADOR VILECHA,False,Onzonilla,León,Castilla y León,within,0.0,TN_RailwayNode_08205
+11984,984,1,POLA DE LENA,True,Lena,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_15122
+11984,984,2,"AG. CAMB. KM. 411,6",False,Lena,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_A0851
+11984,984,3,"AG. CAMB. KM. 410,7",False,Lena,Asturias,Principado de Asturias,within,0.0,TN_RailwayNode_A0849
+11984,984,4,"PK. 388,235",False,Villamanín,León,Castilla y León,within,0.0,TN_RailwayNode_C8825
+11984,984,5,BIF. PAJARES,False,Cuadros,León,Castilla y León,within,0.0,TN_RailwayNode_B0820
+12050,050,1,MADRID-P. DE ATOCHA ALMUDENA GRANDES,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60000
+12050,050,2,"KM. 2,8",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_C4003
+12050,050,3,BIF. CERRO NEGRO/STA. CATALINA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B6000
+12050,050,4,"VALLECAS AV - AGUJA KM.12,300",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B6001
+12050,050,5,"PK KM. 53,8",False,Los Santos de la Humosa,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_C4001
+12050,050,6,GUADALAJARA-YEBES,True,Yebes,Guadalajara,Castilla-La Mancha,within,0.0,TN_RailwayNode_04007
+12050,050,7,MEDINACELI-A.V.,True,Arcos de Jalón,Soria,Castilla y León,within,0.0,TN_RailwayNode_04015
+12050,050,8,"PK KM. 174,7",False,Alconchel de Ariza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_C4002
+12050,050,9,CALATAYUD,True,Calatayud,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70600
+12050,050,10,BIF. CAMBIADOR PLASENCIA DE JALON,False,Plasencia de Jalón,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4015
+12050,050,11,GUALLAR,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_04030
+12050,050,12,BIF. MONCASI,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4030
+12050,050,13,BIF. CANAL IMPERIAL,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4043
+12050,050,14,EL BURGO DE EBRO-A.V.,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_04044
+12050,050,15,VALFARTA,True,La Almolda,Zaragoza,Aragón,within,0.0,TN_RailwayNode_04050
+12050,050,16,VALLMANYA,True,Alcarràs,Lleida,Cataluña,within,0.0,TN_RailwayNode_04054
+12050,050,17,BIF. LES TORRES DE SANUI,False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B4054
+12050,050,18,BIF. ARTESA DE LLEIDA,False,Artesa de Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B4100
+12050,050,19,LES BORGES BLANQUES-A. V.,True,Les Borges Blanques,Lleida,Cataluña,within,0.0,TN_RailwayNode_04101
+12050,050,20,"PK KM. 482,6",False,Tarrés,Lleida,Cataluña,within,0.0,TN_RailwayNode_C0428
+12050,050,21,BIF.  LA GATELLADA,False,Alcover,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B4106
+12050,050,22,CAMP DE TARRAGONA,True,La Secuita,Tarragona,Cataluña,within,0.0,TN_RailwayNode_04104
+12050,050,23,BIF CBDOR RODA,False,La Pobla de Montornès,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B4103
+12050,050,24,LARBOÇ-A. V.,True,L'Arboç,Tarragona,Cataluña,within,0.0,TN_RailwayNode_04106
+12050,050,25,BIF. CAN TUNIS-A. V.,False,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B4104
+12050,050,26,BARCELONA-SANTS,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_71801
+12050,050,27,LA SAGRERA AV,True,Barcelona,Barcelona,Cataluña,within,0.0,TN_RailwayNode_04320
+12050,050,28,BIF. MOLLET,False,Mollet del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B4300
+12050,050,29,"KM. 641,5 (BIFURCACIÓN CLOT)",False,Mollet del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79001
+12050,050,30,"AGUJA KM. 645,0",False,Montornès del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79003
+12050,050,31,RIELLS-A. V.,True,Sant Feliu de Buixalleu,Girona,Cataluña,within,0.0,TN_RailwayNode_04303
+12050,050,32,BASE MTO. RIELLS,True,Sant Feliu de Buixalleu,Girona,Cataluña,within,0.0,TN_RailwayNode_04305
+12050,050,33,BIF. GIRONA-MERCANCIAS,False,Fornells de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_79010
+12050,050,34,BIF. GIRONA-MERCADERIES,False,Fornells de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_B4303
+12050,050,35,GIRONA,True,Girona,Girona,Cataluña,within,0.0,TN_RailwayNode_79300
+12050,050,36,FIGUERES-VILAFANT,True,Vilafant,Girona,Cataluña,within,0.0,TN_RailwayNode_04307
+12050,050,37,LIMITE ADIF - LFPSA,False,Llers,Girona,Cataluña,within,0.0,TN_RailwayNode_04313
+12052,052,1,BIF. CAMBIADOR PLASENCIA DE JALON,False,Plasencia de Jalón,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4015
+12052,052,2,CAMBIADOR PLASENCIA DE JALÓN,False,Plasencia de Jalón,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70715
+12054,054,1,BIF. MONCASI,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4030
+12054,054,2,BIF. CAMBIADOR ZARAGOZA-DELICIAS,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_04031
+12054,054,3,ZARAGOZA DELICIAS,True,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_04040
+12054,054,4,BIF. HUESCA,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4041
+12054,054,5,BIF. CAMBIADOR MIRAFLORES,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4042
+12054,054,6,BIF. CANAL IMPERIAL,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4043
+12056,056,1,BIF. ARTESA DE LLEIDA,False,Artesa de Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B4100
+12056,056,2,BIF. CAMBIADOR LLEIDA,False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B7840
+12056,056,3,LLEIDA-PIRINEUS,True,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_78400
+12056,056,4,BIF. LES TORRES DE SANUI,False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B4054
+12058,058,1,BIF. CAMBIADOR LLEIDA,False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B7840
+12058,058,2,CAMBIADOR LLEIDA,False,Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_73020
+12060,060,1,CAMBIADOR ZARAGOZA DELICIAS,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_70899
+12060,060,2,BIF. CAMBIADOR ZARAGOZA-DELICIAS,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_04031
+12062,062,1,BIF. CAMBIADOR PUIGVERD,False,Artesa de Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_B4102
+12062,062,2,CAMBIADOR DE PUIGVERD,False,Puigverd de Lleida,Lleida,Cataluña,within,0.0,TN_RailwayNode_73023
+12064,064,1,RODA DE BARA-CAMB. DE ANCHO,True,Roda de Berà,Tarragona,Cataluña,within,0.0,TN_RailwayNode_04200
+12064,064,2,BIF CBDOR RODA,False,La Pobla de Montornès,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B4103
+12066,066,1,BIF. CAN TUNIS-A. V.,False,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B4104
+12066,066,2,CAN TUNIS-A. V.,True,L'Hospitalet de Llobregat,Barcelona,Cataluña,within,0.0,TN_RailwayNode_A0660
+12068,068,1,"VALLECAS AV - AGUJA KM.12,300",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B6001
+12068,068,2,"LOS GAVILANES - AGUJA KM. 13,400",False,Getafe,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B3710
+12070,070,1,BIF. HUESCA,False,Zaragoza,Zaragoza,Aragón,within,0.0,TN_RailwayNode_B4041
+12070,070,2,"KM. 40,0",False,Gurrea de Gállego,Huesca,Aragón,within,0.0,TN_RailwayNode_C7805
+12070,070,3,TARDIENTA,True,Tardienta,Huesca,Aragón,within,0.0,TN_RailwayNode_78200
+12070,070,4,BIF. CANFRANC,False,Monflorite-Lascasas,Huesca,Aragón,within,0.0,TN_RailwayNode_B7800
+12070,070,5,BIF. HOYA DE HUESCA,False,Huesca,Huesca,Aragón,within,0.0,TN_RailwayNode_B7801
+12070,070,6,HUESCA - CAMBIADOR DE ANCHO,False,Huesca,Huesca,Aragón,within,0.0,TN_RailwayNode_74199
+12070,070,7,HUESCA,True,Huesca,Huesca,Aragón,within,0.0,TN_RailwayNode_74200
+12280,280,1,BIF. NUDO MOLLET,False,Santa Perpètua de Mogoda,Barcelona,Cataluña,within,0.0,TN_RailwayNode_72507
+12280,280,2,BIF. MOLLET,False,Mollet del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_B4300
+12292,292,1,"P.K.643,0 ( MONTMELO-AG.KM.127,4 )",False,Montmeló,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79013
+12292,292,2,"KM. 641,5 (BIFURCACIÓN CLOT)",False,Mollet del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79001
+12296,296,1,LA LLAGOSTA MERCADERIES,True,Montmeló,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79012
+12296,296,2,"AGUJA KM. 645,0",False,Montornès del Vallès,Barcelona,Cataluña,within,0.0,TN_RailwayNode_79003
+12298,298,1,GIRONA-MERCADERIES,True,Girona,Girona,Cataluña,within,0.0,TN_RailwayNode_79206
+12298,298,2,BIF. GIRONA-MERCADERIES,False,Fornells de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_B4303
+12298,298,3,BIF. GIRONA-MERCANCIAS,False,Fornells de la Selva,Girona,Cataluña,within,0.0,TN_RailwayNode_79010
+12640,640,1,CAMBIADOR DE LA BOELLA,False,Reus,Tarragona,Cataluña,within,0.0,TN_RailwayNode_04120
+12640,640,2,BIF. LA XACONA,False,Perafort,Tarragona,Cataluña,within,0.0,TN_RailwayNode_B4105
+12640,640,3,CAMP DE TARRAGONA,True,La Secuita,Tarragona,Cataluña,within,0.0,TN_RailwayNode_04104
+13024,024,1,"YELES AGUJA KM.34,397",False,Torrejón de Velasco,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A6000
+13024,024,2,BIF. BLANCALES,False,Torrejón de Velasco,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B0903
+13040,040,1,BIF. JESUS,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B0323
+13040,040,2,"BIF. JESUS-AGUJA KM. 396,7",False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A0320
+13040,040,3,VALENCIA-JOAQUIN SOROLLA,True,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_03216
+13040,040,4,BIF. XATIVA,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B0321
+13040,040,5,REQUENA-UTIEL,True,Requena,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_03213
+13040,040,6,MINGLANILLA,True,Minglanilla,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_03211
+13040,040,7,BIF. ALBACETE,False,Gabaldón,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_B0320
+13040,040,8,CUENCA - FERNANDO ZOBEL,True,Cuenca,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_03208
+13040,040,9,SANTA CRUZ DE LA ZARZA-A. V.,True,Santa Cruz de la Zarza,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_03204
+13040,040,10,VALDEMORO-A. V.,True,Valdemoro,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_03201
+13040,040,11,BIF. BLANCALES,False,Torrejón de Velasco,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B0903
+13040,040,12,BIF. TORREJON DE VELASCO,False,Torrejón de Velasco,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B0900
+13040,040,13,"BOCA SUR TUNEL CH-ATOCHA/AG KM 7,740",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B0888
+13040,040,14,MADRID-JARDIN BOTANICO,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_03200
+13040,040,15,MADRID-CHAMARTIN-CLARA CAMPOAMOR,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_17000
+13042,042,1,BIF. ALBACETE,False,Gabaldón,Cuenca,Castilla-La Mancha,within,0.0,TN_RailwayNode_B0320
+13042,042,2,TARAZONA,True,Tarazona de la Mancha,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_03301
+13042,042,3,ALBACETE - LOS LLANOS,True,Albacete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60600
+13042,042,4,CHINCHILLA A.V.,True,Chinchilla de Monte-Aragón,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_03305
+13042,042,5,BONETE A.V.,True,Bonete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_03306
+13042,042,6,BIF LA OLIVA,False,Almansa,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_B0331
+13042,042,7,BIF AGUAVERDE,False,Villena,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B0332
+13042,042,8,CAUDETE A.V.,True,Villena,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_03308
+13042,042,9,VILLENA A.V.,True,Villena,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_03309
+13042,042,10,BIF MURCIA,False,Novelda,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B0333
+13042,042,11,MONFORTE DEL CID A.V.,True,Monforte del Cid,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_03310
+13042,042,12,ALACANT-TERMINAL,False,Alacant,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_60911
+13044,044,1,BIF. JESUS,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_B0323
+13044,044,2,BIF. JOAQUIN SOROLLA-UIC,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A6422
+13046,046,1,BIF VINALOPO,False,Monforte del Cid,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B0340
+13046,046,2,BIF MURCIA,False,Novelda,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B0333
+13046,046,3,ELX AV,True,Elx,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_03410
+13046,046,4,CALLOSA DE SEGURA-COX,True,Callosa de Segura,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_03412
+13046,046,5,ORIHUELA - MIGUEL HERNANDEZ,True,Orihuela,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_62002
+13046,046,6,BENIEL,True,Beniel,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_62001
+13046,046,7,"EL REGUERON AG KM 522,1",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6133
+13048,048,1,BIF VINALOPO,False,Monforte del Cid,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_B0340
+13048,048,2,MONFORTE DEL CID A.V.,True,Monforte del Cid,Alacant,Comunitat Valenciana,within,0.0,TN_RailwayNode_03310
+13308,308,1,ALBACETE - LOS LLANOS,True,Albacete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_60600
+13308,308,2,CAMBIADOR ALBACETE,False,Albacete,Albacete,Castilla-La Mancha,within,0.0,TN_RailwayNode_03303
+13328,328,1,CAMBIADOR VALENCIA,False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_03217
+13328,328,2,"BIF. JESUS-AGUJA KM. 396,7",False,València,València,Comunitat Valenciana,within,0.0,TN_RailwayNode_A0320
+13354,354,1,"EL REGUERON AG KM 522,1",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6133
+13354,354,2,"EL REGUERON AGUJA KM 525,3",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6137
+13354,354,3,"MURCIA DEL CARMEN AG. KM 526,8",False,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_A6135
+13354,354,4,MURCIA DEL CARMEN,True,Murcia,Murcia,Región de Murcia,within,0.0,TN_RailwayNode_61200
+14010,010,1,SEVILLA-SANTA JUSTA,True,Sevilla,Sevilla,Andalucía,within,0.0,TN_RailwayNode_51003
+14010,010,2,MAJARABIQUE,True,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_37803
+14010,010,3,"PK KM. 394,4",False,Peñaflor,Sevilla,Andalucía,within,0.0,TN_RailwayNode_C3784
+14010,010,4,BIF. MALAGA-A. V.,False,Almodóvar del Río,Córdoba,Andalucía,within,0.0,TN_RailwayNode_B0200
+14010,010,5,CORDOBA-JULIO ANGUITA,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50500
+14010,010,6,BIF.CAMBIADOR ALCOLEA,False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_B3770
+14010,010,7,ARROYO DEL VALLE,True,Montoro,Córdoba,Andalucía,within,0.0,TN_RailwayNode_37316
+14010,010,8,CONQUISTA,True,Conquista,Córdoba,Andalucía,within,0.0,TN_RailwayNode_37703
+14010,010,9,PUERTOLLANO,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37700
+14010,010,10,PUERTOLLANO,True,Puertollano,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37300
+14010,010,11,CALATRAVA,True,Villamayor de Calatrava,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37210
+14010,010,12,CIUDAD REAL,True,Ciudad Real,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37200
+14010,010,13,MALAGON,True,Malagón,Ciudad Real,Castilla-La Mancha,within,0.0,TN_RailwayNode_37110
+14010,010,14,"PK KM. 137,7",False,Los Yébenes,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_C3715
+14010,010,15,LA SAGRA,True,Alameda de la Sagra,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_37113
+14010,010,16,YELES,True,Yeles,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_37006
+14010,010,17,"YELES AGUJA KM.34,397",False,Torrejón de Velasco,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A6000
+14010,010,18,BIF. TORREJON DE VELASCO,False,Torrejón de Velasco,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B0900
+14010,010,19,"LOS GAVILANES - AGUJA KM. 13,400",False,Getafe,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B3710
+14010,010,20,"KM. 2,8",False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_C4003
+14010,010,21,BIF. CERRO NEGRO/STA. CATALINA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B6000
+14010,010,22,MADRID-P. DE ATOCHA ALMUDENA GRANDES,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60000
+14012,012,1,MADRID-P. DE ATOCHA ALMUDENA GRANDES,True,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_60000
+14012,012,2,CAMBIADOR ATOCHA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_70004
+14014,014,1,BIF. GOBANTES,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0201
+14014,014,2,BIF. BOBADILLA,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0105
+14014,014,3,CAMBIADOR CORDOBA,False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_54001
+14014,014,4,CORDOBA-JULIO ANGUITA,True,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_50500
+14016,016,1,MAJARABIQUE,True,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_37803
+14016,016,2,CAMBIADOR MAJARABIQUE,False,La Rinconada,Sevilla,Andalucía,within,0.0,TN_RailwayNode_37805
+14018,018,1,BIF. CERRO NEGRO/STA. CATALINA,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_B6000
+14018,018,2,CTT CERRO NEGRO AV,False,Madrid,Madrid,Comunidad de Madrid,within,0.0,TN_RailwayNode_A0180
+14020,020,1,LA SAGRA,True,Alameda de la Sagra,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_37113
+14020,020,2,TOLEDO,True,Toledo,Toledo,Castilla-La Mancha,within,0.0,TN_RailwayNode_92102
+14022,022,1,CAMBIADOR ALCOLEA,False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_37706
+14022,022,2,BIF.CAMBIADOR ALCOLEA,False,Córdoba,Córdoba,Andalucía,within,0.0,TN_RailwayNode_B3770
+14030,030,1,BIF. MALAGA-A. V.,False,Almodóvar del Río,Córdoba,Andalucía,within,0.0,TN_RailwayNode_B0200
+14030,030,2,"PK KM. 17,3",False,Écija,Sevilla,Andalucía,within,0.0,TN_RailwayNode_C0216
+14030,030,3,"PK KM. 25,8",False,La Carlota,Córdoba,Andalucía,within,0.0,TN_RailwayNode_C0217
+14030,030,4,"PK KM. 51,8",False,Estepa,Sevilla,Andalucía,within,0.0,TN_RailwayNode_C0218
+14030,030,5,PUENTE GENIL - HERRERA,True,Puente Genil,Córdoba,Andalucía,within,0.0,TN_RailwayNode_02002
+14030,030,6,"PK KM. 82,5",False,Humilladero,Málaga,Andalucía,within,0.0,TN_RailwayNode_C0219
+14030,030,7,ANTEQUERA-SANTA ANA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_02003
+14030,030,8,BIF. GOBANTES,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0201
+14030,030,9,MALAGA MARIA ZAMBRANO,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_54413
+14030,030,10,LOS PRADOS-A. V.,True,Málaga,Málaga,Andalucía,within,0.0,TN_RailwayNode_02005
+14032,032,1,ANTEQUERA-SANTA ANA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_02003
+14032,032,2,CAMBIADOR ANTEQUERA,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_02020
+14036,036,1,GRANADA,True,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_05000
+14036,036,2,BIF. LA CHANA,False,Granada,Granada,Andalucía,within,0.0,TN_RailwayNode_B0110
+14036,036,3,BIF. TOCON,False,Íllora,Granada,Andalucía,within,0.0,TN_RailwayNode_B0109
+14036,036,4,LOJA,True,Loja,Granada,Andalucía,within,0.0,TN_RailwayNode_05012
+14036,036,5,BIF. RIOFRIO,False,Loja,Granada,Andalucía,within,0.0,TN_RailwayNode_B0107
+14036,036,6,"KM 141,417",False,Loja,Granada,Andalucía,within,0.0,TN_RailwayNode_C0111
+14036,036,7,ANTEQUERA AV,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_02030
+14036,036,8,BIF. BOBADILLA,False,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_B0105
+14036,036,9,ANTEQUERA-SANTA ANA,True,Antequera,Málaga,Andalucía,within,0.0,TN_RailwayNode_02003
+14036,036,10,BIF. ARCHIDONA,False,Utrera,Sevilla,Andalucía,within,0.0,TN_RailwayNode_B0101
+15026,026,1,PLASENCIA,True,Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_30002
+15026,026,2,BIF. SAN ESTEBAN,False,Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3501
+15026,026,3,ARROYO DE LA HERRERA,True,Malpartida de Plasencia,Cáceres,Extremadura,within,0.0,TN_RailwayNode_03500
+15026,026,4,BIF. CASA DE LA TORRE,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3503
+15026,026,5,BIF. EL PALMERAL,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3502
+15026,026,6,CACERES,True,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_35400
+15026,026,7,CACERES AG. KM. 82.2,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_A3540
+15026,026,8,BIF. ROMANOS,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3600
+15026,026,9,BIF. LA ALDIHUELA,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3601
+15026,026,10,KM. 114.116,False,Carmonita,Badajoz,Extremadura,within,0.0,TN_RailwayNode_C3602
+15026,026,11,PEÑAS BLANCAS,True,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3602
+15026,026,12,BIF. GRANJA LAS ENCINAS,False,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3603
+15026,026,13,BIF. LA ISLA,False,La Garrovilla,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3750
+15026,026,14,MONTIJO,True,Montijo,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37603
+15026,026,15,"AG. KM. 160,4",False,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_A3760
+15026,026,16,BIF. SAN NICOLAS,False,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3760
+15626,626,1,CACERES AG. KM. 82.2,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_A3540
+15626,626,2,BIF. ROMANOS,False,Cáceres,Cáceres,Extremadura,within,0.0,TN_RailwayNode_B3600
+15626,626,3,KM. 114.116,False,Carmonita,Badajoz,Extremadura,within,0.0,TN_RailwayNode_C3602
+15626,626,4,PEÑAS BLANCAS,True,Mérida,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3602
+15926,926,1,BIF. LA ISLA,False,La Garrovilla,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3750
+15926,926,2,MONTIJO,True,Montijo,Badajoz,Extremadura,within,0.0,TN_RailwayNode_37603
+15926,926,3,"AG. KM. 160,4",False,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_A3760
+15926,926,4,BIF. SAN NICOLAS,False,Badajoz,Badajoz,Extremadura,within,0.0,TN_RailwayNode_B3760
+16082,082,1,BIF. COTO DA TORRE,False,Ourense,Ourense,Galicia,within,0.0,TN_RailwayNode_B0860
+16082,082,2,O IRIXO-A. V.,True,O Irixo,Ourense,Galicia,within,0.0,TN_RailwayNode_08222
+16082,082,3,"KM. 70,136",False,Vedra,A Coruña,Galicia,within,0.0,TN_RailwayNode_C0865
+16082,082,4,"BIF. A GRANDEIRA AG. KM. 85,0",False,Santiago de Compostela,A Coruña,Galicia,within,0.0,TN_RailwayNode_B0861
+16190,190,1,MEDINA DEL CAMPO AV,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08240
+16190,190,2,CAMB. MEDINA DEL CAMPO AV,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08241
+16886,886,1,ZAMORA,True,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_30200
+16886,886,2,CAMBIADOR DE ZAMORA,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_08243
+16890,890,1,BIF. PEDRALBA,False,Puebla de Sanabria,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3120
+16890,890,2,CAMBIADOR ANCHO PEDRALBA,False,Pedralba de la Pradería,Zamora,Castilla y León,within,0.0,TN_RailwayNode_08248
+16892,892,1,"TABOADELA AV AG KM 446,1",False,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_A8248
+16892,892,2,CAMBIADOR DE TABOADELA,False,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_08255
+16982,982,1,"TABOADELA AG. KM. 234,0",False,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_A8250
+16982,982,2,"TABOADELA AG. KM. 447,1",False,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_A8249
+16982,982,3,"TABOADELA AV AG KM 446,1",False,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_A8248
+16982,982,4,TABOADELA AV,True,Taboadela,Ourense,Galicia,within,0.0,TN_RailwayNode_08253
+16982,982,5,VILAVELLA,True,A Mezquita,Ourense,Galicia,within,0.0,TN_RailwayNode_08250
+16982,982,6,BIF. PEDRALBA,False,Puebla de Sanabria,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3120
+16982,982,7,SANABRIA A.V.,True,Palacios de Sanabria,Zamora,Castilla y León,within,0.0,TN_RailwayNode_08247
+16982,982,8,BIFURCACION LOS CONFORCOS,False,La Hiniesta,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B0843
+16982,982,9,BIFURCACION LA HINIESTA,False,La Hiniesta,Zamora,Castilla y León,within,0.0,TN_RailwayNode_A0843
+16982,982,10,BIF. VALORIO,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3021
+16982,982,11,BIF. EL BOLON,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3020
+16982,982,12,ZAMORA AG. KM. 233.0,False,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B3019
+16982,982,13,ZAMORA,True,Zamora,Zamora,Castilla y León,within,0.0,TN_RailwayNode_30200
+16982,982,14,BIF. CORESES,False,Coreses,Zamora,Castilla y León,within,0.0,TN_RailwayNode_B0840
+16982,982,15,PAET TORO AV,True,Toro,Zamora,Castilla y León,within,0.0,TN_RailwayNode_08242
+16982,982,16,MEDINA DEL CAMPO AV,True,Medina del Campo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_08240
+16982,982,17,BIFURCACIÓN MEDINA,False,Olmedo,Valladolid,Castilla y León,within,0.0,TN_RailwayNode_B0740

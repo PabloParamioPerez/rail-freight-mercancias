@@ -8,8 +8,14 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
     hooks:
+      # data/ holds pinned inputs (the committed IDEAdif snapshot) and generated
+      # artefacts (maps, CSVs) — never hand-edited source, so the whitespace and
+      # large-file hooks must not touch or reject them (see data/README.md).
       - id: end-of-file-fixer
+        exclude: ^data/
       - id: trailing-whitespace
+        exclude: ^data/
       - id: check-yaml
       - id: check-added-large-files
         args: [--maxkb=2048]
+        exclude: ^data/
